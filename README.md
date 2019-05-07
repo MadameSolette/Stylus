@@ -1,2 +1,2 @@
 # Stylus
-Stylus Website Styles
+Website Themes
