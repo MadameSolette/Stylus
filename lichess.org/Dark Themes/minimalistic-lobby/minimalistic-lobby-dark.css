@@ -1,3 +1,14 @@
+/* ==UserStyle==
+@name         Dark Minimalistic Lobby
+@version      1.0.0
+@description  Dark Stylus theme for lichess.org
+@namespace    https://github.com/MadameSolette/Stylus/tree/master/lichess.org/Dark%20Themes/minimalistic-lobby
+@author       MadameSolette
+@homepageURL  https://github.com/MadameSolette/Stylus/tree/master/lichess.org/Dark%20Themes/minimalistic-lobby
+@supportURL   https://github.com/MadameSolette/Stylus/issues
+@updateURL    https://github.com/MadameSolette/Stylus/blob/master/lichess.org/Dark%20Themes/minimalistic-lobby/minimalistic-lobby-dark.css
+==/UserStyle== */
+@-moz-document regexp("chrome-extension://.*") {
 /* Dark Theme */
 @import 'https://lichess1.org/assets/_OsMK53/css/site.dark.min.css';
 @import 'https://lichess1.org/assets/_OsMK53/css/lobby.dark.min.css';
@@ -80,4 +91,5 @@ group.radio label {
 .lobby__app {
     height: 700px;
     width: 700px;
+}
 }
