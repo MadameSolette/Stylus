@@ -6,7 +6,7 @@
 # CSS Codes:
 [![Minimalistic Lobby Dark](https://img.shields.io/badge/Minimalistic%20Lobby-Dark-2B2721.svg?style=popout&logoColor=007ACC&labelColor=B58863&logo=visual-studio-code)](https://raw.githubusercontent.com/MadameSolette/Stylus/master/lichess.org/minimalistic-lobby-dark.css)
 
-[![Minimalistic Lobby Default](https://img.shields.io/badge/Minimalistic%20Lobby-Default-F0D9B5.svg?style=popout&logoColor=007ACC&labelColor=B58863&logo=visual-studio-code)](https://raw.githubusercontent.com/MadameSolette/Stylus/master/lichess.org/minimalistic-lobby-default.css)
+[![Minimalistic Lobby Transparent](https://img.shields.io/badge/Minimalistic%20Lobby-Transparent-F0D9B5.svg?style=popout&logoColor=007ACC&labelColor=B58863&logo=visual-studio-code)](https://raw.githubusercontent.com/MadameSolette/Stylus/master/lichess.org/minimalistic-lobby-transparent.css)
 
 [![Minimalistic 0Lobby Light](https://img.shields.io/badge/Minimalistic%20Lobby-Light-C0BCB6.svg?style=popout&logoColor=007ACC&labelColor=B58863&logo=visual-studio-code)](https://raw.githubusercontent.com/MadameSolette/Stylus/master/lichess.org/minimalistic-lobby-light.css)
 
