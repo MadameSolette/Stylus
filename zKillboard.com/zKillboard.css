@@ -1,0 +1,37 @@
+body {
+    background-color: #282828;
+    background-image: none;
+}
+.navbar-default {
+    background-color: #1a1a1a;
+    box-shadow: 0 0 5px 5px #1a1a1a;
+    border-color: transparent;
+    border-radius: 0px;
+}
+.nobackground {
+    background-color: #222222;
+    box-shadow: 0 0 5px 5px #222222;
+}
+table,
+.table .table,
+.alltime-ranks {
+    background-color: #1a1a1a;
+}
+.table-striped>tbody>tr:nth-child(odd)>td {
+    background-color: #222222;
+}
+.table tbody tr.winwin td {
+    background-color: #001600;
+}
+.table tbody tr.error td {
+    background-color: #2F0202;
+}
+.table>thead>tr>td,
+.table-striped>tbody>tr:nth-child(odd)>th,
+.no-stripe {
+    background-color: #282828;
+}
+#adsensetop,
+#adsensebottom {
+    display: none;
+}
