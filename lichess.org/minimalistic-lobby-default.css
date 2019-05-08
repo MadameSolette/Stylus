@@ -1,0 +1,58 @@
+/* Default Theme */
+/* https://github.com/MadameSolette/Stylus/tree/master/lichess.org */
+
+/* Lobby */
+.lobby__table,
+.lobby__side,
+.lobby__leaderboard,
+.lobby__winners,
+.lobby__tournaments,
+.lobby__simuls,
+.lobby__forum,
+.lobby__blog,
+.lobby__support,
+.lobby__about,
+.lobby__tv,
+.lobby__puzzle {
+    display: none !important;
+}
+
+/* TV */
+.tv-history {
+    display: none;
+}
+
+/* Titel Shadows */
+.button.button-empty:not(.disabled):hover,
+.button.button-empty.button-green:not(.disabled):hover,
+.button.button-empty.button-red:not(.disabled):hover,
+.button.button-metal,
+#friend_box .friend_box_title,
+.btn-rack__btn,
+.btn-rack form {
+    text-shadow: 0 1px 0 transparent;
+}
+.button.button-metal:not(.disabled):hover,
+#friend_box .friend_box_title:hover,
+.btn-rack__btn:hover,
+.btn-rack form:hover {
+    text-shadow: 0 1px 0 transparent;
+}
+.lobby__box__top,
+.crosstable__users,
+.mselect__label, .mselect__label:hover,
+group.radio label {
+    text-shadow: 0 1px 0 transparent;
+}
+
+/* Lobby Play */
+.lpools>div:hover {
+    background: rgba(153, 151, 146, .4);
+}
+.hooks__list tr.join:hover td {
+    background: rgba(153, 151, 146, .4);
+}
+.lobby__app {
+    height: 700px;
+    width: 700px;
+}
