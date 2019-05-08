@@ -1,0 +1,91 @@
+/* Transparent Theme */
+/* https://github.com/MadameSolette/Stylus/tree/master/lichess.org */
+
+@import 'https://lichess1.org/assets/_OsMK53/css/site.transp.min.css';
+@import 'https://lichess1.org/assets/_OsMK53/css/lobby.transp.min.css';
+@import 'https://lichess1.org/assets/_OsMK53/css/dasher.transp.min.css';
+@import 'https://lichess1.org/assets/_OsMK53/css/autocomplete.transp.min.css';
+@import 'https://lichess1.org/assets/_OsMK53/css/puzzle.transp.min.css';
+@import 'https://lichess1.org/assets/_OsMK53/css/user.list.transp.min.css';
+@import 'https://lichess1.org/assets/_OsMK53/css/tournament.leaderboard.transp.min.css';
+@import 'https://lichess1.org/assets/_OsMK53/css/tournament.home.transp.min.css';
+@import 'https://lichess1.org/assets/_OsMK53/css/round.transp.min.css';
+@import 'https://lichess1.org/assets/_OsMK53/css/user.rating.stats.transp.min.css';
+@import 'https://lichess1.org/assets/_OsMK53/css/simul.list.transp.min.css';
+@import 'https://lichess1.org/assets/_OsMK53/css/lobby.setup.transp.min.css';
+@import 'https://lichess1.org/assets/_OsMK53/css/learn.transp.min.css';
+@import 'https://lichess1.org/assets/_OsMK53/css/practice.index.transp.min.css';
+@import 'https://lichess1.org/assets/_OsMK53/css/study.index.transp.min.css';
+@import 'https://lichess1.org/assets/_OsMK53/css/coach.transp.min.css';
+@import 'https://lichess1.org/assets/_OsMK53/css/streamer.list.transp.min.css';
+@import 'https://lichess1.org/assets/_OsMK53/css/relay.index.transp.min.css';
+@import 'https://lichess1.org/assets/_OsMK53/css/forum.transp.min.css';
+@import 'https://lichess1.org/assets/_OsMK53/css/analyse.free.transp.min.css';
+@import 'https://lichess1.org/assets/_OsMK53/css/editor.transp.min.css';
+@import 'https://lichess1.org/assets/_OsMK53/css/importer.transp.min.css';
+@import 'https://lichess1.org/assets/_OsMK53/css/search.transp.min.css';
+@import 'https://lichess1.org/assets/_C8mHr6/css/blog.transp.min.css';
+@import 'https://lichess1.org/assets/_C8mHr6/css/plan.transp.min.css';
+@import 'https://lichess1.org/assets/_C8mHr6/css/simul.show.transp.min.css';
+@import 'https://lichess1.org/assets/_wTMpbM/css/team.transp.min.css';
+
+/* Background Image */
+body.transp::before {
+    background-image: url('//lichess1.org/assets/images/background/landscape.jpg');
+}
+
+/* Lobby */
+.lobby__table,
+.lobby__side,
+.lobby__leaderboard,
+.lobby__winners,
+.lobby__tournaments,
+.lobby__simuls,
+.lobby__forum,
+.lobby__blog,
+.lobby__support,
+.lobby__about,
+.lobby__tv,
+.lobby__puzzle {
+    display: none !important;
+}
+
+/* TV */
+.tv-history {
+    display: none;
+}
+
+/* Titel Shadows */
+.button.button-empty:not(.disabled):hover,
+.button.button-empty.button-green:not(.disabled):hover,
+.button.button-empty.button-red:not(.disabled):hover,
+.button.button-metal,
+#friend_box .friend_box_title,
+.btn-rack__btn,
+.btn-rack form {
+    text-shadow: 0 1px 0 transparent;
+}
+.button.button-metal:not(.disabled):hover,
+#friend_box .friend_box_title:hover,
+.btn-rack__btn:hover,
+.btn-rack form:hover {
+    text-shadow: 0 1px 0 transparent;
+}
+.lobby__box__top,
+.crosstable__users,
+.mselect__label, .mselect__label:hover,
+group.radio label {
+    text-shadow: 0 1px 0 transparent;
+}
+
+/* Lobby Play */
+.lpools>div:hover {
+    background: rgba(153, 151, 146, .4);
+}
+.hooks__list tr.join:hover td {
+    background: rgba(153, 151, 146, .4);
+}
+.lobby__app {
+    height: 700px;
+    width: 700px;
+}
