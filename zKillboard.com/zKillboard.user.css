@@ -21,6 +21,19 @@ body {
     border-color: transparent;
     border-radius: 0px;
 }
+.form-control {
+    background-color: #282828;
+}
+select, textarea,
+input[type="text"], input[type="password"],
+input[type="datetime"], input[type="datetime-local"],
+input[type="date"], input[type="month"], input[type="time"],
+input[type="week"], input[type="number"],
+input[type="email"], input[type="url"],
+input[type="search"], input[type="tel"],
+input[type="color"], .uneditable-input {
+    color: #888888;
+}
 .nobackground {
     background-color: #222222;
     box-shadow: 0 0 5px 5px #222222;
