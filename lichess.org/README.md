@@ -1,3 +1,6 @@
+# Requirements:
+ - Stylus Browser Extension for [**Chrome**](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne), [**Firefox**](https://addons.mozilla.org/en-US/firefox/addon/styl-us/), or [**Opera**](https://addons.opera.com/en/extensions/details/stylus/).
+
 # Installation:
  - Create a new style in Stylus;
  - Copy and paste one of the bottom CSS Codes in the Stylus Code Window;
