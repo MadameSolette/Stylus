@@ -9,3 +9,8 @@
 # Screenshot:
 ## Simple Dark
 <image src="https://github.com/MadameSolette/Stylus/blob/master/zKillboard.com/images/zKillboard-simple-dark.png">
+ 
+## Fading Backgrounds:
+<image src="https://github.com/MadameSolette/Stylus/blob/master/zKillboard.com/images/ganked.gif">
+<image src="https://github.com/MadameSolette/Stylus/blob/master/zKillboard.com/images/solo.gif">
+<image src="https://github.com/MadameSolette/Stylus/blob/master/zKillboard.com/images/npc.gif">
