@@ -35,14 +35,24 @@ input[type="color"], .uneditable-input {
     color: #888888;
 }
 .alert {
-	-webkit-animation: fading 30s infinite ease-in-out;
-            animation: fading 30s infinite ease-in-out;
-    border: none;
+	border: none;
     border-radius: 0px;
     color: #fff;
-    font-weight: 600;
     text-shadow: 2px 2px 2px #1a1a1a;
+    font-weight: 500;
     text-align: center;
+}
+.alert-danger {
+	-webkit-animation: danger 3s infinite ease-in-out;
+            animation: danger 3s infinite ease-in-out;
+}
+.alert-success {
+	-webkit-animation: success 3s infinite ease-in-out;
+            animation: success 3s infinite ease-in-out;
+}
+.alert-info {
+	-webkit-animation: info 3s infinite ease-in-out;
+            animation: info 3s infinite ease-in-out;
 }
 .nobackground {
     background-color: #222222;
@@ -71,39 +81,37 @@ table,
 #adsensebottom {
     display: none;
 }
-@-webkit-keyframes fading {
+@-webkit-keyframes danger {
     0% {
-      background: #E91E63;
-    }
-    10% {
-      background: #673ab7;
-    }
-    20% {
-      background: #3f51b5;
-    }
-    30% {
-      background: #00bcd4;
-    }
-    40% {
-      background: #009688;
+      background: #ff0000;
     }
     50% {
-      background: #4caf50;
-    }
-    60% {
-      background: #8bc34a;
-    }
-    70% {
-      background: #ffc107;
-    }
-    80% {
-      background: #ff9800;
-    }
-    90% {
-      background: #ff5722;
+      background: #880800;
     }
     100% {
-      background: #E91E63;
+      background: #ff0000;
+    }
+  }
+@-webkit-keyframes success {
+    0% {
+      background: #87ca00;
+    }
+    50% {
+      background: #3a6f1d;
+    }
+    100% {
+      background: #87ca00;
+    }
+  }
+@-webkit-keyframes info {
+    0% {
+      background: #aa00ff;
+    }
+    50% {
+      background: #f0d;
+    }
+    100% {
+      background: #aa00ff;
     }
   }
 }
