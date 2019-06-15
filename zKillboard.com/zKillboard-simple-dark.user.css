@@ -85,9 +85,6 @@ table,
 #adsensebottom {
     display: none;
 }
-.fade.in, .modal.in .modal-dialog {
-        display: none;
-}
 @-webkit-keyframes danger {
     0% {
       background: #ff0000;
