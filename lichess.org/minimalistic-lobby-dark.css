@@ -84,3 +84,15 @@ group.radio label {
     height: 700px;
     width: 700px;
 }
+/* Scrollbar */
+::-webkit-scrollbar {
+	display: none;
+}
+
+/* Challenge */
+.challenge-page .details {
+    background: #393632;
+}
+.challenge-page .invite>div {
+    background: #393632;
+}
