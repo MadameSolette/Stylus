@@ -29,7 +29,9 @@
 .button.button-metal,
 #friend_box .friend_box_title,
 .btn-rack__btn,
-.btn-rack form {
+.btn-rack form,
+.rcontrols .rematch.fbt,
+.crosstable__score {
     text-shadow: 0 1px 0 transparent;
 }
 .button.button-metal:not(.disabled):hover,
@@ -53,6 +55,22 @@ group.radio label {
     background: rgba(153, 151, 146, .4);
 }
 .lobby__app {
-    height: 700px;
+    height: 880px;
     width: 700px;
+}
+
+.lpools>div {
+    height: 200px;
+}
+/* Scrollbar */
+::-webkit-scrollbar {
+	display: none;
+}
+
+/* Challenge */
+.challenge-page .details {
+    background: #393632;
+}
+.challenge-page .invite>div {
+    background: #393632;
 }
