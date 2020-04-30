@@ -1,1 +1,40 @@
+body {
+    background-image: none;
+}
 
+#header-new {
+    height: 0px;
+    background-image: none;
+}
+
+#navi {
+    border-left: 0px;
+    border-right: 0px;
+    background-image: none;
+    margin-top: 10px;
+}
+
+.db-header-change-link {
+    opacity: 0.0;
+}
+
+#content {
+    margin-top: -20px;
+}
+
+#dashboard {
+    width: 100%;
+    margin: 0px 5px 20px 0px;
+}
+
+.dashboard-header {
+    background: transparent;
+}
+
+.dashboard-box-inner {
+    border-color: transparent;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
