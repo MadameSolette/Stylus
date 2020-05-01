@@ -1,1 +1,64 @@
-
+.dashboard-box-wide {
+        background: var(--medium-grey1);
+        border-color: var(--medium-grey1);
+    }
+    #dashboard {
+        background: var(--medium-grey1);
+        border-color: var(--medium-grey1);
+    }
+    .dashboard-box-inner {
+        border-color: var(--medium-grey1);
+        outline-color: var(--medium-grey1);
+    }
+    #navi {
+        background: var(--medium-grey2);
+    }
+    #header-new {
+        background: var(--medium-grey2);
+    }
+    #seite {
+        background: var(--medium-grey2);
+        border-color: var(--medium-grey2);
+    }
+    .box-db {
+        background: var(--light-grey);
+        border-color: var(--medium-grey1);
+        outline-color: var(--light-grey);
+    }
+    .box-db-wide-new {
+        background: var(--light-grey) !important;
+        border-color: var(--medium-grey1);
+        outline-color: var(--light-grey);
+    }
+    .box-db-small {
+        background: var(--light-grey);
+        border-color: var(--medium-grey1);
+        outline-color: var(--light-grey);
+    }
+    .portlet-wide {
+        background: var(--light-grey);
+        border-color: var(--medium-grey1);
+        outline-color: var(--light-grey);
+        outline-style: solid;
+        outline-width: 1px;
+    }
+    .dbTextBox {
+        background: var(--light-grey);
+        border: 0px;
+    }
+    .portlet {
+        background: var(--light-grey);
+        border-color: var(--medium-grey1);
+        outline-color: var(--light-grey);
+        outline-style: solid;
+        outline-width: 1px;
+    }
+    .db-left,
+    .db-head-wider,
+    .db-right,
+    .db-head-small,
+    .db-head-box-wide,
+    .db-head-box {
+        background-image: none;
+        background-color: var(--medium-grey1);
+    }
