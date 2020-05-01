@@ -1,3 +1,7 @@
+@import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/minimalistic.css';
+@import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/main.css';
+@import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/buero.css';
+
 :root {
     --transparent: transparent;
     --dark-grey: #1A1A1A;
@@ -6,11 +10,4 @@
     --light-grey: #393939;
     --table-grey1: #7B7B7B;
     --table-grey2: #BDBDBD;
-}
-
-@-moz-document url-prefix("https://www.eiszeit-manager.de/") {
-    /* Quelltext... */
-@import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/minimalistic.css';
-@import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/main.css';
-@import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/buero.css';
 }
