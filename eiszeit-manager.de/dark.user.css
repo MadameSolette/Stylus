@@ -12,6 +12,7 @@
 
 @import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/minimalistic.css';
 @import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/main.css';
+@import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/buero.css';
 
 :root {
     --transparent: transparent;
