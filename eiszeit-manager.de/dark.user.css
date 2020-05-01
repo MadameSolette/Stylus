@@ -1,16 +1,3 @@
-/* ==UserStyle==
-@name           eiszeit-manager.de - Dark Theme
-@version        1.0.0
-@description    Minimalistic Dark Theme
-@namespace      https://github.com/MadameSolette/Stylus/tree/master/eiszeit-manager.de
-@author         MadameSolette
-@homepageURL    https://github.com/MadameSolette/Stylus/tree/master/eiszeit-manager.de
-@supportURL     https://github.com/MadameSolette/Stylus/issues
-@updateURL      https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/dark.user.css
-@license        CC-BY-SA-4.0
-==/UserStyle== */
-
-
 :root {
     --transparent: transparent;
     --dark-grey: #1A1A1A;
