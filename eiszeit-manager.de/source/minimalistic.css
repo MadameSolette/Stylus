@@ -31,10 +31,6 @@ body {
     background: var(--transparent);
 }
 
-.dashboard-box-inner {
-    border-color: var(--transparent);
-}
-
 ::-webkit-scrollbar {
   display: none;
 }
