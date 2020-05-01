@@ -11,10 +11,18 @@
 ==/UserStyle== */
 
 @import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/minimalistic.css';
+@import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/main.css';
+
+:root {
+    --transparent: transparent;
+    --dark-grey: #1A1A1A;
+    --medium-grey1: #222222;
+    --medium-grey2: #282828;
+    --light-grey: #393939;
+    --table-grey1: #7B7B7B;
+    --table-grey2: #BDBDBD;
+}
 
 @-moz-document url-prefix("https://www.eiszeit-manager.de/") {
-    /* Quelltext hier eingeben... */
-    body {
-        background-color: #1A1A1A;
-    }
+    /* Quelltext... */
 }
