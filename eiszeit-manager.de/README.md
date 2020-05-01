@@ -4,4 +4,4 @@
 # Installation:
  - Click the button bellow for Stylus instant install:
 
-[![Stylus instant install](https://img.shields.io/badge/Instant%20install%20eiszeit-manager%20Minimalistic%20Dark%20Theme-282828.svg?style=popout&logoColor=29FDFD&labelColor=606060&logo=Stylus)](https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/dark.css)
+[![Stylus instant install](https://img.shields.io/badge/Instant%20install%20eiszeit%20manager-%20Minimalistic%20Dark%20Theme-282828.svg?style=popout&logoColor=29FDFD&labelColor=606060&logo=Stylus)](https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/dark.css)
