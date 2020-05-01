@@ -28,11 +28,11 @@ body {
 }
 
 .dashboard-header {
-    background: transparent;
+    background: var(--transparent);
 }
 
 .dashboard-box-inner {
-    border-color: transparent;
+    border-color: var(--transparent);
 }
 
 ::-webkit-scrollbar {
