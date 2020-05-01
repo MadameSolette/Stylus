@@ -3,7 +3,7 @@
 
 # Installation:
  - Create a new style in Stylus;
- - Copy and paste one of the bottom CSS Codes in the Stylus Code Window;
+ - Copy and paste the bottom CSS Code in the Stylus Code Window;
  - Give the Style a name and save it;
 
 # CSS Code:
