@@ -1,9 +1,13 @@
 /* ==UserStyle==
-@name           Ein leeres @name ersetzt das vorgegebene Template - 1.5.2020, 12:53:29
-@namespace      github.com/openstyles/stylus
+@name           eiszeit-manager.de - Dark Theme
 @version        1.0.0
-@description    A new userstyle
-@author         Me
+@description    Minimalistic Dark Theme
+@namespace      github.com/openstyles/stylus
+@author         MadameSolette
+@homepageURL    
+@supportURL     https://github.com/MadameSolette/Stylus/issues
+@updateURL      
+@license        CC-BY-SA-4.0
 ==/UserStyle== */
 
 @import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/minimalistic.css';
