@@ -14,4 +14,6 @@
 
 @-moz-document url-prefix("https://www.eiszeit-manager.de/") {
     /* Quelltext hier eingeben... */
+    body {
+        background-color: #1A1A1A;
 }
