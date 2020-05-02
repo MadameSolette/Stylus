@@ -1,1 +1,41 @@
+#db-spalte-links-new,
+#db-spalte-mitte-new,
+#db-spalte-rechts-new {
+    color: var(--font-color2);
+}
 
+table a:link,
+table a:visited,
+a:link,
+a:visited,
+a:hover,
+#header-new,
+#navi,
+#navi a:link,
+#navi a:visited,
+#navi a:hover,
+.footerContent,
+.spalte-V,
+.spalte-S,
+.spalte-C,
+.spalte-blau,
+.spalte-grau,
+.spalte-grau-hell,
+.spalte-blau a:link,
+.spalte-blau a:visited,
+.spalte-blau a:active,
+.spalte-blau-notable,
+.spalte-blau-hell,
+.spalte-blau-hell-notable,
+.spalten-namen,
+.spalten-namen-mail,
+.spalte-finanzen,
+.spalte-finanzen-detail,
+.bericht-spalte-blau {
+    color: var(--font-color1);
+}
+
+
+h1 {
+    color: var(--font-color1);
+}
