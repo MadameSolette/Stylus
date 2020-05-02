@@ -1,3 +1,7 @@
 body {
     background-color: var(--dark-grey);
 }
+#footer {
+    background: var(--medium-grey2);
+    border: 0px;
+}
