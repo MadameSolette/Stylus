@@ -1,5 +1,9 @@
+/* Dark Theme */
+/* https://github.com/MadameSolette/Stylus/tree/master/eiszeit-manager.de */
+
 @import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/minimalistic.css';
 @import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/main.css';
+@import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/font.css';
 @import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/buero.css';
 
 :root {
@@ -8,6 +12,14 @@
     --medium-grey1: #222222;
     --medium-grey2: #282828;
     --light-grey: #303030;
-    --table-grey1: #7B7B7B;
-    --table-grey2: #BDBDBD;
+    --table-grey1: #484848;
+    --table-grey2: #5B5B5B;
+    --quick-info: #F9F9F9;
+    --border-color-fehler: #FF9FA1;
+    --border-color-ok: #ECFDDD;
+    --font-color1: #929292;
+    --font-color2: #B6B6B6;
+    --main-border: #4482B2;
+    --border-radius: 5px;
+    --main-input-padding-left: 7px;
 }
