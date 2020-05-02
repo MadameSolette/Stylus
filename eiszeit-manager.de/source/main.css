@@ -65,6 +65,10 @@ input {
     border-color: var(--light-grey);
     outline-color: var(--light-grey);
 }
+#footer {
+    background: var(--dark-grey);
+    border: 0px;
+}
 #footerBox {
     background-color: var(--dark-grey);
 }
