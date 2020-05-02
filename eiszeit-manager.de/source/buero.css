@@ -62,3 +62,43 @@
     background-image: none;
     background-color: var(--medium-grey1);
 }
+.hinweis-fehler {
+    border-color: var(--border-color-fehler);
+}
+.dbTextSmall {
+    border-color: var(--table-grey2);
+    outline-color: var(--table-grey2);
+    background: var(--table-grey2);
+}
+.dbOK {
+    border-color: var(--border-color-ok);
+    outline-color: var(--border-color-ok);
+}
+.dbFault {
+    border-color: var(--border-color-fehler);
+    background: var(--border-color-fehler);
+    outline-color: var(--border-color-fehler);
+}
+.freunde-name {
+    border-color: var(--light-grey);
+    background: var(--table-grey1);
+}
+.td-bg-grey {
+    background: var(--table-grey2);
+}
+.dbButton {
+    background: var(--dark-grey);
+    border-color: var(--dark-grey);
+}
+.dbHeadBox {
+    border-color: var(--table-grey1);
+    background: var(--table-grey1);
+}
+.dbTD {
+    border-color: var(--table-grey1);
+    background: var(--table-grey1);
+}
+textarea {
+    background: var(--table-grey1);
+    border-color: var(--table-grey1);
+}
