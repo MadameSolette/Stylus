@@ -21,9 +21,6 @@ body {
     width: 100%;
     margin: 0px 5px 20px 0px;
 }
-.dashboard-header {
-    background: var(--transparent);
-}
 ::-webkit-scrollbar {
     display: none;
 }
