@@ -12,3 +12,6 @@
 
 # CSS Code:
 [![Stylus instant install](https://img.shields.io/badge/eiszeit%20manager-%20Dark-282828.svg?style=popout&logoColor=29FDFD&labelColor=606060&logo=Stylus)](https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/dark.css)
+
+# Screenshots (with bugs 😉):
+<image src="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/images/01.png"><br><br>
