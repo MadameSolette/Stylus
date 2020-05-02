@@ -67,7 +67,8 @@ input {
 }
 #footer {
     background: var(--dark-grey);
-    border: 0px;
+    border: 2px solid var(--dark-grey);
+    margin-left:-1px;
 }
 #footerBox {
     background-color: var(--dark-grey);
