@@ -41,6 +41,7 @@ h2 {
 }
 input {
     background-color: var(--light-grey);
+    color: var(--text-color2);
 }
 .inputName {
     border-color: var(--light-grey);
