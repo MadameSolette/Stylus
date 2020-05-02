@@ -102,3 +102,7 @@ textarea {
     background: var(--table-grey1);
     border-color: var(--table-grey1);
 }
+#footer {
+    background: var(--medium-grey2);
+    border: 0px;
+}
