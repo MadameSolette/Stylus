@@ -7,6 +7,15 @@ body {
 h2 {
     color: var(--font-color2);
 }
+#topbar1 {
+    background-color: var(--dark-grey);
+    border-bottom-color: var(--main-border);
+    border-bottom-width: 3px;
+}
+#topbar2 {
+    border-bottom-color: var(--main-border);
+    border-bottom-width: 3px;
+}
 .contentSection {
     background-color: var(--medium-grey1);
     border: 1px solid var(--medium-grey1);
