@@ -42,6 +42,7 @@ input {
     border-color:  var(--dark-grey);
     color: var(--font-color2);
     box-shadow: 0 0 0 0;
+    height: 30px;
 }
 .sidebarContainer ul {
     background-color: var(--medium-grey2);
