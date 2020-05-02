@@ -1,3 +1,61 @@
 body {
     background-color: var(--dark-grey);
 }
+.cc_container {
+    display: none;
+}
+h2 {
+    color: var(--font-color2);
+}
+.contentSection {
+    background-color: var(--medium-grey1);
+    border: 1px solid var(--medium-grey1);
+    color: var(--font-color2);
+    box-shadow: 2px 2px 0 var(--light-grey);
+}
+.post-item2 {
+    background-color: var(--medium-grey2);
+    border: 1px solid var(--medium-grey2);
+    color: var(--font-color2);
+}
+#sidebar-bg {
+    background-image: none;
+    background-color: var(--medium-grey1);
+    border: 1px solid var(--medium-grey1);
+    color: var(--font-color2);
+    box-shadow: 2px 2px 0 var(--light-grey);
+}
+#sidebar {
+    background-color: var(--medium-grey1);
+    border: 1px solid var(--medium-grey1);
+    color: var(--font-color2);
+}
+input {
+    background-color: var(--light-grey);
+}
+.inputName {
+    border-color: var(--light-grey);
+}
+.submitButton {
+    background-image: none;
+    background-color: var(--dark-grey);
+    border-color:  var(--dark-grey);
+    color: var(--font-color2);
+    box-shadow: 0 0 0 0;
+}
+.sidebarContainer ul {
+    background-color: var(--medium-grey2);
+    border-color: var(--medium-grey2);
+    outline-color: var(--medium-grey2);
+}
+.sidebarContainer li {
+    background-color: var(--light-grey);
+    border-color: var(--light-grey);
+    outline-color: var(--light-grey);
+}
+#footerBox {
+    background-color: var(--dark-grey);
+}
+#footerText {
+    color: var(--font-color2);
+}
