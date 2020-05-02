@@ -42,6 +42,7 @@ h2 {
 input {
     background-color: var(--light-grey);
     color: var(--font-color2);
+    padding-left: var(--main-input-padding-left);
 }
 .inputName {
     border-color: var(--light-grey);
