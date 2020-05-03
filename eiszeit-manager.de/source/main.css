@@ -33,11 +33,15 @@ h2 {
     border: 1px solid var(--medium-grey1);
     color: var(--font-color2);
     box-shadow: 2px 2px 0 var(--light-grey);
+    height: 38%;
+    top: -15px;
 }
 #sidebar {
     background-color: var(--medium-grey1);
     border: 1px solid var(--medium-grey1);
     color: var(--font-color2);
+    height: 38%;
+    top: -15px;
 }
 input {
     background-color: var(--light-grey);
