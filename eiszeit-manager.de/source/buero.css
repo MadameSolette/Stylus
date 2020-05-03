@@ -74,7 +74,10 @@
     border-color: var(--border-color-ok);
     outline-color: var(--border-color-ok);
 }
-.hinweis-fehler,
+.hinweis-fehler {
+    border-color: var(--fault);
+    outline-color: var(--fault);
+}
 .dbFault {
     border-color: var(--fault);
     background: var(--fault);
