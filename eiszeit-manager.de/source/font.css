@@ -3,17 +3,20 @@
 #db-spalte-rechts-new {
     color: var(--font-color2);
 }
-
-table a:link,
-table a:visited,
 a:link,
 a:visited,
+#navi a:link,
+#navi a:visited {
+    color: var(--link3);
+}
 a:hover,
+#navi a:hover {
+    color: var(--link1);
+}
+table a:link,
+table a:visited,
 #header-new,
 #navi,
-#navi a:link,
-#navi a:visited,
-#navi a:hover,
 .footerContent,
 .spalte-V,
 .spalte-S,
