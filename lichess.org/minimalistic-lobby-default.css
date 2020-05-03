@@ -74,3 +74,8 @@ group.radio label {
 .challenge-page .invite>div {
     background: #393632;
 }
+
+/* Scoreline */
+.crosstable povs a.loss {
+    opacity: 1;
+}
