@@ -65,9 +65,6 @@
     background-image: none;
     background-color: var(--medium-grey1);
 }
-.hinweis-fehler {
-    border-color: var(--border-color-fehler);
-}
 .dbTextSmall {
     border-color: var(--table-grey2);
     outline-color: var(--table-grey2);
@@ -77,10 +74,11 @@
     border-color: var(--border-color-ok);
     outline-color: var(--border-color-ok);
 }
+.hinweis-fehler,
 .dbFault {
-    border-color: var(--border-color-fehler);
-    background: var(--border-color-fehler);
-    outline-color: var(--border-color-fehler);
+    border-color: var(--fault);
+    background: var(--fault);
+    outline-color: var(--fault);
 }
 .freunde-name {
     border-color: var(--light-grey);
