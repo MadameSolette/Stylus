@@ -27,6 +27,8 @@ body {
 }
 #header-new {
     background: var(--medium-grey2);
+    background-image: url(https://www.eiszeit-manager.de/buero/images/ezm_bench.png);
+    opacity: 0.6;
 }
 #seite {
     background: var(--medium-grey2);
