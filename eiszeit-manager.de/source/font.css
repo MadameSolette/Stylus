@@ -26,6 +26,9 @@ li {
     color: var(--font-color3);
     font-variant: small-caps;
 }
+.timesHeadingSmall {
+    font-size: 9px;
+}
 .timesDatum,
 .timesText,
 .timesTransferTeam,
