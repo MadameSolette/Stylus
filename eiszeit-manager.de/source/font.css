@@ -11,12 +11,13 @@ li {
 .timesHeadDate,
 .timesHeadUrl,
 .timesHeadEzmdate {
-    color: var(--font-color2);
+    color: var(--font-color3);
 }
 .timesHeadingLeft,
 .timesHeadingCenter,
 .timesHeadingSmall {
-    color: var(--font-color2);
+    color: var(--font-color3);
+    font-variant: small-caps;
 }
 .timesDatum,
 .timesText,
