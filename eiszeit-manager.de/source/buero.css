@@ -120,7 +120,6 @@ body {
 textarea {
     background: var(--table-grey1);
     border-color: var(--table-grey1);
-    color: var(--font-color2);
 }
 .dbTextIcon {
     margin: 5px 0 0 3px;
