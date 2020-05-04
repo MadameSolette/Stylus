@@ -8,7 +8,8 @@ li {
     font-size: 12px;
     padding: 2px;
 }
-.dbHeadBox {
+.dbHeadBox,
+.dbTextBox {
     font-size: 8pt;
 }
 .timesHeadDate,
