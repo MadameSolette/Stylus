@@ -1,4 +1,7 @@
 @import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/base64.css';
+body {
+    background-color: var(--dark-grey);
+}
 .dashboard-header {
     background: var(--light-grey);
 }
