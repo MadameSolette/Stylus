@@ -38,16 +38,40 @@ h1 {
 .timesMore {
     color: var(--font-color2);
 }
-
-/* ---------------------------------------------------------------------------------------------------------------- */
-
 a:link,
+a:link b,
 a:visited,
+a:visited b,
 #navi a:link,
-#navi a:visited {
+#navi a:link b,
+#navi a:visited,
+#navi a:visited b,
+table a:link,
+table a:link b,
+table a:visited,
+table a:visited b {
     color: var(--link3);
 }
 a:hover,
-#navi a:hover {
+a:hover b,
+#navi a:hover,
+#navi a:hover b,
+table a:hover,
+table a:hover b {
     color: var(--link1);
 }
+.dbTD {
+    font-size: 8pt;
+    padding: 3px 3px 3px 8px;
+}
+.box-db,
+.freunde-name,
+.dbTD {
+    color: var(--font-color2);
+}
+
+b {
+    color: var(--font-color3);
+}
+
+/* ---------------------------------------------------------------------------------------------------------------- */
