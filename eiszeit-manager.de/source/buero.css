@@ -125,3 +125,8 @@ textarea {
 .dbTextIcon {
     margin: 4px 0 0 3px;
 }
+#footer {
+    background: var(--dark-grey);
+    border: 2px solid var(--dark-grey);
+    margin-left:-1px;
+}
