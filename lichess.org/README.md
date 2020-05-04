@@ -13,6 +13,9 @@
 
 [![Minimalistic 0Lobby Light](https://img.shields.io/badge/Minimalistic%20Lobby-Light-C0BCB6.svg?style=popout&logoColor=007ACC&labelColor=B58863&logo=visual-studio-code)](https://raw.githubusercontent.com/MadameSolette/Stylus/master/lichess.org/minimalistic-lobby-light.css)
 
+# Development status:
+ - Active
+
 # Screenshots:
 <image src="https://raw.githubusercontent.com/MadameSolette/Stylus/master/lichess.org/images/minimalistic-lobby-dark.png"><br><br>
 <image src="https://raw.githubusercontent.com/MadameSolette/Stylus/master/lichess.org/images/minimalistic-lobby-light.png">
