@@ -8,6 +8,9 @@ li {
     font-size: 12px;
     padding: 2px;
 }
+.dbHeadBox {
+    font-size: 8pt;
+}
 .timesHeadDate,
 .timesHeadUrl,
 .timesHeadEzmdate {
