@@ -69,9 +69,9 @@
     background-color: var(--medium-grey1);
 }
 .dbTextSmall {
-    border-color: var(--table-grey2);
-    outline-color: var(--table-grey2);
-    background: var(--table-grey2);
+    border-color: var(--light-grey);
+    outline-color: var(--medium-grey1);
+    background: var(--medium-grey1);
 }
 .dbOK {
     border-color: var(--border-color-ok);
