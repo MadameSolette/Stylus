@@ -88,7 +88,7 @@
     outline-color: var(--fault);
 }
 .freunde-name {
-    border-color: var(--light-grey);
+    border-color: var(--table-grey1);
     background: var(--table-grey1);
 }
 .td-bg-grey {
