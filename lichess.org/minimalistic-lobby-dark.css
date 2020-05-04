@@ -104,10 +104,16 @@ group.radio label {
 }
 
 /* Scoreline */
-.crosstable .win,
+.crosstable__matchup,
+.crosstable povs.current a {
+    opacity: 1;
+    text-shadow: 0 1px 0 transparent;
+    font-weight: bold;
+}
+.crosstable povs a.win,
 .crosstable povs a.loss,
 .crosstable povs a {
     opacity: 1;
     text-shadow: 0 1px 0 transparent;
-    font-weight: bold;
+    font-weight: normal;
 }
