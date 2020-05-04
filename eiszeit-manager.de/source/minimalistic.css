@@ -3,7 +3,7 @@ body {
 }
 #header-new {
     height: 0px;
-    background-image: none;
+    background-image: none !important;
 }
 #navi {
     border-left: 0px;
