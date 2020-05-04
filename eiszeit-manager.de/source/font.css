@@ -2,9 +2,26 @@
 u {
     text-decoration: none;
 }
+h4,
+.box-db,
+.dbTD,
+.freunde-name,
+.dbTextBox {
+    color: var(--font-color4) !important;
+}
 
 /* Buero */
-.dbHeadBox,
+.db-head-text {
+    color: var(--font-color5);
+    font-variant: small-caps;
+    font-size: 12px;
+}
+.dbTextSmall,
+.dbHeadBox {
+    color: var(--font-color5);
+    font-variant: small-caps;
+    font-size: 11px;
+}
 .dbTextBox {
     font-size: 8pt;
 }
@@ -88,6 +105,9 @@ table a:hover b {
 }
 .dbFault > .dbTextIcon > a:hover {
     color: var(--font-color-fault);
+}
+.portlet > h2 > a:link {
+    font-variant: small-caps;
 }
 
 /* ---------------------------------------------------------------------------------------------------------------- */
