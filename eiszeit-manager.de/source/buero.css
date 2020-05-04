@@ -19,9 +19,12 @@
 }
 #navi {
     background: var(--medium-grey2);
+    border-left: 0px;
+    border-right: 0px;
 }
 #header-new {
     background: var(--medium-grey2);
+    background-image: url(https://www.eiszeit-manager.de/buero/images/ezm_bench.png);
 }
 #seite {
     background: var(--medium-grey2);
