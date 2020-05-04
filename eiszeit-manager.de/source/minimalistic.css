@@ -8,7 +8,7 @@ body {
 #navi {
     border-left: 0px;
     border-right: 0px;
-    background-image: none;
+    background-image: none !important;
     margin-top: 10px;
 }
 .db-header-change-link {
