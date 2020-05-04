@@ -74,16 +74,15 @@
     background: var(--medium-grey1);
 }
 .dbOK {
-    border-color: var(--border-color-ok);
+    border-color: var(--light-grey);
     outline-color: var(--border-color-ok);
 }
 .hinweis-fehler {
-    border-color: var(--fault);
     outline-color: var(--fault);
     font-weight: bold;
 }
 .dbFault {
-    border-color: var(--fault);
+    border-color: var(--light-grey);
     background: var(--fault);
     outline-color: var(--fault);
 }
