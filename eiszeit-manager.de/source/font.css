@@ -60,6 +60,18 @@ table a:hover,
 table a:hover b {
     color: var(--link1);
 }
+.hinweis-fehler > a:link,
+.hinweis-fehler > a:visited {
+    color: var(--font-color-fault);
+}
+.dbTextIcon > a:link b,
+.dbTextIcon > a:visited b {
+    color: var(--medium-grey1);
+}
+.dbFault > .dbTextIcon > a:link b,
+.dbFault > .dbTextIcon > a:visited b {
+    color: var(--font-color-fault);
+}
 .dbTD {
     font-size: 8pt;
     padding: 3px 3px 3px 8px;
