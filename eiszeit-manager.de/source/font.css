@@ -7,11 +7,6 @@
     font-size: 8pt;
     padding: 3px 3px 3px 8px;
 }
-.box-db,
-.freunde-name,
-.dbTD {
-    color: var(--font-color2);
-}
 .box-db {
     font-size: 11px;
 }
