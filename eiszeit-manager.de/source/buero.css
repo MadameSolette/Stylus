@@ -101,6 +101,9 @@
 .dbHeadBox {
     border-color: var(--table-grey1);
     background: var(--table-grey1);
+    margin: 2px;
+    padding: 6px;
+    width: 97%;
 }
 .dbTD {
     border-color: var(--table-grey1);
