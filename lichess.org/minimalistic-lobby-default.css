@@ -76,6 +76,10 @@ group.radio label {
 }
 
 /* Scoreline */
-.crosstable povs a.loss {
+.crosstable .win,
+.crosstable povs a.loss,
+.crosstable povs a {
     opacity: 1;
+    text-shadow: 0 1px 0 transparent;
+    font-weight: bold;
 }
