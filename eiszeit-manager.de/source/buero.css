@@ -79,7 +79,7 @@
     outline-color: var(--border-color-ok);
 }
 .hinweis-fehler {
-    outline-color: var(--fault);
+    border-color: var(--fault);
     font-weight: bold;
 }
 .dbFault {
