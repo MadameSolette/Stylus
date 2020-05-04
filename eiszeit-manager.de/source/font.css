@@ -12,6 +12,9 @@ li {
 .dbTextBox {
     font-size: 8pt;
 }
+.dbTextBox {
+    color: var(--font-color2);
+}
 .timesHeadDate,
 .timesHeadUrl,
 .timesHeadEzmdate {
