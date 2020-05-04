@@ -67,11 +67,12 @@
 .db-head-box {
     background-image: none;
     background-color: var(--medium-grey1);
+    height: 25px
 }
 .dbTextSmall {
     border-color: var(--light-grey);
-    outline-color: var(--medium-grey1);
-    background: var(--medium-grey1);
+    outline-color: var(--table-grey2);
+    background: var(--table-grey2);
 }
 .dbOK {
     border-color: var(--light-grey);
