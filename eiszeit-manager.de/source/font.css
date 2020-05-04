@@ -2,6 +2,9 @@ ol,
 li {
     color: var(--font-color2);
 }
+h1 {
+    color: var(--font-color1);
+}
 .db-head-text {
     color: var(--font-color2);
     font-variant: small-caps;
@@ -38,11 +41,6 @@ li {
 
 /* ---------------------------------------------------------------------------------------------------------------- */
 
-#db-spalte-links-new,
-#db-spalte-mitte-new,
-#db-spalte-rechts-new {
-    color: var(--font-color2);
-}
 a:link,
 a:visited,
 #navi a:link,
@@ -52,33 +50,4 @@ a:visited,
 a:hover,
 #navi a:hover {
     color: var(--link1);
-}
-table a:link,
-table a:visited,
-#header-new,
-#navi,
-.footerContent,
-.spalte-V,
-.spalte-S,
-.spalte-C,
-.spalte-blau,
-.spalte-grau,
-.spalte-grau-hell,
-.spalte-blau a:link,
-.spalte-blau a:visited,
-.spalte-blau a:active,
-.spalte-blau-notable,
-.spalte-blau-hell,
-.spalte-blau-hell-notable,
-.spalten-namen,
-.spalten-namen-mail,
-.spalte-finanzen,
-.spalte-finanzen-detail,
-.bericht-spalte-blau {
-    color: var(--font-color1);
-}
-
-
-h1 {
-    color: var(--font-color1);
 }
