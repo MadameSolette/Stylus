@@ -1,3 +1,10 @@
+.db-head-text {
+    color: var(--font-color2);
+    padding: 3px
+}
+
+/* ---------------------------------------------------------------------------------------------------------------- */
+
 #db-spalte-links-new,
 #db-spalte-mitte-new,
 #db-spalte-rechts-new {
