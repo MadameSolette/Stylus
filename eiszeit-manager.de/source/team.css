@@ -34,3 +34,10 @@
 select {
     background: var(--light-grey);
 }
+.button-small {
+    background: var(--medium-grey1);
+    border-width: 2px;
+    border-color: var(--link3);
+    border-radius: var(--border-radius);
+    height: 25px;
+}
