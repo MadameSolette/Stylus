@@ -9,6 +9,13 @@ h4,
 .dbTextBox {
     color: var(--font-color4) !important;
 }
+textarea {
+    color: var(--ok-100);
+    font-family: Verdana, sans-serif;
+}
+input {
+    color: var(--font-color4);
+}
 
 /* Buero */
 .db-head-text {
