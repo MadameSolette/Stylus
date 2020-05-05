@@ -16,5 +16,5 @@
 # Development status:
  - Active
 
-# Screenshots:
-[** ---> You can found it here <---**](https://github.com/MadameSolette/Stylus/tree/master/eiszeit-manager.de/images)
+## Screenshots:
+[**Screenshot section**](https://github.com/MadameSolette/Stylus/tree/master/eiszeit-manager.de/images)
