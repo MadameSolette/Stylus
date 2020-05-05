@@ -90,8 +90,13 @@ body {
     outline-color: var(--ok-065);
 }
 .hinweis-fehler {
-    border-color: var(--fault);
-    font-weight: bold;
+    background: var(--fault);
+    border-color: var(--light-grey);
+    outline-color: var(--fault);
+    outline-style: solid;
+    outline-width: 1px;
+    background-repeat: no-repeat !important;
+    background-position: left !important;
 }
 .dbFault {
     border-color: var(--light-grey);
