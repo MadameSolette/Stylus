@@ -86,6 +86,16 @@ h4 {
 .buttonBlue {
     color: var(--font-color5);
 }
+#infobox > h3 {
+    color: var(--font-color4);
+    font-variant: small-caps;
+}
+#infobox > ul {
+    color: var(--font-color3);
+}
+.hinweis-hilfe {
+    color: var(--medium-grey1);
+}
 
 
 
