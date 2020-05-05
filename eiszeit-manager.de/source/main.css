@@ -88,8 +88,11 @@ u {
     text-decoration: none;
 }
 a:link,
+a:visited,
 .naviLink a,
-#footer a:link {
+.naviLink a:visited,
+#footer a:link,
+#footer a:visited {
     color: var(--link4);
     text-decoration: none;
 }
