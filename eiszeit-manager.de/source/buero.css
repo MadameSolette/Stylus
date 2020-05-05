@@ -76,6 +76,7 @@ body {
     background-image: none;
     background-color: var(--medium-grey1);
     height: 25px;
+    margin: 0px;
     padding-top: 5px;
 }
 .dbTextSmall {
