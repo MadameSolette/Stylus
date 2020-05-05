@@ -124,6 +124,9 @@ textarea {
     background: var(--table-grey1);
     border-color: var(--table-grey1);
 }
+input {
+    background-color: var(--light-grey);
+}
 .dbTextIcon {
     margin: 5px 0 0 3px;
 }
