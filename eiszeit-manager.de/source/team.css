@@ -7,7 +7,6 @@
 .table-head {
     background: var(--medium-grey1);
     border-color: var(--medium-grey1);
-    text-align: center !important;
 }
 .tdC,
 .tdS,
@@ -28,7 +27,6 @@
     border: var(--tdG);
 }
 .inputJerseyNumber {
-    text-align: center;
     border-width: 1px;
     border-style: solid;
     height: 100%;
