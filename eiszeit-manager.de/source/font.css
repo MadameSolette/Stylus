@@ -74,6 +74,13 @@ input {
 
 
 
+/* Contracts */
+#infobox > table > tbody > tr > td {
+    color: var(--font-color4);
+}
+
+
+
 /* Taktik */
 .buttonBlue {
     color: var(--font-color5);
