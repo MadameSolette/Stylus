@@ -46,9 +46,13 @@ input[type="image" i] {
 .submitButton {
     background-image: none;
     background-color: var(--dark-grey);
-    border-color:  var(--dark-grey);
+    border-color: var(--font-color1);
+    border-radius: var(--border-radius);
     box-shadow: 0 0 0 0;
-    height: 30px;
+    height: 35px;
+}
+.submitButton:hover {
+    background-color: var(--light-grey);
 }
 .sidebarContainer ul {
     background-color: var(--medium-grey2);
