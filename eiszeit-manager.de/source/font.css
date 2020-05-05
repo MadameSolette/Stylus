@@ -82,6 +82,13 @@ h4 {
 
 
 
+/* Taktik */
+.buttonBlue {
+    color: var(--font-color5);
+}
+
+
+
 /* EZM Times */
 .timesHeadDate,
 .timesHeadUrl,
