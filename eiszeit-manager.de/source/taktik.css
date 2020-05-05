@@ -29,7 +29,7 @@
     padding-left: 9%;
 }
 #infobox {
-    background: var(--light-grey);
+    background: var(--table-grey1);
     border-color: var(--medium-grey1);
     border-style: solid;
     border-width: 5px;
