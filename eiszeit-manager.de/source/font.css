@@ -63,7 +63,7 @@ h4,
 
 
 
-/* Links Buero */
+/* Links */
 a:link,
 a:link b,
 a:visited,
@@ -113,5 +113,3 @@ table a:hover b {
 .portlet > h2 > a:link {
     font-variant: small-caps;
 }
-
-/* ---------------------------------------------------------------------------------------------------------------- */
