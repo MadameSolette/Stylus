@@ -36,6 +36,13 @@ h4,
 .box-db {
     font-size: 11px;
 }
+.box-db-wide-new > h3 {
+    font-variant: small-caps;
+    font-size: 2.3em;
+}
+.box-db-wide-new > h4 {
+    font-size: 1.5em;
+}
 
 
 
