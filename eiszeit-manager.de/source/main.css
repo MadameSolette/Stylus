@@ -1,9 +1,6 @@
 body {
     background-color: var(--dark-grey);
 }
-.cc_container {
-    display: none;
-}
 #topbar1 {
     background-color: var(--dark-grey);
     border-bottom-color: var(--main-border);
@@ -67,4 +64,38 @@ input {
 }
 #footerBox {
     background-color: var(--dark-grey);
+}
+h2 {
+    font-variant: small-caps;
+    color: var(--font-color3);
+
+}
+h3 {
+    font-variant: small-caps;
+    font-size: 14px;
+
+}
+.contentSection,
+.post-item2,
+form,
+.inputName,
+.submitButton,
+.facts,
+#footerText {
+    color: var(--font-color3);
+}
+u {
+    text-decoration: none;
+}
+a:link,
+.naviLink a,
+#footer a:link {
+    color: var(--link4);
+    text-decoration: none;
+}
+a:hover,
+.naviLink a:hover,
+#footer a:hover {
+    color: var(--link3);
+    text-decoration: underline;
 }
