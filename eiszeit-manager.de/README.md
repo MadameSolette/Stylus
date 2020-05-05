@@ -17,4 +17,4 @@
  - Active
 
 # Screenshots:
-[**Screenshots**](https://github.com/MadameSolette/Stylus/tree/master/eiszeit-manager.de/images)
+[** ---> You can found it here <---**](https://github.com/MadameSolette/Stylus/tree/master/eiszeit-manager.de/images)
