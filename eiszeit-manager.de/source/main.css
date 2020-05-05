@@ -37,6 +37,9 @@ input {
     background-color: var(--light-grey);
     padding-left: var(--main-input-padding-left);
 }
+input[type="image" i] {
+    background-color: var(--medium-grey1);
+}
 .inputName {
     border-color: var(--light-grey);
 }
