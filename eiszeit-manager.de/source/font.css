@@ -16,9 +16,13 @@ h4,
     font-variant: small-caps;
     font-size: 12px;
 }
-.dbTextSmall,
 .dbHeadBox {
     color: var(--font-color5);
+    font-variant: small-caps;
+    font-size: 11px;
+}
+.dbTextSmall {
+    color: var(--medium-grey1);
     font-variant: small-caps;
     font-size: 11px;
 }
