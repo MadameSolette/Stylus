@@ -79,13 +79,14 @@ body {
     padding-top: 5px;
 }
 .dbTextSmall {
+    background: var(--ok-100);
     border-color: var(--light-grey);
-    outline-color: var(--table-grey2);
-    background: var(--table-grey2);
+    outline-color: var(--ok-100);
 }
 .dbOK {
+    background: var(--ok-065);
     border-color: var(--light-grey);
-    outline-color: var(--border-color-ok);
+    outline-color: var(--ok-065);
 }
 .hinweis-fehler {
     border-color: var(--fault);
