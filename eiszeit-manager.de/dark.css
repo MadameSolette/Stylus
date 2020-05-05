@@ -37,5 +37,10 @@
     --link2: #4482B2;
     --link3: #7DABD6;
     --link4: #AED0F7;
+    --tdC: 1px solid #674967;
+    --tdS: 1px solid #6092b9;
+    --tdV: 1px solid #427eac;
+    --tdG: 1px solid #f9f9f9;
+    --border-color: #427EAC;
     --border-radius: 0px;
 }
