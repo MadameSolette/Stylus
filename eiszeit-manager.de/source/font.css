@@ -43,6 +43,9 @@ input {
 .box-db {
     font-size: 11px;
 }
+.hinweis-fehler {
+    font-weight: bold;
+}
 
 
 
