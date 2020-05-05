@@ -15,5 +15,3 @@
 
 # Development status:
  - Active
-
-# [**Screenshot section**](https://github.com/MadameSolette/Stylus/tree/master/eiszeit-manager.de/images)
