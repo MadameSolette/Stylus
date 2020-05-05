@@ -1,1 +1,27 @@
-
+.tab-line {
+    height: 2px;
+    width: 100%;
+    border-color: var(--medium-grey1);
+    border-width: 5px 0px 0px 0px;
+}
+.taktik-box-blau,
+.infobox-blau {
+    background-color: var(--medium-grey1);
+    border-color: var(--medium-grey1);
+    border-radius: var(--border-radius);
+}
+.taktik-box-weiss,
+.button-trenner {
+    background-color: var(--light-grey);
+    border-color: var(--light-grey);
+    outline-color: var(--light-grey);
+}
+.buttonBlue {
+    background: var(--medium-grey1);
+    border-color: var(--font-color1);
+    border-radius: var(--border-radius);
+    box-shadow: 0 0 0;
+}
+.buttonBlue:hover {
+    background: var(--table-grey2);
+}
