@@ -4,9 +4,6 @@ body {
 .cc_container {
     display: none;
 }
-h2 {
-    color: var(--font-color2);
-}
 #topbar1 {
     background-color: var(--dark-grey);
     border-bottom-color: var(--main-border);
@@ -19,19 +16,16 @@ h2 {
 .contentSection {
     background-color: var(--medium-grey1);
     border: 1px solid var(--medium-grey1);
-    color: var(--font-color2);
     box-shadow: 2px 2px 0 var(--light-grey);
 }
 .post-item2 {
     background-color: var(--medium-grey2);
     border: 1px solid var(--medium-grey2);
-    color: var(--font-color2);
 }
 #sidebar-bg {
     background-image: none;
     background-color: var(--medium-grey1);
     border: 1px solid var(--medium-grey1);
-    color: var(--font-color2);
     box-shadow: 2px 2px 0 var(--light-grey);
     height: 38%;
     top: 76px;
@@ -39,13 +33,11 @@ h2 {
 #sidebar {
     background-color: var(--medium-grey1);
     border: 1px solid var(--medium-grey1);
-    color: var(--font-color2);
     height: 38%;
     top: 76px;
 }
 input {
     background-color: var(--light-grey);
-    color: var(--font-color2);
     padding-left: var(--main-input-padding-left);
 }
 .inputName {
@@ -55,7 +47,6 @@ input {
     background-image: none;
     background-color: var(--dark-grey);
     border-color:  var(--dark-grey);
-    color: var(--font-color2);
     box-shadow: 0 0 0 0;
     height: 30px;
 }
@@ -76,7 +67,4 @@ input {
 }
 #footerBox {
     background-color: var(--dark-grey);
-}
-#footerText {
-    color: var(--font-color2);
 }
