@@ -25,3 +25,20 @@
 .buttonBlue:hover {
     background: var(--table-grey2);
 }
+#slickbox {
+    padding-left: 9%;
+}
+#infobox {
+    background: var(--light-grey);
+    border-color: var(--medium-grey1);
+    border-style: solid;
+    border-width: 5px;
+    width: 90%;
+}
+.hinweis-hilfe {
+    background: var(--help);
+    background-repeat: no-repeat !important;
+    background-position: left !important;
+    border-width: 1px;
+    border-color: var(--help);
+}
