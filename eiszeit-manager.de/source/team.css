@@ -4,3 +4,35 @@
     width: 100px;
     height: 23px;
 }
+.table-head {
+    background: var(--medium-grey1);
+    border-color: var(--medium-grey1);
+    text-align: center !important;
+}
+.tdC,
+.tdS,
+.tdV,
+.tdG {
+    background: var(--medium-grey1);
+}
+.tdC {
+    border: var(--tdC);
+}
+.tdS {
+    border: var(--tdS);
+}
+.tdV {
+    border: var(--tdV);
+}
+.tdG {
+    border: var(--tdG);
+}
+.inputJerseyNumber {
+    text-align: center;
+    border-width: 1px;
+    border-style: solid;
+    height: 100%;
+}
+select {
+    background: var(--light-grey);
+}
