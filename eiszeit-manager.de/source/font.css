@@ -79,9 +79,6 @@ h4 {
 .button-small {
     color: var(--font-color5);
 }
-.button-small:hover {
-    color: var(--link4);
-}
 
 
 
