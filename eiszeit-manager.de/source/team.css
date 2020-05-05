@@ -1,1 +1,6 @@
-
+.table-tab-white,
+.table-tab,
+.table-tab:hover {
+    width: 100px;
+    height: 23px;
+}
