@@ -53,6 +53,38 @@ input {
 
 
 
+/* Team */
+.table-head {
+    text-align: center !important;
+}
+.inputJerseyNumber {
+    text-align: center;
+}
+#content2 > h1,
+#content2 > h2 {
+    color: var(--font-color3);
+    font-variant: small-caps;
+    font-size: 2em;
+}
+.table-head {
+    color: var(--font-color5);
+}
+.tdG {
+    color: var(--font-color4);
+}
+h4 {
+    font-size: 18px;
+    font-variant: small-caps;
+}
+.button-small {
+    color: var(--font-color5);
+}
+.button-small:hover {
+    color: var(--link4);
+}
+
+
+
 /* EZM Times */
 .timesHeadDate,
 .timesHeadUrl,
