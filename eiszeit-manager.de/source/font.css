@@ -68,10 +68,6 @@ input {
 .tdG {
     color: var(--font-color4);
 }
-h4 {
-    font-size: 18px;
-    font-variant: small-caps;
-}
 .button-small {
     color: var(--font-color5);
 }
