@@ -40,5 +40,17 @@
     background-repeat: no-repeat !important;
     background-position: left !important;
     border-width: 1px;
-    border-color: var(--help);
+    border-color: var(--light-grey);
+    outline-color: var(--help);
+    outline-style: solid;
+    outline-width: 1px;
+}
+.hinweis-ok {
+    background: var(--ok-100);
+    background-repeat: no-repeat !important;
+    background-position: left !important;
+    border-color: var(--light-grey);
+    outline-color: var(--ok-100);
+    outline-style: solid;
+    outline-width: 1px;
 }
