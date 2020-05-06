@@ -86,6 +86,7 @@ input {
 .zeileGrau3,
 .spalte-blau,
 .spalte-finanzen,
+.spalte-grau-hell,
 td {
     color: var(--font-color4);
 }
