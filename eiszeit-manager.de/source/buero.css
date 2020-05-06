@@ -138,3 +138,6 @@ input {
     border: 2px solid var(--dark-grey);
     margin-left:-1px;
 }
+.helpPhone {
+    height: 104px;
+}
