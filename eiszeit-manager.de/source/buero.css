@@ -147,3 +147,41 @@ input {
 .helpPhone {
     height: 104px;
 }
+.ui-widget.ui-widget-content {
+    background: var(--medium-grey1);
+    border-color: var(--medium-grey1);
+}
+.ui-dialog .ui-dialog-content {
+    padding: 10px 0px 20px 15px ;
+}
+.ui-corner-all,
+.ui-corner-top,
+.ui-corner-left,
+.ui-corner-right,
+.ui-corner-bottom {
+    border-radius: var(--border-radius);
+}
+.ui-draggable .ui-dialog-titlebar {
+    background: var(--light-grey);
+    border-color: var(--medium-grey1);
+    outline-width: 1px;
+    outline-style: solid;
+    outline-color: var(--light-grey);
+    border-radius: var(--border-radius);
+}
+.assistFace {
+    background: var(--table-grey2);
+    border-color: var(--medium-grey1);
+    border-radius: var(--border-radius);
+    outline-width: 1px;
+    outline-style: solid;
+    outline-color: var(--table-grey2);
+}
+.assistText {
+    background: var(--table-grey2);
+    border-color: var(--light-grey);
+}
+.assistText:after,
+.assistText:before {
+    border-right-color: var(--table-grey2);
+}
