@@ -97,6 +97,16 @@ input {
 
 
 
+/* Kontoauszug */
+.textRed {
+    color: var(--font-red) !important;
+}
+.textGreen {
+    color: var(--font-green) !important;
+}
+
+
+
 /* EZM Times */
 .timesHeadDate,
 .timesHeadUrl,
