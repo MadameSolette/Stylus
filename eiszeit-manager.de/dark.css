@@ -11,13 +11,15 @@
 /* ---------------------------------------- */
 /* --- DO NOT CHANGE ANYTHING FROM HERE --- */
 /* ---------------------------------------- */
-@import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/font.css';
 @import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/base64.css';
-@import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/splash.css';
 @import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/buero.css';
-@import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/team.css';
 @import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/contracts.css';
+@import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/finanzen.css';
+@import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/font.css';
+@import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/splash.css';
 @import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/taktik.css';
+@import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/team.css';
+@import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/training.css';
 
 :root {
     --transparent: transparent;
@@ -40,6 +42,8 @@
     --font-color3: #CDCDCD;
     --font-color4: #E1E3E5;
     --font-color5: #F5F5F6;
+    --font-red: #FF0000;
+    --font-green: #4FBF4F;
     --font-color-fault: #A91A1E;
     --link1: #427EAC;
     --link2: #4482B2;
