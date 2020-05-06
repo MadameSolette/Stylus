@@ -104,6 +104,7 @@ body {
 .freunde-name {
     border-color: var(--table-grey1);
     background: var(--table-grey1);
+    padding-left: 5px
 }
 .td-bg-grey {
     background: var(--table-grey2);
