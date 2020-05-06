@@ -110,8 +110,12 @@ body {
     background: var(--table-grey2);
 }
 .dbButton {
-    background: var(--dark-grey);
-    border-color: var(--dark-grey);
+    background: var(--medium-grey1);
+    border-color: var(--font-color1);
+    border-radius: var(--border-radius);
+}
+.dbButton:hover {
+    background: var(--table-grey2);
 }
 .dbHeadBox {
     border-color: var(--table-grey1);
@@ -130,6 +134,7 @@ textarea {
 }
 input {
     background-color: var(--light-grey);
+    border-color: var(--font-color1);
 }
 .dbTextIcon {
     margin: 5px 0 0 3px;
