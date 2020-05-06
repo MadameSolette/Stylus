@@ -1,5 +1,6 @@
 .zeileGrau,
-.zeileGrau2 {
+.zeileGrau2,
+.spalte-grau-hell {
     background: var(--table-grey1);
     border-color: var(--table-grey1);
 }
