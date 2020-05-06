@@ -1,1 +1,18 @@
-
+.zeileGrau,
+.zeileGrau2 {
+    background: var(--table-grey1);
+    border-color: var(--table-grey1);
+}
+.zeileGrau3 {
+    background: var(--table-grey2);
+    border-color: var(--table-grey2);
+}
+.spalte-blau,
+.spalte-finanzen {
+    background: var(--medium-grey1);
+}
+input {
+    border-width: 1px;
+    border-style: solid;
+    height: 100%;
+}
