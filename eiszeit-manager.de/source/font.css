@@ -15,6 +15,9 @@ textarea {
 input {
     color: var(--font-color4);
 }
+select {
+    color: var(--font-color4);
+}
 
 /* Buero */
 .db-head-text {
