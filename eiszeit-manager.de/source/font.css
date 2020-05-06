@@ -80,6 +80,18 @@ input {
 
 
 
+/* Finanzen */
+.zeileGrau,
+.zeileGrau2,
+.zeileGrau3,
+.spalte-blau,
+.spalte-finanzen,
+td {
+    color: var(--font-color4);
+}
+
+
+
 /* Taktik */
 .buttonBlue {
     color: var(--font-color5);
