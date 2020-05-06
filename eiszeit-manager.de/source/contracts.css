@@ -2,3 +2,9 @@
     background: var(--medium-grey1);
     border-color: var(--medium-grey1);
 }
+.zeileGrau {
+    background: var(--table-grey2);
+    border-color: var(--light-grey);
+    border-width: 1px;
+    text-align: center;
+}
