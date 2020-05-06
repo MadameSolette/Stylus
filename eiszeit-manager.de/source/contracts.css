@@ -2,15 +2,3 @@
     background: var(--medium-grey1);
     border-color: var(--medium-grey1);
 }
-
-#infobox > table {
-    background: var(--table-grey2);
-    width: 50%;
-    border-spacing: 0px;
-}
-#infobox > table > tbody > tr > td {
-    background: var(--table-grey2);
-    border-color: var(--light-grey);
-    border-width: 1px;
-    text-align: center;
-}
