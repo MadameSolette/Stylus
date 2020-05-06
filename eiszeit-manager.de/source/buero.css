@@ -185,3 +185,6 @@ input {
 .assistText:before {
     border-right-color: var(--table-grey2);
 }
+:focus {
+    outline: -webkit-focus-ring-color auto 0px;
+}
