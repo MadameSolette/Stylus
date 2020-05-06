@@ -136,6 +136,9 @@ input {
     background-color: var(--light-grey);
     border-color: var(--font-color1);
 }
+input:disabled {
+    background-color: var(--medium-grey2)
+}
 .dbTextIcon {
     margin: 5px 0 0 3px;
 }
