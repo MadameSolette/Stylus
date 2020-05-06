@@ -45,6 +45,15 @@ input {
 .hinweis-fehler {
     font-weight: bold;
 }
+.ui-widget,
+.ui-widget-content {
+    color: var(--font-color4);
+    font-size: 12px;
+    font-family: Verdana, sans-serif;
+}
+.ui-draggable .ui-dialog-titlebar {
+    font-variant: small-caps;
+}
 
 
 
@@ -75,6 +84,13 @@ input {
 
 /* Contracts */
 #infobox > table > tbody > tr > td {
+    color: var(--font-color4);
+}
+
+
+
+/* Training */
+.zeileMarkedBlue select {
     color: var(--font-color4);
 }
 
