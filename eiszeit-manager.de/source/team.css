@@ -33,6 +33,7 @@
 }
 select {
     background: var(--light-grey);
+    border-color: var(--font-color1);
 }
 .button-small {
     background: var(--medium-grey1);
