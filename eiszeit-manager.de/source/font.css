@@ -199,7 +199,7 @@ table a:hover b {
 }
 .box-db > a:link,
 .box-db > a:visited {
-    color: var(--border-color-ok);
+    color: var(--ok-100);
 }
 .dbTextIcon > a:hover {
     color: var(--medium-grey1);
