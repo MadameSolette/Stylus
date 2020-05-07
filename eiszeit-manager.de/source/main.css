@@ -72,15 +72,16 @@ input[type="image" i] {
 #footerBox {
     background-color: var(--dark-grey);
 }
+#screens {
+    padding-left: 22px;
+}
 h2 {
     font-variant: small-caps;
     color: var(--font-color3);
-
 }
 h3 {
     font-variant: small-caps;
     font-size: 14px;
-
 }
 .contentSection,
 .post-item2,
