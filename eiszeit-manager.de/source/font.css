@@ -3,6 +3,7 @@ u {
     text-decoration: none;
 }
 h1,
+h2,
 h3,
 h4,
 .box-db,
@@ -10,7 +11,11 @@ h4,
 .freunde-name,
 .dbTextBox,
 .taktik-box-weiss,
-#spalte-rechts {
+#spalte-rechts,
+.spalte-grau,
+.select2-container--default .select2-selection--single .select2-selection__rendered,
+.select2-container--default .select2-results__group,
+.select2-container--default .select2-results__option .select2-results__option {
     color: var(--font-color4) !important;
 }
 textarea {
