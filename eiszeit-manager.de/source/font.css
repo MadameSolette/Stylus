@@ -15,7 +15,8 @@ h4,
 .spalte-grau,
 .select2-container--default .select2-selection--single .select2-selection__rendered,
 .select2-container--default .select2-results__group,
-.select2-container--default .select2-results__option .select2-results__option {
+.select2-container--default .select2-results__option .select2-results__option,
+.gameBlock {
     color: var(--font-color4) !important;
 }
 textarea {
@@ -116,6 +117,21 @@ select {
 
 
 
+/* Liga */
+.schlagzeile {
+    color: var(--font-color5);
+    padding: 0px;
+    text-align: justify;
+}
+.presse-meldung {
+    text-align: justify;
+}
+.winner {
+    color: var(--font-green);
+}
+
+
+
 /* Finanzen */
 .zeileGrau,
 .zeileGrau2,
@@ -192,7 +208,9 @@ a:visited b,
 table a:link,
 table a:link b,
 table a:visited,
-table a:visited b {
+table a:visited b,
+a.team_link:link,
+a.team_link:visited {
     color: var(--link4);
     text-decoration: none;
 }
@@ -201,7 +219,8 @@ a:hover b,
 #navi a:hover,
 #navi a:hover b,
 table a:hover,
-table a:hover b {
+table a:hover b,
+a.team_link:hover {
     color: var(--link3);
     text-decoration: underline;
 }
