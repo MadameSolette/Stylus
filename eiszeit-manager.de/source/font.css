@@ -66,6 +66,14 @@ select {
 .ui-draggable .ui-dialog-titlebar {
     font-variant: small-caps;
 }
+.dbInfo > .dbTextIcon > a:link,
+.dbInfo > .dbTextIcon > a:visited {
+    color: var(--medium-grey1);
+}
+.dbInfo > .dbTextIcon {
+    float: none;
+    text-align: center;
+}
 
 
 
