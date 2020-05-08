@@ -35,7 +35,8 @@
     border-width: 5px;
     width: 90%;
 }
-.hinweis-hilfe {
+.hinweis-hilfe,
+.hinweis-info {
     background: var(--help);
     background-repeat: no-repeat !important;
     background-position: left !important;
