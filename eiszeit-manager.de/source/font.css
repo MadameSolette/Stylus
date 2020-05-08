@@ -46,7 +46,7 @@ h1 {
     font-size: 11px;
 }
 .dbTextSmall {
-    color: var(--font-color4);
+    color: var(--ok-100);
     font-variant: small-caps;
     font-size: 11px;
 }
