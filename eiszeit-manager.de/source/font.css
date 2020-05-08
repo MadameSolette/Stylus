@@ -227,7 +227,13 @@ a.team_link:hover {
 }
 .hinweis-fehler > a:link,
 .hinweis-fehler > a:visited {
-    color: var(--font-color-fault);
+    color: var(--fault);
+}
+.hinweis-hilfe > a:link,
+.hinweis-hilfe > a:visited,
+.hinweis-info > a:link,
+.hinweis-info > a:visited {
+    color: var(--medium-grey1);
 }
 .dbTextIcon > a:link b,
 .dbTextIcon > a:visited b {
@@ -235,7 +241,7 @@ a.team_link:hover {
 }
 .dbFault > .dbTextIcon > a:link b,
 .dbFault > .dbTextIcon > a:visited b {
-    color: var(--font-color-fault);
+    color: var(--fault);
 }
 .box-db > a:link,
 .box-db > a:visited {
@@ -245,7 +251,7 @@ a.team_link:hover {
     color: var(--medium-grey1);
 }
 .dbFault > .dbTextIcon > a:hover {
-    color: var(--font-color-fault);
+    color: var(--fault);
 }
 .portlet > h2 > a:link {
     font-variant: small-caps;
