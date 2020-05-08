@@ -182,22 +182,30 @@ td {
 .timesHeadDate,
 .timesHeadUrl,
 .timesHeadEzmdate {
-    color: var(--font-color3);
+    color: var(--font-color5);
 }
 .timesHeadingLeft,
 .timesHeadingCenter,
 .timesHeadingSmall {
-    color: var(--font-color3);
+    color: var(--font-color5);
     font-variant: small-caps;
 }
 .timesHeadingSmall {
-    font-size: 12px;
+    font-size: 13px;
 }
 .timesDatum,
 .timesText,
 .timesTransferTeam,
 .timesMore {
-    color: var(--font-color2);
+    color: var(--font-color3);
+    text-decoration: none;
+}
+ol,
+li,
+.timesText,
+.timesTransferTeam,
+.timesMore {
+    color: var(--font-color4);
 }
 
 
