@@ -156,7 +156,8 @@ td {
 #infobox > ul {
     color: var(--font-color3);
 }
-.hinweis-hilfe {
+.hinweis-hilfe,
+.hinweis-info {
     color: var(--medium-grey1);
 }
 
