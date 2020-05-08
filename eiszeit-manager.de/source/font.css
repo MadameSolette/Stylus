@@ -249,12 +249,10 @@ a.team_link:hover {
     color: var(--medium-grey1);
 }
 .dbTextIcon > a:link b,
-.dbTextIcon > a:visited b {
-    color: var(--medium-grey1);
-}
+.dbTextIcon > a:visited b,
 .dbFault > .dbTextIcon > a:link b,
 .dbFault > .dbTextIcon > a:visited b {
-    color: var(--fault);
+    color: var(--medium-grey1);
 }
 .box-db > a:link,
 .box-db > a:visited {
