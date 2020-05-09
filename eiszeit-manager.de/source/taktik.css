@@ -36,7 +36,8 @@
     width: 90%;
 }
 .hinweis-hilfe,
-.hinweis-info {
+.hinweis-info,
+.hinweis-back {
     background: var(--help);
     background-repeat: no-repeat !important;
     background-position: left !important;
