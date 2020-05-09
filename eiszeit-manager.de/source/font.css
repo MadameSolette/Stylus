@@ -245,7 +245,9 @@ a.team_link:hover {
 .hinweis-hilfe > a:link,
 .hinweis-hilfe > a:visited,
 .hinweis-info > a:link,
-.hinweis-info > a:visited {
+.hinweis-info > a:visited,
+.hinweis-back > a:link,
+.hinweis-back > a:visited {
     color: var(--medium-grey1);
 }
 .dbTextIcon > a:link b,
