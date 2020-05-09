@@ -240,7 +240,7 @@ a.team_link:hover {
 }
 .hinweis-fehler > a:link,
 .hinweis-fehler > a:visited {
-    color: var(--fault);
+    color: var(--font-color-fault);
 }
 .hinweis-hilfe > a:link,
 .hinweis-hilfe > a:visited,
