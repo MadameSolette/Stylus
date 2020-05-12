@@ -3,9 +3,6 @@
     border-color: var(--medium-grey2);
     border-style: solid;
     border-width: 1px;
-    outline-color: var(--medium-grey1);
-    outline-style: solid;
-    outline-width: 0px;
     width: 70%;
     margin: 0px auto;
     border-radius: var(--border-radius);
