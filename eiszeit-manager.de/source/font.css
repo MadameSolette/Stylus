@@ -230,6 +230,19 @@ li,
 
 
 
+/* Supporter */
+.text-dark-grey {
+    color: var(--font-color5);
+}
+.text-blue1 {
+    color: var(--font-color-blue1) !important;
+}
+th {
+    color: var(--font-color4);
+}
+
+
+
 /* Links */
 a:link,
 a:link b,
