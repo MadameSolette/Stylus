@@ -105,6 +105,11 @@ h1 {
 .button-small {
     color: var(--font-color5);
 }
+/* Team Info */
+
+.hof_season {
+    color: var(--medium-grey1);
+}
 
 
 
@@ -300,5 +305,11 @@ a.team_link:hover {
     color: var(--fault);
 }
 .portlet > h2 > a:link {
+    font-variant: small-caps;
+}
+.hof_name > a:link {
+    font-size: 11px;
+    color: var(--medium-grey1);
+    text-transform: none;
     font-variant: small-caps;
 }
