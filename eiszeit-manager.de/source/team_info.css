@@ -1,1 +1,5 @@
-
+.divider-hori {
+    background: var(--medium-grey1);
+    border-width: 0px;
+    height: 5px;
+}
