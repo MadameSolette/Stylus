@@ -191,6 +191,13 @@ td {
 
 
 
+/* Inbox */
+.spalten-namen-mail {
+    color: var(--font-color4);
+}
+
+
+
 /* EZM Times */
 .timesHeadDate,
 .timesHeadUrl,
