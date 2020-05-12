@@ -137,6 +137,15 @@ h1 {
 
 
 
+/* Draft */
+.draftScreenHeading {
+    background: var(--light-grey);
+    color: var(--help);
+    padding-top: 10px
+}
+
+
+
 /* Finanzen */
 .zeileGrau,
 .zeileGrau2,
