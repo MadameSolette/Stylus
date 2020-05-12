@@ -17,11 +17,13 @@
 @import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/draft.css';
 @import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/finanzen.css';
 @import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/font.css';
+@import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/inbox.css';
 @import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/liga.css';
 @import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/nachwuchs.css';
 @import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/splash.css';
 @import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/taktik.css';
 @import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/team.css';
+@import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/team_info.css';
 @import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/training.css';
 
 :root {
