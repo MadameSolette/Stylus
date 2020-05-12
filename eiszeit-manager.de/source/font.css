@@ -106,7 +106,6 @@ h1 {
     color: var(--font-color5);
 }
 /* Team Info */
-
 .hof_season {
     color: var(--medium-grey1);
 }
@@ -142,7 +141,9 @@ h1 {
 .zeileMarkedBlue select {
     color: var(--font-color4);
 }
-
+#infobox {
+    color: var(--font-color4);
+}
 
 
 /* Liga */
