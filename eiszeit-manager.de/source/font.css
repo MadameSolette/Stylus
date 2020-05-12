@@ -108,6 +108,24 @@ h1 {
 
 
 
+/* Taktik */
+.buttonBlue {
+    color: var(--font-color5);
+}
+#infobox > h3 {
+    color: var(--font-color4);
+    font-variant: small-caps;
+}
+#infobox > ul {
+    color: var(--font-color3);
+}
+.hinweis-hilfe,
+.hinweis-info {
+    color: var(--medium-grey1);
+}
+
+
+
 /* Contracts */
 #infobox > table > tbody > tr > td {
     color: var(--font-color4);
@@ -156,33 +174,19 @@ h1 {
 td {
     color: var(--font-color4);
 }
-
-
-
-/* Taktik */
-.buttonBlue {
-    color: var(--font-color5);
-}
-#infobox > h3 {
-    color: var(--font-color4);
-    font-variant: small-caps;
-}
-#infobox > ul {
-    color: var(--font-color3);
-}
-.hinweis-hilfe,
-.hinweis-info {
-    color: var(--medium-grey1);
-}
-
-
-
 /* Kontoauszug */
 .textRed {
     color: var(--font-red) !important;
 }
 .textGreen {
     color: var(--font-green) !important;
+}
+
+
+
+/* Statistiken */
+.legendLabel {
+    color: var(--medium-grey1)
 }
 
 
