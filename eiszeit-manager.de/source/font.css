@@ -160,6 +160,40 @@ h1 {
 }
 
 
+/* Match Details */
+.scoreMB,
+.drittelHead,
+.drittelZeile {
+    color: var(--font-color5);
+}
+.tableheadMB {
+    color: var(--font-color5);
+    font-size: 12px;
+    font-variant: small-caps;
+    text-align: center;
+}
+.zeileGrau3.text-blue1 {
+    color: var(--font-color5) !important;
+    font-size: 12px;
+    font-variant: small-caps !important;
+    text-align: center !important;
+}
+.ticker-clock {
+    color: var(--ok-100);
+    font-weight: normal;
+}
+.ticker-comment {
+    text-align: center;
+    font-size: 10pt;
+}
+.ticker-comment {
+    color: var(--medium-grey1);
+}
+.playercard-team {
+    color: var(--medium-grey1);
+}
+
+
 
 /* Draft */
 .draftScreenHeading {
@@ -313,4 +347,7 @@ a.team_link:hover {
     color: var(--medium-grey1);
     text-transform: none;
     font-variant: small-caps;
+}
+.playercard > h2 > a:link {
+    color: var(--medium-grey1);
 }
