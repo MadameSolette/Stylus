@@ -19,6 +19,7 @@
 @import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/font.css';
 @import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/inbox.css';
 @import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/liga.css';
+@import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/match_detail.css';
 @import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/nachwuchs.css';
 @import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/splash.css';
 @import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/taktik.css';
@@ -50,6 +51,7 @@
     --font-red: #FF0000;
     --font-green: #4FBF4F;
     --font-color-fault: #A91A1E;
+    --font-color-blue1: #4782b1;
     --link1: #427EAC;
     --link2: #4482B2;
     --link3: #7DABD6;
