@@ -136,7 +136,6 @@ td.freunde-name.tdCenter, .td-bg-grey {
 }
 textarea {
     background: var(--table-grey1);
-    border-color: var(--table-grey1);
 }
 input {
     background-color: var(--table-grey1) !important;
