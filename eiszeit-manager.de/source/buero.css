@@ -140,6 +140,9 @@ textarea {
 input {
     background-color: var(--table-grey1) !important;
     border-color: var(--font-color1);
+    border-width: 1px;
+    border-style: solid;
+    padding: 3px;
 }
 input:disabled {
     background-color: var(--medium-grey2)
