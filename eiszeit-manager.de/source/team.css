@@ -27,6 +27,7 @@
     border: var(--tdG);
 }
 .inputJerseyNumber {
+    background: var(--light-grey) !important;
     border-width: 1px;
     border-style: solid;
     height: 100%;
