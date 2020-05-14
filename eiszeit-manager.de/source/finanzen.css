@@ -12,7 +12,3 @@
 .spalte-finanzen {
     background: var(--medium-grey1);
 }
-input {
-    border-width: 1px;
-    border-style: solid;
-}
