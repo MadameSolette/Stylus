@@ -159,15 +159,15 @@ input:disabled {
 }
 .helpPhone {
     height: 104px;
-    transform: rotate(-25deg);
-    transition: all 250ms ease;
-    margin-left: 30px;
+    /* transform: rotate(-25deg); */
+    /* transition: all 250ms ease; */
+    /* margin-left: 30px; */
 }
-.helpPhone:hover {
-    transform: rotate(0deg);
-    margin-left: -5px;
-    margin-top: -20px;
-}
+/* .helpPhone:hover {
+    /* transform: rotate(0deg); */
+    /* margin-left: -5px; */
+    /* margin-top: -20px; */
+} */
 .ui-widget.ui-widget-content {
     background: var(--medium-grey1);
     border-color: var(--medium-grey1);
