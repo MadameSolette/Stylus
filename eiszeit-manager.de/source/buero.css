@@ -122,6 +122,7 @@ td.freunde-name.tdCenter, .td-bg-grey {
     background: var(--medium-grey1) !important;
     border-color: var(--font-color1);
     border-radius: var(--border-radius);
+    height: 23px;
 }
 .dbButton:hover {
     background: var(--table-grey2) !important;
