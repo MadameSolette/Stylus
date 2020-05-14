@@ -83,6 +83,13 @@ h1 {
 
 
 
+/* Achievements */
+#progressBarText {
+    color: var(--font-color4);
+}
+
+
+
 /* Team */
 .table-head {
     text-align: center !important;
