@@ -1,12 +1,20 @@
-/* Dark Theme */
-/* https://github.com/MadameSolette/Stylus/tree/master/eiszeit-manager.de */
+/***************************************************************************************/
+/* name         EZM - Minimalistic Dark                                                */
+/* version      1.0.0                                                                  */
+/* description  Clean & Minimalistic Theme                                             */
+/* namespace    https://github.com/MadameSolette/Stylus/tree/master/eiszeit-manager.de */
+/* author       MadameSolette                                                          */
+/* namespace    https://github.com/MadameSolette/Stylus/tree/master/eiszeit-manager.de */
+/* supportURL   https://github.com/MadameSolette/Stylus/issues                         */
+/* namespace    https://github.com/MadameSolette/Stylus/tree/master/eiszeit-manager.de */
+/* license      None                                                                   */
+/***************************************************************************************/
 
-/* -------------------------------------------------------------------------------------------------------------- */
-/* ---------------- FEEL FREE TO DELETE THE @import LINE IF YOU DONT WANT THE MINIMALISTIC STYLE ---------------- */
-/* -------------------------------------------------------------------------------------------------------------- */
-/* -------- @import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/minimalistic.css'; -------- */
-/* -------------------------------------------------------------------------------------------------------------- */
-@import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/minimalistic.css';
+/* ---------------------------------------------------------------------------------------------------- */
+/* ------- FEEL FREE TO DELETE ANY @import LINES IF YOU WANT THE HEADER AND/OR BACKGROUND IMAGE ------- */
+/* ---------------------------------------------------------------------------------------------------- */
+@import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/header.css';
+@import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/background_image.css';
 
 /* ---------------------------------------- */
 /* --- DO NOT CHANGE ANYTHING FROM HERE --- */
@@ -21,6 +29,7 @@
 @import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/inbox.css';
 @import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/liga.css';
 @import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/match_detail.css';
+@import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/minimalistic.css';
 @import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/nachwuchs.css';
 @import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/settings.css';
 @import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/splash.css';
