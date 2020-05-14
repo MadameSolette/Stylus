@@ -81,6 +81,9 @@ body {
     background: var(--medium-grey1);
     border-color: var(--light-grey);
     outline-color: var(--medium-grey1);
+    width: 92%;
+    height: 15px;
+    margin: 10px 5px 0px 0px;
 }
 .dbOK {
     background: var(--ok-100);
