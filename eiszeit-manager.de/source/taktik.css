@@ -17,7 +17,7 @@
     outline-color: var(--light-grey);
 }
 .buttonBlue {
-    background: var(--medium-grey1);
+    background: var(--medium-grey1) !important;
     border-color: var(--font-color1);
     border-radius: var(--border-radius);
     box-shadow: 0 0 0;
