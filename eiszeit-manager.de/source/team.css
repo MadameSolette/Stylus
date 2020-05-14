@@ -35,14 +35,3 @@ select {
     background: var(--light-grey);
     border-color: var(--font-color1);
 }
-.button-small {
-    background: var(--medium-grey1);
-    border-color: var(--font-color1);
-    border-width: 1px;
-    border-radius: var(--border-radius);
-    height: 30px;
-    min-width: 90px;
-}
-.button-small:hover {
-    background: var(--table-grey2) !important;
-}
