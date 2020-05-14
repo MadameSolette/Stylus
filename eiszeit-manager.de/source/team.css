@@ -44,5 +44,5 @@ select {
     min-width: 90px;
 }
 .button-small:hover {
-    background: var(--table-grey2);
+    background: var(--table-grey2) !important;
 }
