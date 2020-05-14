@@ -35,3 +35,14 @@ select {
     background: var(--light-grey);
     border-color: var(--font-color1);
 }
+input.button-small {
+    background: var(--medium-grey1) !important;
+    border-color: var(--font-color1);
+    border-width: 1px;
+    border-radius: var(--border-radius);
+    height: 30px;
+    min-width: 90px;
+}
+input.button-small:hover {
+    background: var(--table-grey2) !important;
+}
