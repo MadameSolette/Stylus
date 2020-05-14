@@ -110,7 +110,7 @@ body {
     background: var(--table-grey2);
 }
 .dbButton {
-    background: var(--medium-grey1);
+    background: var(--medium-grey1) !important;
     border-color: var(--font-color1);
     border-radius: var(--border-radius);
 }
