@@ -139,7 +139,7 @@ textarea {
     border-color: var(--table-grey1);
 }
 input {
-    background-color: var(--light-grey) !important;
+    background-color: var(--table-grey1) !important;
     border-color: var(--font-color1);
 }
 input:disabled {
