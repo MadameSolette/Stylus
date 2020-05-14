@@ -77,9 +77,10 @@ input[type="image" i] {
 }
 h2 {
     font-variant: small-caps;
-    color: var(--font-color3);
+    color: var(--font-color5);
 }
 h3 {
+    color: var(--link3);
     font-variant: small-caps;
     font-size: 14px;
 }
@@ -90,7 +91,7 @@ form,
 .submitButton,
 .facts,
 #footerText {
-    color: var(--font-color3);
+    color: var(--font-color4);
 }
 u {
     text-decoration: none;
