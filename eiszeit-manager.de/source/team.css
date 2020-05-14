@@ -35,6 +35,7 @@ select {
     background: var(--light-grey);
     border-color: var(--font-color1);
 }
+.button-small,
 input.button-small {
     background: var(--medium-grey1) !important;
     border-color: var(--font-color1);
@@ -43,6 +44,7 @@ input.button-small {
     height: 30px;
     min-width: 90px;
 }
+.button-small:hover,
 input.button-small:hover {
     background: var(--table-grey2) !important;
 }
