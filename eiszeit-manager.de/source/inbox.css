@@ -18,7 +18,7 @@
 textarea {
     background: var(--table-grey1);
     border-color: var(--medium-grey1);
-    border-width: 5px;
+    border-width: 2px;
     border-style: solid;
     padding: 5px;
 }
