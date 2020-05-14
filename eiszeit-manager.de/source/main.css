@@ -46,8 +46,9 @@ input[type="image" i] {
 .submitButton {
     background-image: none;
     background-color: var(--dark-grey);
-    border-color: var(--font-color1);
-    border-radius: var(--border-radius);
+    border-color: var(--input-border);
+    border-width: 2px;
+    border-radius: 3px;
     box-shadow: 0 0 0 0;
     height: 35px;
 }
