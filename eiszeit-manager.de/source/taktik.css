@@ -23,7 +23,7 @@
     box-shadow: 0 0 0;
 }
 .buttonBlue:hover {
-    background: var(--table-grey2);
+    background: var(--table-grey2) !important;
 }
 #slickbox {
     padding-left: 9%;
