@@ -249,6 +249,9 @@ td {
 .tradeDeadlineHead {
     font-size: 18px;
 }
+.countdown_deadline div {
+    font-weight: 900;
+}
 
 
 
