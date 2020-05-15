@@ -232,3 +232,9 @@ input:disabled {
     border-color: var(--light-grey);
     outline-color: var(--ok-100);
 }
+.db-header-change-link {
+    opacity: 0.3;
+}
+::-webkit-scrollbar {
+    display: none;
+}
