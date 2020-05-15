@@ -30,6 +30,7 @@ body {
 }
 #header-new {
     background: var(--medium-grey2);
+    width: 902px;
     opacity: 0.8;
 }
 #seite {
