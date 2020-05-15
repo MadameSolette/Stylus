@@ -1,22 +1,5 @@
-body {
-    background-image: none !important;
-}
-#header-new {
-    height: 0px;
-}
-#navi {
-    background-image: none !important;
-    margin-top: 10px;
-}
 .db-header-change-link {
     opacity: 0.0;
-}
-#content {
-    margin-top: -20px;
-}
-#dashboard {
-    width: 100%;
-    margin: 0px 5px 20px 0px;
 }
 ::-webkit-scrollbar {
     display: none;
