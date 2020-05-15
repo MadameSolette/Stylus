@@ -5,6 +5,6 @@
 }
 .box-weiss-big {
     background-color: var(--light-grey);
-    border: 1px solid var(--light-grey);
+    border: 1px solid var(--medium-grey1);
     outline-color: var(--light-grey);
 }
