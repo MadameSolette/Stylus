@@ -169,7 +169,7 @@ input:disabled {
     /* margin-top: -20px; */
 } */
 .ui-widget.ui-widget-content {
-    background: var(--medium-grey1);
+    background: var(--medium-grey1) !important;
     border-color: var(--medium-grey1);
 }
 .ui-dialog .ui-dialog-content {
