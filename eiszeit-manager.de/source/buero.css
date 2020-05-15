@@ -82,6 +82,12 @@ body {
     margin: 0px;
     padding-top: 5px;
 }
+.db-left {
+    width: 5px;
+}
+.db-right {
+    width: 13px;
+}
 .dbTextSmall {
     background: var(--medium-grey1);
     border-color: var(--light-grey);
