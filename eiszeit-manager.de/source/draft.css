@@ -1,8 +1,11 @@
 .box-draft-big {
-    background: var(--medium-grey1);
-    border-color: var(--medium-grey2);
+    background: var(--light-grey);
+    border-color: var(--medium-grey1);
     border-style: solid;
     border-width: 1px;
+    outline-color: var(--light-grey);
+    outline-style: solid;
+    outline-width: 1px;
     width: 70%;
     margin: 0px auto;
     border-radius: var(--border-radius);
