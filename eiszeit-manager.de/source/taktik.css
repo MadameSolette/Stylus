@@ -13,7 +13,7 @@
 .taktik-box-weiss,
 .button-trenner {
     background-color: var(--light-grey);
-    border-color: var(--light-grey);
+    border: 1px solid var(--medium-grey1);
     outline-color: var(--light-grey);
 }
 .buttonBlue {
