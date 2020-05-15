@@ -240,6 +240,18 @@ td {
 
 
 
+/* Transfer */
+.tradeDeadlineHead,
+.countdown_deadline {
+    color: var(--medium-grey1);
+    font-variant: small-caps;
+}
+.tradeDeadlineHead {
+    font-size: 18px;
+}
+
+
+
 /* Statistiken */
 .legendLabel {
     color: var(--medium-grey1)
