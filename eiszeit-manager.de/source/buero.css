@@ -233,7 +233,7 @@ input:disabled {
     outline-color: var(--ok-100);
 }
 .db-header-change-link {
-    opacity: 0.3;
+    opacity: 0.1;
 }
 ::-webkit-scrollbar {
     display: none;
