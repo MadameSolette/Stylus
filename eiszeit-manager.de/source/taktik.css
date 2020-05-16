@@ -9,6 +9,7 @@
     background-color: var(--medium-grey1);
     border-color: var(--medium-grey1);
     border-radius: var(--border-radius);
+    padding: 10px;
 }
 .taktik-box-weiss,
 .button-trenner {
