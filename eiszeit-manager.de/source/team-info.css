@@ -18,3 +18,9 @@
 .box-blau-big > .box-weiss-big > #slickbox {
     padding-left: 0%;
 }
+.box-blau-big {
+    padding: 10px;
+}
+.box-col-wide {
+    width: 68%;
+}
