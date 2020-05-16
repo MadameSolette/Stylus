@@ -199,6 +199,9 @@ input:disabled {
     /* margin-left: -5px; */
     /* margin-top: -20px; */
 }
+.sidebarFixed {
+    margin-top: 125px;
+}
 .ui-widget-content {
     background:var(--medium-grey1);
     border: 1px solid var(--medium-grey1);
