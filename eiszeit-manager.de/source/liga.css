@@ -46,7 +46,7 @@
 .trenner {
     float: left;
     background: var(--light-grey);
-    width: 22px;
+    width: 12px;
     height: 57px;
 }
 .lineInfo {
