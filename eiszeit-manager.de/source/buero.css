@@ -12,6 +12,7 @@ body {
 .dashboard-box-inner {
     border-color: var(--medium-grey1);
     outline-color: var(--light-grey);
+    margin: 5px;
 }
 #dashboard {
     background: var(--medium-grey1);
@@ -37,15 +38,32 @@ body {
     background: var(--medium-grey2);
     border-color: var(--medium-grey2);
 }
+#db-spalte-links-new {
+    margin: -14px 0px 0px -4px;
+}
+#db-spalte-mitte-new {
+    margin: -14px 0px 0px 5px;
+}
+#db-spalte-rechts-new {
+    margin: -9px 0px 0px 0px;
+}
+#col1 {
+    padding: 2px 0px 0px 1px;
+}
+#col2 {
+    padding: 2px 0px 0px 0px;
+}
 .box-db {
     background: var(--light-grey);
     border-color: var(--medium-grey1);
     outline-color: var(--light-grey);
+    margin: 20px 0 10px 10px;
 }
 .box-db-wide-new {
     background: var(--light-grey) !important;
     border-color: var(--medium-grey1);
     outline-color: var(--light-grey);
+    margin: 20px 0px 5px 15px;
 }
 .box-db-small {
     background: var(--light-grey);
@@ -69,6 +87,7 @@ body {
     outline-color: var(--light-grey);
     outline-style: solid;
     outline-width: 1px;
+    width: 245px;
 }
 .db-left,
 .db-head-wider,
@@ -172,7 +191,7 @@ input:disabled {
     height: 104px;
     margin-top: -125px;
     /* transform: rotate(-25deg); */
-    /* transition: all 250ms ease; */
+    transition: all 250ms ease;
     /* margin-left: 30px; */
 }
 .helpPhone:hover {
