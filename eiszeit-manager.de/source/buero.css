@@ -274,3 +274,34 @@ input:disabled {
 ::-webkit-scrollbar {
     display: none;
 }
+input[type=file] {
+    -webkit-box-sizing: border-box;
+    position: relative;
+    -webkit-appearance: textfield;
+}
+input[type=file]::-webkit-file-upload-button {
+    width: 0;
+    padding: 0;
+    margin: 3px;
+    -webkit-appearance: none;
+    border: none;
+}
+x::-webkit-file-upload-button,
+input[type=file]:after {
+    content: '->  Browse File...';
+    position: relative;
+    margin-left:110px;
+}
+input[type="file"]::-ms-browse {
+    width: 0;
+    padding: 0;
+    margin: 3px;
+    -webkit-appearance: none;
+    border: none;
+}
+x::-ms-browse,
+input[type=file]:after {
+    content: '->  Browse File...';
+    position: relative;
+    margin-left:110px;
+}
