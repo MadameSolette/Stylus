@@ -18,11 +18,11 @@
    - Minimalistic style without header & background image
  - The office banner has now a transparent background, you can use transparent .png's/.gif's without having a blue background;
  - Mouseover undelined links;
- - Section tabs have now a hover function;
+ - Section tabs has now a hover function;
  - Inner box outlines available on each site;
  - Headlines in small caps variant;
  - All buttons are hovered;
- - Our lovely "Assistentin" have now a new phone and is hovered 😉
+ - Our lovely "Assistentin" have now a new phone and its hovered 😉
  - Golden Hall of fame;
  - At the top of the game schedule the winning team is green;
  - Fixed "Browse Files" system button;
