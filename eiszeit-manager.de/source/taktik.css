@@ -48,6 +48,7 @@
     outline-style: solid;
     outline-width: 1px;
 }
+.hinweis-ausbau,
 .hinweis-ok {
     background: var(--ok-100);
     background-repeat: no-repeat !important;
