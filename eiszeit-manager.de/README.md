@@ -2,7 +2,7 @@
 <br>
 
 <p align="center">
- <image src="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/screenshot-section/images/preview-thumb.png">
+ <a href="https://github.com/MadameSolette/Stylus/tree/master/eiszeit-manager.de/screenshot-section""><img src="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/screenshot-section/images/preview-thumb.png" /></a>
 </p>
 
 # Installation:
@@ -18,3 +18,6 @@
 # Development status:
  - Active
  - Last update: 18.05.2020
+
+
+[https://github.com/MadameSolette/Stylus/tree/master/eiszeit-manager.de/screenshot-section]
