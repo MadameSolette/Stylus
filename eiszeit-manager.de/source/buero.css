@@ -288,7 +288,7 @@ input[type=file]::-webkit-file-upload-button {
 }
 x::-webkit-file-upload-button,
 input[type=file]:after {
-    content: '->  Browse File...';
+    content: '->  Browse Files...';
     position: relative;
     margin-left:110px;
 }
