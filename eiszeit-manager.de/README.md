@@ -7,7 +7,7 @@
  - No advantages/disadvantages;
  - All rights at https://www.eiszeit-manager.de/ ;
  - All CCS codes available in the source folder;
- - Stylus main codes use @include for a silent update function;
+ - <a href="https://github.com/MadameSolette/Stylus/blob/master/eiszeit-manager.de/dark-buero.css">dark-buero.css</a> & <a href="https://github.com/MadameSolette/Stylus/blob/master/eiszeit-manager.de/dark-main.css">dark-main.css</a> codes use @include for smart silent update function;
 <br><br>
 
  Whats "new"?
@@ -16,7 +16,7 @@
    - Only header
    - Only Background image
    - Minimalistic style without header & background image
- - Transparent background at the office banner, now you can use transparent .png's/.gif's;
+ - The office banner has now a transparent background, you can use transparent .png's/.gif's without having a blue background;
  - Mouseover undelined links;
  - Section tabs have now a hover function;
  - Inner box outlines available on each site;
