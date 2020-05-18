@@ -301,7 +301,7 @@ input[type="file"]::-ms-browse {
 }
 x::-ms-browse,
 input[type=file]:after {
-    content: '->  Browse File...';
+    content: '->  Browse Files...';
     position: relative;
     margin-left:110px;
 }
