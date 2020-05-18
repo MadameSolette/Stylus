@@ -18,6 +18,3 @@
 # Development status:
  - Active
  - Last update: 18.05.2020
-
-
-[https://github.com/MadameSolette/Stylus/tree/master/eiszeit-manager.de/screenshot-section]
