@@ -1,9 +1,11 @@
 # Made with love ❤
+
+## A clean dark <a href="https://add0n.com/stylus.html">Stylus</a> Theme for https://www.eiszeit-manager.de/
 <br>
 
 # Screenshot Section:
 <p align="center">
- <a href="https://github.com/MadameSolette/Stylus/tree/master/eiszeit-manager.de/screenshot-section""><img src="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/screenshot-section/images/preview-thumb.png" /></a>
+ <a href="https://github.com/MadameSolette/Stylus/tree/master/eiszeit-manager.de/screenshot-section"><img src="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/screenshot-section/images/preview-thumb.png" /></a>
 </p>
 
 # Installation:
