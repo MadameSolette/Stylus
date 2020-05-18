@@ -63,7 +63,8 @@
     outline-color: var(--medium-grey1);
     outline-style: solid;
     outline-width: 1px;
-    margin-left: 18px;
+    margin-left: 9px;
+    padding: 5px;
     min-height: 400px;
 }
 .ticker-timeline:before {
@@ -83,6 +84,7 @@
     background: var(--ok-100);
     outline: 1px solid  var(--ok-100);
     border: 1px solid var(--medium-grey1);
+    margin: 4px 8px 8px 143px;
 }
 .ticker-comment:before {
     border-right-color: var(--transparent);
