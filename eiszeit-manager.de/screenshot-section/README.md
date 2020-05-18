@@ -18,7 +18,7 @@
     <image src="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/screenshot-section/images/buero-background.png"><br><br>
 </p>
   
-# Büro without Header & Background Image
+# Büro minimalistic - without Header & Background Image
 <p align="center">
     <image src="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/screenshot-section/images/buero-minimalistic.png"><br><br>
 </p>
@@ -108,9 +108,19 @@
     <image src="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/screenshot-section/images/team-info.png"><br><br>
 </p>
   
+# Hall of fame
+<p align="center">
+    <image src="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/screenshot-section/images/hall-of-fame.png"><br><br>
+</p>
+  
 # Match Info
 <p align="center">
     <image src="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/screenshot-section/images/match-info.png"><br><br>
+</p>
+  
+# Live Ticker
+<p align="center">
+    <image src="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/screenshot-section/images/live-ticker.png"><br><br>
 </p>
   
 # Support
