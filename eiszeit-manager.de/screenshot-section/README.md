@@ -23,7 +23,7 @@
     <image src="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/screenshot-section/images/buero-minimalistic.png"><br><br>
 </p>
   
-# Upgraded Assistentin
+# Upgraded Assistentin 😉
 <p align="center">
     <image src="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/screenshot-section/images/assistentin.png"><br><br>
 </p>
