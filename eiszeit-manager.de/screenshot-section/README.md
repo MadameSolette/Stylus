@@ -113,7 +113,7 @@
     <image src="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/screenshot-section/images/team-info.png"><br><br>
 </p>
   
-# Hall of fame
+# Golden Hall of fame
 <p align="center">
     <image src="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/screenshot-section/images/hall-of-fame.png"><br><br>
 </p>
