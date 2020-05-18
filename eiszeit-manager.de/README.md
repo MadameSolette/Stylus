@@ -1,10 +1,9 @@
- 
 # Made with love ❤
 <br>
 
 ## A clean dark <a href="https://add0n.com/stylus.html">Stylus</a> Theme for https://www.eiszeit-manager.de/
 
- - Redesign & small CSS fixings for the great Browser Game Eiszeit Manager;
+ - Redesign & small CSS fixings for the great Browser Game "Eiszeit Manager";
  - No advantages/disadvantages;
  - All rights at https://www.eiszeit-manager.de/ ;
  - All CCS codes available in the source folder;
