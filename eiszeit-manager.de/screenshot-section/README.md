@@ -63,6 +63,11 @@
     <image src="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/screenshot-section/images/stadion.png"><br><br>
 </p>
   
+# Stadion Ausbau
+<p align="center">
+    <image src="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/screenshot-section/images/stadion-ausbau.png"><br><br>
+</p>
+  
 # Statistik
 <p align="center">
     <image src="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/screenshot-section/images/statistik.png"><br><br>
