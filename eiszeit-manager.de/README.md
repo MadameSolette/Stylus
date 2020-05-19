@@ -4,7 +4,7 @@
 ## A clean dark <a href="https://add0n.com/stylus.html">Stylus</a> Theme for https://www.eiszeit-manager.de/
 
  - Redesign & small CSS fixings for the great Browser Game "Eiszeit Manager";
- - No advantages/disadvantages;
+ - The style have no advantages & disadvantages;
  - All rights at https://www.eiszeit-manager.de/ ;
  - All CSS codes available in the source folder;
  - <a href="https://github.com/MadameSolette/Stylus/blob/master/eiszeit-manager.de/dark-buero.css">dark-buero.css</a> & <a href="https://github.com/MadameSolette/Stylus/blob/master/eiszeit-manager.de/dark-main.css">dark-main.css</a> codes use @include for a smart update function;
@@ -34,11 +34,11 @@
 </p>
 
 # Installation:
- - Create a new Style in Stylus;
+ - Create a new style in Stylus;
  - Give the new style a name;
 
 ## For the dark-main.css follow these steps:
- - Copy & paste the <a href="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/dark-main.css">dark-main.css</a> code in the stylus Code 1 window;
+ - Copy & paste the <a href="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/dark-main.css">dark-main.css</a> code in the stylus <b>Code 1</b> window;
  - Make sure you assign the two specific URL's to the style:
 ```
 Applies to:        URL                       https://www.eiszeit-manager.de/
@@ -47,7 +47,7 @@ Applies to:        URLs starting with        https://www.eiszeit-manager.de/inde
 <img src="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/screenshot-section/images/apply-to.png" />
 
 ## For the dark-buero.css follow these steps:
- - Add another section at the bottom of the Sylus window and copy & paste the <a href="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/dark-buero.css">dark-buero.css</a> in the Code 2 window;
+ - Add another section at the bottom of the Sylus window and copy & paste the <a href="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/dark-buero.css">dark-buero.css</a> in the <b>Code 2</b> window;
 <img src="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/screenshot-section/images/another-section.png" />
 
  - Assign also one specific URL for the style:
