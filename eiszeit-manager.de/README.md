@@ -4,8 +4,8 @@
 ## A clean dark <a href="https://add0n.com/stylus.html">Stylus</a> Theme for https://www.eiszeit-manager.de/
 
  - Redesign & small CSS fixings for the great Browser Game "Eiszeit Manager";
- - The style have no advantages & disadvantages;
- - All rights at https://www.eiszeit-manager.de/ ;
+ - The style has no advantages & disadvantages for the game;
+ - All content © at https://www.eiszeit-manager.de/ ;
  - All CSS codes available in the source folder;
  - <a href="https://github.com/MadameSolette/Stylus/blob/master/eiszeit-manager.de/dark-buero.css">dark-buero.css</a> & <a href="https://github.com/MadameSolette/Stylus/blob/master/eiszeit-manager.de/dark-main.css">dark-main.css</a> codes use @include for a smart update function;
 <br><br>
