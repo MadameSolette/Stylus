@@ -6,7 +6,7 @@
  - Redesign & small CSS fixings for the great Browser Game "Eiszeit Manager";
  - No advantages/disadvantages;
  - All rights at https://www.eiszeit-manager.de/ ;
- - All CCS codes available in the source folder;
+ - All CSS codes available in the source folder;
  - <a href="https://github.com/MadameSolette/Stylus/blob/master/eiszeit-manager.de/dark-buero.css">dark-buero.css</a> & <a href="https://github.com/MadameSolette/Stylus/blob/master/eiszeit-manager.de/dark-main.css">dark-main.css</a> codes use @include for a smart update function;
 <br><br>
 
