@@ -16,7 +16,7 @@
    - Header only
    - Background image only
    - Minimalistic: Without header & background image
- - The office banner has now a transparent background, you can use transparent .png's/.gif's without having a blue background;
+ - The office banner has now a transparent background, so you can use transparent .png's/.gif's without having a blue background;
  - Mouseover underlined links;
  - Section tabs has now a hover function;
  - Inner box outlines available on each site;
