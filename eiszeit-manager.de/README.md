@@ -26,6 +26,7 @@
  - Golden Hall of fame;
  - At the top of the game schedule the winning team is green;
  - Fixed "Browse Files" system button;
+ - and more . . .
 
 # Screenshot Section:
 <p align="center">
