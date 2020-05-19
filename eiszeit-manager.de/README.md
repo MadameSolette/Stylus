@@ -12,10 +12,10 @@
 
  Whats "new"?
  - You can use four diffrent variants of office styles:
-   - Standard header & background image
-   - Only header
-   - Only Background image
-   - Minimalistic style without header & background image
+   - Standard: Header & background image
+   - Header only
+   - Background image only
+   - Minimalistic: Without header & background image
  - The office banner has now a transparent background, you can use transparent .png's/.gif's without having a blue background;
  - Mouseover undelined links;
  - Section tabs has now a hover function;
