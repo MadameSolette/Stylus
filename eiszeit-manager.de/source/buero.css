@@ -178,10 +178,13 @@ input {
     border-style: solid;
     padding: 3px;
 }
-
+textarea:focus {
+    background-color: var(--medium-grey2);
+    border-color: var(--ok-100);
+}
 input:focus {
     background-color: var(--medium-grey2) !important;
-    border-color: var(--help);
+    border-color: var(--ok-100);
 }
 input:disabled {
     background-color: var(--light-grey) !important;
