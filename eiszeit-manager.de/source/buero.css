@@ -178,8 +178,14 @@ input {
     border-style: solid;
     padding: 3px;
 }
+
+input:focus {
+    background-color: var(--medium-grey2) !important;
+    border-color: var(--help);
+}
 input:disabled {
-    background-color: var(--medium-grey2)
+    background-color: var(--light-grey) !important;
+    border-color: var(--fault);
 }
 .dbTextIcon {
     margin: 5px 0 0 3px;
