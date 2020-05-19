@@ -1,5 +1,5 @@
 # Made with love ❤
-<br>
+<br><br><br>
 
 ## A clean dark <a href="https://add0n.com/stylus.html">Stylus</a> Theme for https://www.eiszeit-manager.de/
 
@@ -27,11 +27,13 @@
  - At the top of the game schedule the winning team is green;
  - Fixed "Browse Files" system button;
  - and more . . .
+ <br><br><br>
 
 # Screenshot Section:
 <p align="center">
  <a href="https://github.com/MadameSolette/Stylus/tree/master/eiszeit-manager.de/screenshot-section"><img src="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/screenshot-section/images/preview-thumb.png" /></a>
 </p>
+<br><br><br>
 
 # Installation:
  - Create a new style in Stylus;
@@ -56,10 +58,12 @@ Applies to:        URLs starting with        https://www.eiszeit-manager.de/inde
 Applies to:          URLs starting with        https://www.eiszeit-manager.de/buero/
 ```
  - Last step: Safe the style;
+<br><br><br>
 
 # CSS Codes:
 [![Stylus instant install](https://img.shields.io/badge/eiszeit%20manager-%20Dark%20Main%20Page%20-282828.svg?style=popout&logoColor=29FDFD&labelColor=606060&logo=Stylus)](https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/dark-main.css)<br>
 [![Stylus instant install](https://img.shields.io/badge/eiszeit%20manager-%20Dark%20Büro-282828.svg?style=popout&logoColor=29FDFD&labelColor=606060&logo=Stylus)](https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/dark-buero.css)
+<br><br><br>
 
 # Development status:
  - Active
