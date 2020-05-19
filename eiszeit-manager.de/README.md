@@ -63,4 +63,4 @@ Applies to:          URLs starting with        https://www.eiszeit-manager.de/bu
 
 # Development status:
  - Active
- - Last update: 18.05.2020
+ - Last update: 19.05.2020
