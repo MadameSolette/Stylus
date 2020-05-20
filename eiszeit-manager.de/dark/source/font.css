@@ -16,7 +16,8 @@ h4,
 .select2-container--default .select2-selection--single .select2-selection__rendered,
 .select2-container--default .select2-results__group,
 .select2-container--default .select2-results__option .select2-results__option,
-.gameBlock {
+.gameBlock,
+.text-light-grey {
     color: var(--font-color4) !important;
 }
 textarea {
