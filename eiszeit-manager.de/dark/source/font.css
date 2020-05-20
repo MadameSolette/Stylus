@@ -186,6 +186,13 @@ h1 {
 .winner {
     color: var(--font-green);
 }
+.ligatalk_beitrag {
+    color: var(--medium-grey1);
+}
+#content2 > div:nth-child(8) > div > div > div.ligatalk_name > a:link,
+#content2 > div:nth-child(8) > div > div > div.ligatalk_name > a:visited {
+    color: var(--medium-grey1);
+}
 
 
 /* Match Details */
