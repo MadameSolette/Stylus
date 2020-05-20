@@ -41,6 +41,11 @@ body {
 #db-spalte-links-new {
     margin: -14px 0px 0px -4px;
 }
+#db-spalte-links-new > div:nth-child(4) {
+    background: var(--ok-100);
+    border-color: var(--light-grey);
+    outline-color: var(--ok-100);
+}
 #db-spalte-mitte-new {
     margin: -14px 0px 0px 5px;
 }
