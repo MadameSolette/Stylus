@@ -91,6 +91,12 @@ h1 {
     float: none;
     text-align: center;
 }
+#db-spalte-mitte-new > div:nth-child(1) > h3 > a {
+    font-size: 18px;
+}
+#db-spalte-mitte-new > div:nth-child(1) > h4 {
+    font-size: 11px;
+}
 
 
 
