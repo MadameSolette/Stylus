@@ -16,7 +16,7 @@
     content: 'French';
 }
 #spalte-links > div:nth-child(12) > div:nth-child(1) > form > input[type=radio]:nth-child(12):after {
-    content: 'Italy';
+    content: 'Italia';
 }
 #spalte-links > div:nth-child(12) > div:nth-child(1) > form > input[type=radio]:nth-child(3):after,
 #spalte-links > div:nth-child(12) > div:nth-child(1) > form > input[type=radio]:nth-child(6):after,
