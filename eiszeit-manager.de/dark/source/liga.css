@@ -53,5 +53,7 @@
     padding: 15px 0px 0px 0px;
 }
 .input-ligatalk {
+    border-color: var(--font-color1);
+    border-style: solid;
     height: 22px;
 }
