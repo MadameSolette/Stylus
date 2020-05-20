@@ -27,3 +27,11 @@
 .margin-right-10 {
     margin-right: 16px;
 }
+#content2 > div.box-blau-big.box-col-small.margin-right-10 {
+    width: 25%;
+}
+#content2 > div.box-blau-big.box-col-wide > div > div:nth-child(10),
+#content2 > div.box-blau-big.box-col-wide > div > div:nth-child(13),
+#content2 > div.box-blau-big.box-col-wide > div > div:nth-child(7) {
+    width: 42.7%;
+}
