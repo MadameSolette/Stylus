@@ -10,7 +10,7 @@
  - <a href="https://github.com/MadameSolette/Stylus/blob/master/eiszeit-manager.de/dark-buero.css">dark-buero.css</a> & <a href="https://github.com/MadameSolette/Stylus/blob/master/eiszeit-manager.de/dark-main.css">dark-main.css</a> codes use @include for a smart update function;
 <br><br>
 
- Whats "new"?
+ Whats changed?
  - You can use four diffrent variants of office styles:
    - Standard: Header & background image
    - Header only
