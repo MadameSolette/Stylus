@@ -44,7 +44,7 @@
  - Make sure you assign the two specific URL's to the style:
 ```
 Applies to:        URL                       https://www.eiszeit-manager.de/
-Applies to:        URLs starting with        https://www.eiszeit-manager.de/index.php
+                   URLs starting with        https://www.eiszeit-manager.de/index.php
 ```
 <img src="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/screenshot-section/images/apply-to.png" />
 
@@ -58,6 +58,7 @@ Applies to:        URLs starting with        https://www.eiszeit-manager.de/inde
 Applies to:          URLs starting with        https://www.eiszeit-manager.de/buero/
 ```
  - Last step: Safe the style;
+ - It is nessesary you applies the specific URLs, if not, you have the CSS change on each website with similar classes;
 <br><br><br>
 
 # CSS Codes:
