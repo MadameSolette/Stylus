@@ -83,6 +83,9 @@ h1 {
 .ui-draggable .ui-dialog-titlebar {
     font-variant: small-caps;
 }
+.assistText {
+    color: var(--medium-grey1);
+}
 .dbInfo > .dbTextIcon > a:link,
 .dbInfo > .dbTextIcon > a:visited {
     color: var(--medium-grey1);
