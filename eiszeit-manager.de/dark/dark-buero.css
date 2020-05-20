@@ -11,32 +11,32 @@
 /* ---------------------------------------------------------------------------------------------------- */
 /* ------- FEEL FREE TO DELETE ANY @import LINES IF YOU WANT THE HEADER AND/OR BACKGROUND IMAGE ------- */
 /* ---------------------------------------------------------------------------------------------------- */
-@import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/header.css';
-@import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/background-image.css';
+@import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/dark/source/header.css';
+@import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/dark/source/background-image.css';
 
 /* ---------------------------------------- */
 /* --- DO NOT CHANGE ANYTHING FROM HERE --- */
 /* ---------------------------------------- */
-@import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/achievements.css';
-@import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/base64.css';
-@import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/buero.css';
-@import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/contracts.css';
-@import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/draft.css';
-@import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/finanzen.css';
-@import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/font.css';
-@import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/inbox.css';
-@import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/liga.css';
-@import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/match-detail.css';
-@import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/nachwuchs.css';
-@import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/settings.css';
-@import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/spieler-info.css';
-@import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/splash.css';
-@import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/taktik.css';
-@import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/team.css';
-@import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/team-info.css';
-@import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/training.css';
-@import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/transfer.css';
-@import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/trikot.css';
+@import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/dark/source/achievements.css';
+@import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/dark/source/base64.css';
+@import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/dark/source/buero.css';
+@import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/dark/source/contracts.css';
+@import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/dark/source/draft.css';
+@import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/dark/source/finanzen.css';
+@import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/dark/source/font.css';
+@import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/dark/source/inbox.css';
+@import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/dark/source/liga.css';
+@import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/dark/source/match-detail.css';
+@import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/dark/source/nachwuchs.css';
+@import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/dark/source/settings.css';
+@import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/dark/source/spieler-info.css';
+@import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/dark/source/splash.css';
+@import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/dark/source/taktik.css';
+@import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/dark/source/team.css';
+@import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/dark/source/team-info.css';
+@import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/dark/source/training.css';
+@import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/dark/source/transfer.css';
+@import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/dark/source/trikot.css';
 
 :root {
     --transparent: transparent;
