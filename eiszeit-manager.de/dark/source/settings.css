@@ -1,3 +1,8 @@
 .minicolors-theme-default .minicolors-input {
     border-radius: var(--border-radius);
+    height: 17px;
+}
+.minicolors-theme-default .minicolors-swatch {
+    width: 15px;
+    height: 15px;
 }
