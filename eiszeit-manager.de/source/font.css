@@ -328,7 +328,9 @@ table a:link b,
 table a:visited,
 table a:visited b,
 a.team_link:link,
-a.team_link:visited {
+a.team_link:visited,
+.spalte-blau a:link,
+.spalte-blau a:visited {
     color: var(--link4);
     text-decoration: none;
 }
@@ -338,7 +340,8 @@ a:hover b,
 #navi a:hover b,
 table a:hover,
 table a:hover b,
-a.team_link:hover {
+a.team_link:hover,
+.spalte-blau a:hover {
     color: var(--link3);
     text-decoration: underline;
 }
