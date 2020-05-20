@@ -1,0 +1,21 @@
+.tradeDeadlineHead {
+    background-color: var(--help);
+    border: 1px solid var(--light-grey);
+    outline-color: var(--help);
+    outline-style: solid;
+    outline-width: 1px;
+    margin-top: 17px;
+    
+}
+.tradeDeadline {
+    background-color: var(--help);
+    border: 1px solid var(--light-grey);
+    outline-color: var(--help);
+    outline-style: solid;
+    outline-width: 1px;
+    margin-top: 1px;
+    
+}
+.countdown_deadline div span {
+    border-top: 0px;
+}

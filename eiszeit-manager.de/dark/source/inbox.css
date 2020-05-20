@@ -1,0 +1,17 @@
+.spalten-namen-mail {
+    background: var(--medium-grey1);
+    border-color: var(--medium-grey1);
+}
+#mail-header {
+    background: var(--medium-grey1);
+    border-color: var(--medium-grey1);
+    border-width: 7px;
+    width: 49%;
+}
+.mail-text {
+    background: var(--table-grey1);
+    border-color: var(--medium-grey1);
+    border-width: 5px;
+    border-style: solid;
+    padding: 10px;
+}

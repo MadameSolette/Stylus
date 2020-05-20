@@ -1,0 +1,105 @@
+.match_logo_left,
+.match_logo_right {
+    background: var(--medium-grey1);
+    border-color: var(--light-grey);
+    border-width: 1px;
+    outline-color: var(--medium-grey1);
+    outline-style: solid;
+    outline-width: 1px;
+    width: 156px;
+}
+.trikotMB {
+    background: var(--medium-grey1);
+    border-color: var(--light-grey);
+    border-width: 1px;
+    outline-color: var(--medium-grey1);
+    outline-style: solid;
+    outline-width: 1px;
+    width: 156px;
+}
+.scoreMB {
+    background: var(--medium-grey1);
+    border-color: var(--light-grey);
+    border-width: 1px;
+    outline-color: var(--medium-grey1);
+    outline-style: solid;
+    outline-width: 1px;
+    padding: 7px;
+}
+.drittelHead {
+    background: var(--table-grey1);
+    height: 24px;
+}
+.drittelZeile {
+    background: var(--table-grey2);
+}
+.tableheadMB {
+    background: var(--medium-grey1);
+    border-color: var(--light-grey);
+    border-width: 1px;
+    outline-color: var(--medium-grey1);
+    outline-style: solid;
+    outline-width: 1px;
+    height: 25px;
+}
+.ticker-spalte-links {
+    max-width: 66%;
+}
+.ticker-spalte-links {
+    background: var(--medium-grey1);
+    border-color: var(--light-grey);
+    border-width: 1px;
+    outline-color: var(--medium-grey1);
+    outline-style: solid;
+    outline-width: 1px;
+    width: 66%;
+    max-width: 66%;
+    min-height: 600px;
+}
+.ticker-spalte-rechts {
+    background: var(--medium-grey1);
+    border-color: var(--light-grey);
+    border-width: 1px;
+    outline-color: var(--medium-grey1);
+    outline-style: solid;
+    outline-width: 1px;
+    margin-left: 9px;
+    padding: 5px;
+    min-height: 400px;
+}
+.ticker-timeline:before {
+    background: var(--ok-100);
+    border: 1px solid var(--ok-100);
+}
+.ticker-point {
+    background-color: var(--medium-grey1);
+    border-radius: 50%;
+    border: 2px solid var(--ok-100);
+    margin-left: 4px;
+}
+.ticker-clock {
+    background: var(--medium-grey1);
+}
+.ticker-comment {
+    background: var(--ok-100);
+    outline: 1px solid  var(--ok-100);
+    border: 1px solid var(--medium-grey1);
+    margin: 4px 8px 8px 143px;
+}
+.ticker-comment:before {
+    border-right-color: var(--transparent);
+    border-width: 11px;
+    outline-width: 11px;
+    margin-right: 0px;
+}
+.ticker-comment:after {
+    border-right-color: var(--ok-100);
+    border-width: 10px;
+    outline-width: 10px;
+    margin-top: -3px;
+    margin-right: 2px;
+}
+.playercard {
+    border-top: 1px solid var(--medium-grey1);
+    box-shadow: 0 0 0;
+}

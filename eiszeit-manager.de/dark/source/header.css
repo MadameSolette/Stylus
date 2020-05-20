@@ -1,0 +1,15 @@
+#header-new {
+    height: 0px;
+}
+#navi {
+    background-image: none !important;
+    margin-top: 10px !important;
+    height: 60px !important;
+}
+#content {
+    margin-top: -20px;
+}
+#dashboard {
+    width: 100%;
+    margin: 0px 5px 20px 0px;
+}
