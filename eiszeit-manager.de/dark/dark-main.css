@@ -1,0 +1,28 @@
+/***************************************************************************************/
+/* name         EZM - Minimalistic Dark                                                */
+/* version      1.0.0                                                                  */
+/* description  Clean & Minimalistic Theme                                             */
+/* namespace    https://github.com/MadameSolette/Stylus/tree/master/eiszeit-manager.de */
+/* author       MadameSolette                                                          */
+/* supportURL   https://github.com/MadameSolette/Stylus/issues                         */
+/* license      None                                                                   */
+/***************************************************************************************/
+
+/* ---------------------------------------- */
+/* --- DO NOT CHANGE ANYTHING FROM HERE --- */
+/* ---------------------------------------- */
+@import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/source/main.css';
+
+:root {
+    --dark-grey: #1A1A1A;
+    --medium-grey1: #222222;
+    --medium-grey2: #282828;
+    --light-grey: #303030;
+    --input-border: #4D6C9F;
+    --main-border: #4482B2;
+    --font-color4: #E1E3E5;
+    --font-color5: #F5F5F6;
+    --link3: #7DABD6;
+    --link4: #AED0F7;
+    --main-input-padding-left: 7px;
+}
