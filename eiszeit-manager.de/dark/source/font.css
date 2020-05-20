@@ -390,7 +390,8 @@ a.team_link:hover,
 }
 .box-db > a:link,
 .box-db > a:visited {
-    color: var(--ok-100);
+    color: var(--medium-grey1);
+    font-weight: bold;
 }
 .dbTextIcon > a:hover {
     color: var(--medium-grey1);
