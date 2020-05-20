@@ -2,6 +2,7 @@
 <br>
 
 # <a href="https://add0n.com/stylus.html">Stylus</a> Theme for https://www.eiszeit-manager.de/
+<br>
 
 # Dark Theme:
 <p align="center">
