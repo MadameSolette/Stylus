@@ -127,6 +127,10 @@ h1 {
 .hof_season {
     color: var(--medium-grey1);
 }
+#content2 > div.box-blau-big > div > div > p  {
+    color: var(--font-color4);
+    font-size: 12px;
+}
 
 
 
