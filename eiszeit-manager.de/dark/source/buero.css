@@ -238,6 +238,7 @@ input:disabled {
     outline-style: solid;
     outline-color: var(--light-grey);
     border-radius: var(--border-radius);
+    margin: 5px;
 }
 .ui-button:hover,
 .ui-button:active {
@@ -254,20 +255,28 @@ input:disabled {
     right: .1em;
 }
 .assistFace {
-    background: var(--table-grey2);
+    background: var(--medium-grey1);
     border-color: var(--medium-grey1);
     border-radius: var(--border-radius);
     outline-width: 1px;
     outline-style: solid;
-    outline-color: var(--table-grey2);
+    outline-color: var(--medium-grey1);
 }
 .assistText {
-    background: var(--table-grey2);
-    border-color: var(--light-grey);
+    background: var(--help);
+    border-color: var(--medium-grey1);
+    outline-color: var(--help);
+    outline-style: solid;
+    outline-width: 1px;
+    border-radius: var(--border-radius);
+    margin: 5px 5px 0px 5px;
 }
 .assistText:after,
 .assistText:before {
-    border-right-color: var(--table-grey2);
+    border-right-color: var(--help);
+    left: -22px;
+    border-width: 10px;
+    margin-top: 19px;
 }
 :focus {
     outline: -webkit-focus-ring-color auto 0px;
