@@ -7,7 +7,7 @@
  - The style has no advantages & disadvantages for the game;
  - All content © at https://www.eiszeit-manager.de/ ;
  - All CSS codes available in the source folder;
- - <a href="https://github.com/MadameSolette/Stylus/blob/master/eiszeit-manager.de/dark-buero.css">dark-buero.css</a> & <a href="https://github.com/MadameSolette/Stylus/blob/master/eiszeit-manager.de/dark-main.css">dark-main.css</a> codes use @include for a smart update function;
+ - <a href="https://github.com/MadameSolette/Stylus/blob/master/eiszeit-manager.de/dark/dark-buero.css">dark-buero.css</a> & <a href="https://github.com/MadameSolette/Stylus/blob/master/eiszeit-manager.de/dark/dark-main.css">dark-main.css</a> codes use @include for a smart update function;
 <br><br>
 
  Whats changed?
@@ -31,7 +31,7 @@
 
 # Screenshot Section:
 <p align="center">
- <a href="https://github.com/MadameSolette/Stylus/tree/master/eiszeit-manager.de/screenshot-section"><img src="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/screenshot-section/images/preview-thumb.png" /></a>
+ <a href="https://github.com/MadameSolette/Stylus/tree/master/eiszeit-manager.de/dark/screenshot-section"><img src="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/dark/screenshot-section/images/preview-thumb.png" /></a>
 </p>
 <br><br><br>
 
@@ -40,17 +40,17 @@
  - Give the new style a name;
 
 ## For the dark-main.css follow these steps:
- - Copy & paste the <a href="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/dark-main.css">dark-main.css</a> code in the stylus <b>Code 1</b> window;
+ - Copy & paste the <a href="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/dark/dark-main.css">dark-main.css</a> code in the stylus <b>Code 1</b> window;
  - Make sure you assign the two specific URL's to the style:
 ```
 Applies to:        URL                       https://www.eiszeit-manager.de/
                    URLs starting with        https://www.eiszeit-manager.de/index.php
 ```
-<img src="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/screenshot-section/images/apply-to.png" />
+<img src="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/dark/screenshot-section/images/apply-to.png" />
 
 ## For the dark-buero.css follow these steps:
- - Add another section at the bottom of the Sylus window and copy & paste the <a href="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/dark-buero.css">dark-buero.css</a> in the <b>Code 2</b> window;
-<img src="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/screenshot-section/images/another-section.png" />
+ - Add another section at the bottom of the Sylus window and copy & paste the <a href="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/dark/dark-buero.css">dark-buero.css</a> in the <b>Code 2</b> window;
+<img src="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/dark/screenshot-section/images/another-section.png" />
 
  - Assign also one specific URL for the style:
 
@@ -62,8 +62,8 @@ Applies to:          URLs starting with        https://www.eiszeit-manager.de/bu
 <br><br><br>
 
 # CSS Codes:
-[![Stylus instant install](https://img.shields.io/badge/eiszeit%20manager-%20Dark%20Main%20Page%20-282828.svg?style=popout&logoColor=29FDFD&labelColor=606060&logo=Stylus)](https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/dark-main.css)<br>
-[![Stylus instant install](https://img.shields.io/badge/eiszeit%20manager-%20Dark%20Büro-282828.svg?style=popout&logoColor=29FDFD&labelColor=606060&logo=Stylus)](https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/dark-buero.css)
+[![Stylus instant install](https://img.shields.io/badge/eiszeit%20manager-%20Dark%20Main%20Page%20-282828.svg?style=popout&logoColor=29FDFD&labelColor=606060&logo=Stylus)](https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/dark/dark-main.css)<br>
+[![Stylus instant install](https://img.shields.io/badge/eiszeit%20manager-%20Dark%20Büro-282828.svg?style=popout&logoColor=29FDFD&labelColor=606060&logo=Stylus)](https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/dark/dark-buero.css)
 <br><br><br>
 
 # Development status:
