@@ -2,7 +2,7 @@
  - The style has no advantages & disadvantages for the game;
  - All rights reserved by © https://www.eiszeit-manager.de/ ;
  - All CSS codes available in the source folder;
- - <a href="https://github.com/MadameSolette/Stylus/blob/master/eiszeit-manager.de/dark/dark-buero.css">dark-buero.css</a> & <a href="https://github.com/MadameSolette/Stylus/blob/master/eiszeit-manager.de/dark/dark-main.css">dark-main.css</a> codes use @include for a smart update function;
+ - <a href="https://github.com/MadameSolette/Stylus/blob/master/eiszeit-manager.de/dark/dark-buero.css">dark-buero.css</a> & <a href="https://github.com/MadameSolette/Stylus/blob/master/eiszeit-manager.de/dark/dark-main.css">dark-main.css</a> codes use @import for a smart update function;
 <br><br>
 
  Whats changed?
