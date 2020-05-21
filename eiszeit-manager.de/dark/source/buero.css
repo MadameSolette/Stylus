@@ -188,7 +188,7 @@ input {
     padding: 3px;
 }
 input:focus {
-    background-color: var(--light-grey) !important;
+    background-color: var(--table-grey2) !important;
     border-color: var(--ok-100);
 }
 input:disabled {
