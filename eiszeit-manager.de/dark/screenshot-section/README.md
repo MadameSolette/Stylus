@@ -38,14 +38,29 @@
     <image src="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/dark/screenshot-section/images/taktik.png"><br><br>
 </p>
   
-# Liga
+# Liga - 01
 <p align="center">
-    <image src="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/dark/screenshot-section/images/liga.png"><br><br>
+    <image src="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/dark/screenshot-section/images/liga-01.png"><br><br>
 </p>
   
-# Spielplan
+# Liga - 02
 <p align="center">
-    <image src="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/dark/screenshot-section/images/spielplan.png"><br><br>
+    <image src="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/dark/screenshot-section/images/liga-02.png"><br><br>
+</p>
+  
+# Draft
+<p align="center">
+    <image src="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/dark/screenshot-section/images/draft.png"><br><br>
+</p>
+  
+# Spielplan - 01
+<p align="center">
+    <image src="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/dark/screenshot-section/images/spielplan-01.png"><br><br>
+</p>
+  
+# Spielplan - 02
+<p align="center">
+    <image src="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/dark/screenshot-section/images/spielplan-02.png"><br><br>
 </p>
   
 # Friendly
