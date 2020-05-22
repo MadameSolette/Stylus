@@ -57,6 +57,12 @@ Applies to:          URLs starting with        https://www.eiszeit-manager.de/bu
 ```
  - Last step: Safe the style;
  - It is nessesary you applies the specific URLs, if not, you have the CSS change on each website with similar classes;
+ - If you want to disable your Join Date (<a href="https://github.com/MadameSolette/Stylus/tree/master/eiszeit-manager.de/dark/screenshot-section#join-date---disabled">Screenshot</a>), paste the following CSS Code in the Stylus <b>Code 2</b> window:
+```css
+#db-spalte-links-new > div:nth-child(3) {
+    display: none;
+}
+```
 <br><br><br>
 
 # CSS Codes:
