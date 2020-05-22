@@ -58,3 +58,6 @@
     outline-style: solid;
     outline-width: 1px;
 }
+#spalte-links > div:nth-child(1) > div > div.hinweis-hilfe {
+    margin-top: 15px;
+}
