@@ -34,23 +34,26 @@
  - Create a new style in Stylus;
  - Give the new style a name;
 
-## For the dark-main.css follow these steps:
- - Copy & paste the <a href="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/dark/dark-main.css">dark-main.css</a> code in the stylus <b>Code 1</b> window;
- - Make sure you assign the two specific URL's to the style:
+## For the <a href="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/dark/dark-main.css">dark-main.css</a> follow these steps:
+ - Copy & paste the <a href="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/dark/dark-main.css">dark-main.css</a> code in the Stylus <b>Code 1</b> window;
+ - Make sure you assign the four specific URL's to the style:
 ```
 Applies to:        URL                       https://www.eiszeit-manager.de/
+                   URL                       https://www.hockeymanager.org/
                    URLs starting with        https://www.eiszeit-manager.de/index.php
+                   URLs starting with        https://www.hockeymanager.org/index.php
 ```
 <img src="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/dark/screenshot-section/images/apply-to.png" />
 
-## For the dark-buero.css follow these steps:
+## For the <a href="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/dark/dark-buero.css">dark-buero.css</a> follow these steps:
  - Add another section at the bottom of the Sylus window and copy & paste the <a href="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/dark/dark-buero.css">dark-buero.css</a> in the <b>Code 2</b> window;
 <img src="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/dark/screenshot-section/images/another-section.png" />
 
- - Assign also one specific URL for the style:
+ - Assign also this two specific URL for the style:
 
 ```
 Applies to:          URLs starting with        https://www.eiszeit-manager.de/buero/
+                     URLs starting with        https://www.hockeymanager.org/buero/
 ```
  - Last step: Safe the style;
  - It is nessesary you applies the specific URLs, if not, you have the CSS change on each website with similar classes;
