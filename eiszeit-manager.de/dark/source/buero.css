@@ -146,6 +146,12 @@ body {
     background: var(--fault);
     outline-color: var(--fault);
 }
+.dbInfoBox {
+    background: var(--info-box);
+    border-color: var(--light-grey);
+    outline: 1px solid var(--info-box);
+    margin-top: 30px;
+}
 .freunde-name {
     border-color: var(--table-grey1);
     background: var(--table-grey1);
