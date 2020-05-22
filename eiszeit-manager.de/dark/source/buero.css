@@ -58,6 +58,11 @@ body {
 #col2 {
     padding: 2px 0px 0px 0px;
 }
+#col2 > div:nth-child(4) > form > div:nth-child(1),
+#col2 > div:nth-child(4) > form > div:nth-child(2) {
+    margin-left: 5px;
+    width: 91%
+}
 .box-db {
     background: var(--light-grey);
     border-color: var(--medium-grey1);
@@ -206,14 +211,7 @@ input:disabled {
 .helpPhone {
     height: 104px;
     margin-top: -125px;
-    /* transform: rotate(-25deg); */
     transition: all 150ms ease;
-    /* margin-left: 30px; */
-}
-.helpPhone:hover {
-    /* transform: rotate(0deg); */
-    /* margin-left: -5px; */
-    /* margin-top: -20px; */
 }
 .sidebarFixed {
     margin-top: 130px;
