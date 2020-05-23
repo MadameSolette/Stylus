@@ -3,13 +3,13 @@
     border-color: var(--light-grey);
 }
 .playoff_line {
-    background: var(--ok-100);
-    border-color: var(--ok-100);
+    background: var(--ok-100) !important;
+    border-color: var(--ok-100) !important;
     height: 1px;
 }
 .playdown_line {
-    background: var(--fault);
-    border-color: var(--fault);
+    background: var(--fault) !important;
+    border-color: var(--fault) !important;
     height: 1px;
 }
 .presse-delete {
@@ -65,4 +65,37 @@
     outline-color: var(--help);
     outline-style: solid;
     outline-width: 1px;
+}
+#content2 > div:nth-child(4) > div > table:nth-child(1) > tbody > tr:hover td,
+#content2 > div:nth-child(14) > div > table > tbody > tr:hover td,
+#content2 > div:nth-child(8) > div > table:nth-child(2) > tbody > tr:hover td {
+    background-color: var(--medium-grey1) !important;
+    border-color: var(--medium-grey1);
+}
+#spalte-links > table:nth-child(1) > tbody > tr:nth-child(3):hover td,
+#spalte-links > table:nth-child(1) > tbody > tr:nth-child(4):hover td,
+#spalte-links > table:nth-child(1) > tbody > tr:nth-child(5):hover td,
+#spalte-links > table:nth-child(1) > tbody > tr:nth-child(6):hover td,
+#spalte-links > table:nth-child(1) > tbody > tr:nth-child(7):hover td,
+#spalte-links > table:nth-child(1) > tbody > tr:nth-child(8):hover td,
+#spalte-links > table:nth-child(1) > tbody > tr:nth-child(9):hover td,
+#spalte-links > table:nth-child(1) > tbody > tr:nth-child(10):hover td,
+#spalte-links > table:nth-child(2) > tbody > tr:nth-child(3):hover td,
+#spalte-links > table:nth-child(2) > tbody > tr:nth-child(4):hover td,
+#spalte-links > table:nth-child(2) > tbody > tr:nth-child(5):hover td,
+#spalte-links > table:nth-child(2) > tbody > tr:nth-child(6):hover td,
+#spalte-links > table:nth-child(2) > tbody > tr:nth-child(7):hover td,
+#spalte-links > table:nth-child(2) > tbody > tr:nth-child(8):hover td,
+#spalte-links > table:nth-child(2) > tbody > tr:nth-child(9):hover td,
+#spalte-links > table:nth-child(2) > tbody > tr:nth-child(10):hover td,
+#spalte-rechts > table > tbody > tr:nth-child(3):hover td,
+#spalte-rechts > table > tbody > tr:nth-child(4):hover td,
+#spalte-rechts > table > tbody > tr:nth-child(5):hover td,
+#spalte-rechts > table > tbody > tr:nth-child(6):hover td {
+    background-color: var(--medium-grey1) !important;
+    border-color: var(--medium-grey1);
+}
+#dataTable > tbody > tr:hover td {
+    background-color: var(--medium-grey1) !important;
+    border-color: var(--medium-grey1);
 }
