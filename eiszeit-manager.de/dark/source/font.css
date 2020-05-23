@@ -136,6 +136,18 @@ h1 {
 .button-small {
     color: var(--font-color5);
 }
+#content2 > div:nth-child(6) > div > form > h4:nth-child(1),
+#content2 > div:nth-child(6) > div > form > h4:nth-child(3),
+#content2 > div:nth-child(6) > div > form > h4:nth-child(5),
+#content2 > div:nth-child(6) > div > form > h4:nth-child(7),
+#content2 > div:nth-child(6) > div > form > h4:nth-child(9),
+#content2 > div:nth-child(6) > div > form > h4:nth-child(11),
+#content2 > div:nth-child(6) > div > form > h4:nth-child(13),
+#content2 > div:nth-child(6) > div > form > h4:nth-child(15) {
+    color: var(--font-color-blue1) !important;
+    font-size: 18px;
+    font-variant: small-caps;
+}
 /* Team Info */
 .hof_season {
     color: var(--medium-grey1);
