@@ -26,7 +26,7 @@
 
 # Screenshot Section:
 <p align="center">
- <a href="https://github.com/MadameSolette/Stylus/tree/master/eiszeit-manager.de/dark/screenshot-section"><img src="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/dark/screenshot-section/images/preview-thumb.png" /></a>
+ <a href="https://github.com/MadameSolette/Stylus/tree/master/eiszeit-manager.de/dark/screenshot-section"><img src="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/dark/screenshot-section/images/screenshot-section.png" /></a>
 </p>
 <br><br><br>
 
