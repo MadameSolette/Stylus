@@ -14,9 +14,9 @@
  - The office banner has now a transparent background, so you can use transparent .png's/.gif's without having a blue background;
  - Section tabs has now a hover function;
  - Inner box outlines available on each site;
- - Table rows are now hovered;
+ - Table rows are now hovered; ♥
  - All buttons are hovered;
- - Our lovely "Assistentin" have now a new phone 😉
+ - Our lovely "Assistentin" have now a new phone; 😉
  - Golden Hall of fame;
  - At the top of the game schedule the winning team of the last match is green;
  - Fixed "Browse Files" system button;
