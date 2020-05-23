@@ -64,6 +64,9 @@ h1 {
 .dbTextBox {
     font-size: 8pt;
 }
+#col2 > div:nth-child(5) > div.dbTextBox {
+    text-align: center;
+}
 .dbTD {
     font-size: 8pt;
     padding: 3px 3px 3px 8px;
