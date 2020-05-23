@@ -12,14 +12,13 @@
    - Background image only
    - Minimalistic: Without header & background image
  - The office banner has now a transparent background, so you can use transparent .png's/.gif's without having a blue background;
- - Mouseover underlined links;
  - Section tabs has now a hover function;
  - Inner box outlines available on each site;
- - Headlines in small caps variant;
+ - Table rows are now hovered;
  - All buttons are hovered;
- - Our lovely "Assistentin" have now a new phone and its hovered 😉
+ - Our lovely "Assistentin" have now a new phone 😉
  - Golden Hall of fame;
- - At the top of the game schedule the winning team is green;
+ - At the top of the game schedule the winning team of the last match is green;
  - Fixed "Browse Files" system button;
  - and more . . .
  <br><br><br>
