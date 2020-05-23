@@ -8,9 +8,13 @@
 /* license      None                                                                        */
 /********************************************************************************************/
 
-/* ---------------------------------------------------------------------------------------------------- */
-/* ------- FEEL FREE TO DELETE ANY @import LINES IF YOU WANT THE HEADER AND/OR BACKGROUND IMAGE ------- */
-/* ---------------------------------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------------------------------------------- */
+/* --- FEEL FREE TO DELETE ANY @import LINES IF YOU WANT THE HEADER AND/OR BACKGROUND IMAGE -------------------- */
+/* ------------------------------------------------------------------------------------------------------------- */
+/* --- BACKUP LINES: ------------------------------------------------------------------------------------------- */
+/* --- @import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/dark/source/header.css'; ------------- */
+/* --- @import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/dark/source/background-image.css'; --- */
+/* ------------------------------------------------------------------------------------------------------------- */
 @import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/dark/source/header.css';
 @import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/dark/source/background-image.css';
 
@@ -18,3 +22,10 @@
 /* --- DO NOT CHANGE ANYTHING FROM HERE --- */
 /* ---------------------------------------- */
 @import 'https://madamesolette.github.io/Stylus/eiszeit-manager.de/dark/source/import.css';
+
+/**********************************/
+/*                                */
+/*    Add personal stuff below    */
+/*                                */
+/**********************************/
+
