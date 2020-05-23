@@ -32,7 +32,7 @@
 
 # Installation:
  - Create a new style in Stylus;
- - Give the new style a name;
+ - Give the style a name;
 
 
 
