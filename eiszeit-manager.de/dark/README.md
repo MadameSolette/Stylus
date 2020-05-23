@@ -44,17 +44,19 @@
 Applies to:          URLs starting with        https://www.eiszeit-manager.de/buero/
                      URLs starting with        https://www.hockeymanager.org/buero/
 ```
+<img src="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/dark/screenshot-section/images/apply-to.png" />
+
 ## For the <a href="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/dark/dark-main.css">dark-main.css</a> follow these steps:
  - Add another section at the bottom of the Sylus window and copy & paste the <a href="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/dark/dark-main.css">dark-main.css</a> in the <b>Code 2</b> window;
 <img src="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/dark/screenshot-section/images/another-section.png" />
  - Assign also this four specific URL's:
+ 
 ```
 Applies to:        URL                       https://www.eiszeit-manager.de/
                    URL                       https://www.hockeymanager.org/
                    URLs starting with        https://www.eiszeit-manager.de/index.php
                    URLs starting with        https://www.hockeymanager.org/index.php
 ```
-<img src="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/dark/screenshot-section/images/apply-to.png" />
 
  - <a href="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/dark/screenshot-section/images/finaly.png">Finaly</a>: Safe the style;
  - It is nessesary you applies the specific URLs, if not, you have the CSS changes on each website with similar classes;
