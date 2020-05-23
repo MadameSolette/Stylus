@@ -288,6 +288,23 @@ td {
 
 
 
+/* Nation */
+.pressContainer {
+    color: var(--font-color4);
+}
+.pressHeading {
+    color: var(--font-color5);
+}
+.pressAuthor::before {
+    font-style: normal;
+}
+.pressText {
+    color: var(--font-color4);
+    font-size: 11px;
+}
+
+
+
 /* Inbox */
 .spalten-namen-mail {
     color: var(--font-color4);
