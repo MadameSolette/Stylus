@@ -55,8 +55,8 @@ Applies to:        URL                       https://www.eiszeit-manager.de/
 Applies to:          URLs starting with        https://www.eiszeit-manager.de/buero/
                      URLs starting with        https://www.hockeymanager.org/buero/
 ```
- - Last step: Safe the style;
- - It is nessesary you applies the specific URLs, if not, you have the CSS change on each website with similar classes;
+ - <a href="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/dark/screenshot-section/images/finaly.png">Finaly</a>: Safe the style;
+ - It is nessesary you applies the specific URLs, if not, you have the CSS changes on each website with similar classes;
  - If you want to disable your Join Date (<a href="https://github.com/MadameSolette/Stylus/blob/master/eiszeit-manager.de/dark/screenshot-section/images/join-date-disabled.png">Screenshot</a>), paste the following CSS Code in the Stylus <b>Code 2</b> window:
 ```css
 #db-spalte-links-new > div:nth-child(3) {
