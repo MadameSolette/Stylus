@@ -22,7 +22,7 @@
 #content2 > div.box-draft-big > div > table > tbody > tr:nth-child(1) > td {
     background-color: var(--medium-grey1);
     border-color: var(--medium-grey1);
-    height: 20px;
+    height: 18px;
 }
 #content2 > div.box-draft-big > div > table > tbody > tr > td {
     background-color: var(--table-grey1);
