@@ -1,0 +1,4 @@
+#content2 > div:nth-child(4) > div > table:nth-child(3) > tbody > tr:hover td {
+    background-color: var(--medium-grey1);
+    border-color: var(--medium-grey1);
+}
