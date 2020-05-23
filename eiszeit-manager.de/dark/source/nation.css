@@ -1,0 +1,31 @@
+.pressContainer {
+    max-width: 90%;
+}
+.pressDate {
+    padding: 10px 0px 0px 10px;
+    margin: 25px 0px 0px 0px;
+}
+.pressHeading {
+    padding: 0px 0px 0px 10px;
+}
+.pressAuthor {
+    padding: 0px 0px 10px 10px;
+}
+.pressAuthor::before {
+    content: 'Author: ';
+}
+.pressText {
+    background: var(--table-grey1);
+    padding: 10px 10px 10px 10px;
+}
+.pressDate,
+.pressHeading,
+.pressAuthor {
+    background: var(--medium-grey2);
+}
+.pressDate,
+.pressHeading,
+.pressAuthor,
+.pressText {
+    border: 0px;
+}
