@@ -30,7 +30,7 @@
 
 
 
-## → For the <a href="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/dark/dark-buero.css">dark-buero.css</a> follow these steps:
+## ➤ For the <a href="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/dark/dark-buero.css">dark-buero.css</a> follow these steps:
  - Copy & paste the <a href="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/dark/dark-buero.css">dark-buero.css</a> code in the Stylus <b>Code 1</b> window;
  - Make sure you assign the two specific URL's:
 
@@ -40,7 +40,7 @@ Applies to:          URLs starting with        https://www.eiszeit-manager.de/bu
 ```
 <img src="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/dark/screenshot-section/images/apply-to.png" />
 
-## → For the <a href="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/dark/dark-main.css">dark-main.css</a> follow these steps:
+## ➤ For the <a href="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/dark/dark-main.css">dark-main.css</a> follow these steps:
 
  - Add another section at the bottom of the Sylus window and copy & paste the <a href="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/dark/dark-main.css">dark-main.css</a> in the <b>Code 2</b> window;
 <img src="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/dark/screenshot-section/images/another-section.png" />
