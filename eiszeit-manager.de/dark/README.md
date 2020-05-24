@@ -1,4 +1,4 @@
-Changes:
+# Changes:
  - You can use four diffrent variants of office styles:
    - Standard: Header & background image
    - Header only
