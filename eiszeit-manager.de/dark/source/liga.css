@@ -1,6 +1,7 @@
 .tabelle_playoffs2 {
     background: var(--table-grey1);
     border-color: var(--light-grey);
+    border-width: 0px;
 }
 .playoff_line {
     background: var(--ok-100) !important;
