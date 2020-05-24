@@ -63,6 +63,12 @@ body {
     margin-left: 5px;
     width: 91%
 }
+#db-spalte-mitte-new > div:nth-child(2) > table > tbody > tr:hover td,
+#col2 > div:nth-child(2) > table:nth-child(5) > tbody > tr:nth-child(even):hover td,
+#col2 > div:nth-child(2) > table:nth-child(6) > tbody > tr:nth-child(even):hover td {
+    background-color: var(--medium-grey1) !important;
+    border-color: var(--medium-grey1);
+}
 .box-db {
     background: var(--light-grey);
     border-color: var(--medium-grey1);
