@@ -69,8 +69,7 @@ body {
     background-color: var(--medium-grey1) !important;
     border-color: var(--medium-grey1);
 }
-#col2 > div:nth-child(2) > table:nth-child(5) > tbody > tr:nth-child(even):hover td,
-#col2 > div:nth-child(2) > table:nth-child(6) > tbody > tr:nth-child(even):hover td {
+#col2 > div:nth-child(2) > table:nth-child(5) > tbody > tr:nth-child(even):hover td {
     background-color: var(--medium-grey1) !important;
     border-color: var(--medium-grey1);
 }
