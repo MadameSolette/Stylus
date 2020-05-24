@@ -63,8 +63,3 @@ Applies to:        URL                       https://www.eiszeit-manager.de/
     display: none;
 }
 ```
-<br><br><br>
-
-# Development status:
- - Active
- - Last update: 24.05.2020
