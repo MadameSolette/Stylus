@@ -7,6 +7,7 @@
  - Redesign & small CSS fixings for the great Browser Game "Eiszeit Manager";
  - The style has no advantages & disadvantages for the game;
  - All rights reserved by © https://www.eiszeit-manager.de/ ;
+ <br>
 
 # Dark Theme:
 <p align="center">
