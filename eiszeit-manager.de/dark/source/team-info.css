@@ -36,7 +36,8 @@
     width: 42.7%;
 }
 #content2 > div:nth-child(8) > div > table > tbody > tr:hover td,
-#content2 > div:nth-child(12) > div > table > tbody > tr:hover td {
+#content2 > div:nth-child(12) > div > table > tbody > tr:hover td,
+#slickbox > table > tbody > tr:hover td {
     background-color: var(--medium-grey1) !important;
     border-color: var(--medium-grey1);
 }
