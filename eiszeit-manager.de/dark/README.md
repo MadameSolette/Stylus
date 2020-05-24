@@ -1,4 +1,4 @@
-  Whats changed?
+Whats changed?
  - You can use four diffrent variants of office styles:
    - Standard: Header & background image
    - Header only
@@ -14,7 +14,7 @@
  - At the top of the game schedule the winning team of the last match is green;
  - Fixed "Browse Files" system button;
  - and more . . .
- 
+
  - All CSS codes available in the source folder;
  - <a href="https://github.com/MadameSolette/Stylus/blob/master/eiszeit-manager.de/dark/dark-buero.css">dark-buero.css</a> & <a href="https://github.com/MadameSolette/Stylus/blob/master/eiszeit-manager.de/dark/dark-main.css">dark-main.css</a> codes use @import for a smart update function;
  <br><br><br>
