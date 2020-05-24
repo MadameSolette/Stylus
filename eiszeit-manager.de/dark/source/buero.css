@@ -1,6 +1,9 @@
 body {
     background-color: var(--dark-grey);
 }
+table { 
+    border-spacing: 0px 2px;
+}
 .dashboard-header {
     background: var(--light-grey);
 }
