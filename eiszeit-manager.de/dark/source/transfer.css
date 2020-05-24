@@ -19,3 +19,7 @@
 .countdown_deadline div span {
     border-top: 0px;
 }
+#content2 > div:nth-child(5) > div > table > tbody > tr:hover td {
+    background-color: var(--medium-grey1) !important;
+    border-color: var(--medium-grey1);
+}
