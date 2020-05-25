@@ -231,6 +231,11 @@ input:disabled {
     border: 2px solid var(--dark-grey);
     margin-left:-1px;
 }
+.footerContent::after {
+    content: 'Dark Theme made with ♥ Love ♥ by HK Lessosibirsk';
+	display: block;
+    padding: 12px 0px 12px 0px;
+}
 .helpPhone {
     height: 104px;
     margin-top: -125px;
