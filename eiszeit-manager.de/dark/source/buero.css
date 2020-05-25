@@ -233,7 +233,7 @@ input:disabled {
 }
 .footerContent::after {
     content: 'Dark Theme made with ♥ Love ♥ by HK Lessosibirsk';
-	display: block;
+    display: block;
     padding: 12px 0px 12px 0px;
 }
 .helpPhone {
