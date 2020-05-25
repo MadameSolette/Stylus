@@ -190,7 +190,7 @@ h1 {
     text-align: left;
 }
 #infobox > table::after {
-    color: var(--light-grey);
+    color: var(--table-grey1);
 }
 
 
