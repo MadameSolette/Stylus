@@ -72,6 +72,13 @@ table {
     background-color: var(--medium-grey1) !important;
     border-color: var(--medium-grey1);
 }
+#col2 > div:nth-child(2) > table:nth-child(5) > tbody > tr:nth-child(odd) td,
+#col2 > div:nth-child(2) > table:nth-child(6) > tbody > tr:nth-child(odd) td {
+    padding: 1px 3px 2px 8px;
+}
+#col2 > div:nth-child(2) > table:nth-child(6) {
+    margin-top: -2px;
+}
 .box-db {
     background: var(--light-grey);
     border-color: var(--medium-grey1);
@@ -188,6 +195,7 @@ td.freunde-name.tdCenter, .td-bg-grey {
 .dbTD {
     border-color: var(--table-grey1);
     background: var(--table-grey1);
+    padding: 1px 3px 1px 8px;
 }
 textarea {
     background: var(--table-grey1);
