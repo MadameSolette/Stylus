@@ -462,6 +462,7 @@ a.team_link:hover,
     text-transform: none;
     font-variant: small-caps;
 }
-.playercard > h2 > a:link {
+.playercard > h2 > a:link,
+.playercard > h2 > a:visited {
     color: var(--medium-grey1);
 }
