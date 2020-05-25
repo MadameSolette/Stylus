@@ -1,3 +1,9 @@
 #spalte-links > div > div > div.hinweis-fehler {
     margin-top: 15px;
 }
+#spalte-rechts > div:nth-child(5) > div > div.hinweis-hilfe {
+    margin-top: 15px;
+}
+#shout {
+    width:99.8%;
+}
