@@ -240,7 +240,7 @@ input:disabled {
 .footerContent::after {
     content: 'Dark Theme made with ♥ Love ♥ by HK Lessosibirsk';
     display: block;
-    padding: 12px 0px 12px 0px;
+    padding: 12px 0px 24px 0px;
 }
 .helpPhone {
     height: 104px;
