@@ -55,7 +55,7 @@ Applies to:        URL                       https://www.eiszeit-manager.de/
 ```
 
  - <a href="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/dark/screenshot-section/images/finaly.png">Finaly</a>: Safe the style;
- - <b>It is nessesary you applies the specific URL's, if not, you have the CSS changes on each website with similar classes;</b>
+ - <b>It is nessesary you applies the specific URL's, if not, you have the CSS changes on each website with similar classes e.g.: body, table, input etc. etc.;</b>
  
  - If you want to disable your Join Date (<a href="https://github.com/MadameSolette/Stylus/blob/master/eiszeit-manager.de/dark/screenshot-section/images/join-date-disabled.png">Screenshot</a>), paste the following CSS Code in the Stylus <b>Code 1</b> window:
 ```css
