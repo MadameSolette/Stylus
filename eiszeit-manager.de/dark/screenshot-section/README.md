@@ -63,6 +63,11 @@
     <image src="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/dark/screenshot-section/images/spielplan-02.png"><br><br>
 </p>
   
+# Spielplan - 03
+<p align="center">
+    <image src="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/dark/screenshot-section/images/spielplan-03.png"><br><br>
+</p>
+  
 # Friendly
 <p align="center">
     <image src="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/dark/screenshot-section/images/friendly.png"><br><br>
