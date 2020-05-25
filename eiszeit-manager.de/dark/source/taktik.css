@@ -30,10 +30,13 @@
     padding-left: 9%;
 }
 #infobox {
-    background: var(--table-grey1);
+    background: var(--light-grey);
     border-color: var(--medium-grey1);
     border-style: solid;
-    border-width: 5px;
+    border-width: 1px;
+    outline-color: var(--light-grey);
+    outline-style: solid;
+    outline-width: 1px;
     width: 90%;
 }
 .hinweis-hilfe,
@@ -60,4 +63,21 @@
 }
 #spalte-links > div:nth-child(1) > div > div.hinweis-hilfe {
     margin-top: 15px;
+}
+#infobox > table::after {
+    content: 'CSS magic new line xD';
+}
+#infobox > table > tbody > tr:nth-child(1) > td {
+    background-color: var(--medium-grey1);
+    border: 0px;
+}
+#infobox > table > tbody > tr:nth-child(2) > td,
+#infobox > table > tbody > tr:nth-child(3) > td,
+#infobox > table > tbody > tr:nth-child(4) > td:nth-child(1),
+#infobox > table > tbody > tr:nth-child(5) > td:nth-child(1),
+#infobox > table > tbody > tr:nth-child(6) > td:nth-child(1),
+#infobox > table > tbody > tr:nth-child(7) > td:nth-child(1),
+#infobox > table > tbody > tr:nth-child(8) > td:nth-child(1) {
+    background-color: var(--table-grey1);
+    border: 0px;
 }
