@@ -177,6 +177,16 @@ h1 {
 .hinweis-info {
     color: var(--medium-grey1);
 }
+#slickbox {
+    text-align: center;
+}
+#infobox > ul,
+#infobox > table {
+    text-align: left;
+}
+#infobox > table::after {
+    color: var(--light-grey);
+}
 
 
 
