@@ -128,10 +128,16 @@ table {
     padding-top: 5px;
 }
 .db-left {
-    width: 5px;
+    width: 2%;
+}
+.db-head-wider,
+.db-head-box-wide,
+.db-head-small,
+.db-head-box {
+    width: 96% !important;
 }
 .db-right {
-    width: 13px;
+    width: 2%;
 }
 .dbTextSmall {
     background: var(--medium-grey1);
