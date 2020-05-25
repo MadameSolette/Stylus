@@ -157,3 +157,5 @@
 <p align="center">
     <image src="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/dark/screenshot-section/images/support.png">
 </p>
+
+# « <a href="https://github.com/MadameSolette/Stylus/tree/master/eiszeit-manager.de/dark">Back</a>
