@@ -287,6 +287,7 @@ input:disabled {
     outline-width: 1px;
     outline-style: solid;
     outline-color: var(--medium-grey1);
+    margin: -16px 15px 0px 0px;
 }
 .assistText {
     background: var(--help);
