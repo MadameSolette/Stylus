@@ -33,6 +33,9 @@ select {
 h1 {
     font-variant: small-caps;
 }
+.footerContent::after {
+    color: var(--font-color5);
+}
 
 
 
