@@ -38,12 +38,12 @@
 Applies to:          URLs starting with        https://www.eiszeit-manager.de/buero/
                      URLs starting with        https://www.hockeymanager.org/buero/
 ```
-<img src="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/dark/screenshot-section/images/apply-to.png" />
+<img src="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/dark/screenshot-section/images/apply-to+another-section.png" />
 
 ## ➤ For the <a href="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/dark/dark-main.css">dark-main.css</a> follow these steps:
 
  - Add another section at the bottom of the Sylus window and copy & paste the <a href="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/dark/dark-main.css">dark-main.css</a> in the <b>Code 2</b> window;
-<img src="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/dark/screenshot-section/images/another-section.png" />
+<img src="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/dark/screenshot-section/images/apply-to+another-section.png" />
 
  - Assign also this four specific URL's:
  
