@@ -73,6 +73,11 @@ input[type="image" i] {
 #footerBox {
     background-color: var(--dark-grey);
 }
+#footerText::after {
+    content: 'Dark Theme made with ♥ Love ♥ by HK Lessosibirsk';
+    display: block;
+    padding: 12px 0px 12px 0px;
+}
 #screens {
     padding-left: 22px;
 }
