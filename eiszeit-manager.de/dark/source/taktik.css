@@ -30,11 +30,11 @@
     padding-left: 9%;
 }
 #infobox {
-    background: var(--light-grey);
+    background: var(--table-grey1);
     border-color: var(--medium-grey1);
     border-style: solid;
     border-width: 1px;
-    outline-color: var(--light-grey);
+    outline-color: var(--table-grey1);
     outline-style: solid;
     outline-width: 1px;
     width: 90%;
@@ -78,6 +78,6 @@
 #infobox > table > tbody > tr:nth-child(6) > td:nth-child(1),
 #infobox > table > tbody > tr:nth-child(7) > td:nth-child(1),
 #infobox > table > tbody > tr:nth-child(8) > td:nth-child(1) {
-    background-color: var(--table-grey1);
+    background-color: var(--table-grey2);
     border: 0px;
 }
