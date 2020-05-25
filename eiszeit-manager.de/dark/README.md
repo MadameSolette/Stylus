@@ -15,7 +15,7 @@
  - Fixed "Browse Files" system button;
  - and more . . .
  - All CSS codes available in the source folder;
- - <a href="https://github.com/MadameSolette/Stylus/blob/master/eiszeit-manager.de/dark/dark-buero.css">dark-buero.css</a> & <a href="https://github.com/MadameSolette/Stylus/blob/master/eiszeit-manager.de/dark/dark-main.css">dark-main.css</a> codes use @import for a smart update function;
+ - <a href="https://github.com/MadameSolette/Stylus/blob/master/eiszeit-manager.de/dark/dark-buero.css">dark-buero.css</a> & <a href="https://github.com/MadameSolette/Stylus/blob/master/eiszeit-manager.de/dark/dark-main.css">dark-main.css</a> files use @import for a smart update function;
 <br><br><br>
 
 # Screenshot Section:
