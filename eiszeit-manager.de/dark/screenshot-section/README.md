@@ -53,6 +53,11 @@
     <image src="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/dark/screenshot-section/images/draft.png"><br><br>
 </p>
   
+# Manager Erfolge
+<p align="center">
+    <image src="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/dark/screenshot-section/images/achievements.png"><br><br>
+</p>
+  
 # Spielplan - 01
 <p align="center">
     <image src="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/dark/screenshot-section/images/spielplan-01.png"><br><br>
