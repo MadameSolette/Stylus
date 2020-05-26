@@ -69,3 +69,16 @@ input.button-small:hover {
     background-color: var(--medium-grey1) !important;
     border-color: var(--medium-grey1);
 }
+#toggle {
+    background: var(--ok-100);
+    border-color: var(--light-grey);
+    border-style: solid;
+    border-width: 1px;
+    outline-color: var(--ok-100);
+    outline-style: solid;
+    outline-width: 1px;
+    height: 22px;
+}
+#content2 > div:nth-child(6) > div > form > hr {
+    border-width: 0px;
+}
