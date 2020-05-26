@@ -1,0 +1,15 @@
+#timesColLeft > div:nth-child(3) > b,
+#timesColLeft > div:nth-child(5) > b,
+#timesColLeft > div:nth-child(7) > b {
+    color: var(--font-color5);
+}
+#timesColLeft > div:nth-child(3) > a > img,
+#timesColLeft > div:nth-child(5) > a > img,
+#timesColLeft > div:nth-child(7) > a > img {
+    padding-top: 5px;
+}
+#timesColLeft > div:nth-child(3),
+#timesColLeft > div:nth-child(5),
+#timesColLeft > div:nth-child(7) {
+    padding-bottom: 10px;
+}
