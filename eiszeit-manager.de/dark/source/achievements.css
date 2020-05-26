@@ -18,10 +18,15 @@
     margin-bottom: 7px;
     margin-top: 2px;
 }
-.TextLeft {
-    width: 350px;
-    float:left;
+#progressBarText > div.TextLeft {
+    width: 50px;
+    margin-left: 10px;
 }
-.TextRight {
-    float:left;
+#progressBarText > div:nth-child(2) {
+    width: 50px !important;
+    margin-left: 40.3%;
+}
+#progressBarText > div:nth-child(3) {
+    width: 50px;
+    margin-left: 40.1%;
 }
