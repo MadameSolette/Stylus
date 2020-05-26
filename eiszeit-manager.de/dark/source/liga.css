@@ -101,3 +101,10 @@
     background-color: var(--medium-grey1) !important;
     border-color: var(--medium-grey1);
 }
+#content2 > div:nth-child(7) > div > table > tbody > tr:nth-child(2):hover td,
+#content2 > div:nth-child(7) > div > table > tbody > tr:nth-child(3):hover td,
+#content2 > div:nth-child(7) > div > table > tbody > tr:nth-child(5):hover td,
+#content2 > div:nth-child(7) > div > table > tbody > tr:nth-child(7):hover td {
+    background-color: var(--medium-grey1) !important;
+    border-color: var(--medium-grey1);
+}
