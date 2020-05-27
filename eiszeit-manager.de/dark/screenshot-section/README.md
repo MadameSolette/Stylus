@@ -113,9 +113,14 @@
     <image src="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/dark/screenshot-section/images/transfer-02.png"><br><br>
 </p>
   
-# Inbox
+# Inbox - 01
 <p align="center">
-    <image src="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/dark/screenshot-section/images/inbox.png"><br><br>
+    <image src="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/dark/screenshot-section/images/inbox-01.png"><br><br>
+</p>
+  
+# Inbox - 02
+<p align="center">
+    <image src="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/dark/screenshot-section/images/inbox-02.png"><br><br>
 </p>
   
 # EZM Times
