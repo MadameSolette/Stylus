@@ -15,6 +15,15 @@
 }
 #progressBarText {
     width: 820px;
-    margin-bottom: 7px;
+    margin-bottom: 0px;
     margin-top: 2px;
+}
+#progressBarText > div:nth-child(2) {
+    margin-top: -12px;
+    margin-left: 48%
+}
+#progressBarText > div:nth-child(3) {
+    margin-top: -13px;
+    margin-right: 11px;
+    float: right;
 }
