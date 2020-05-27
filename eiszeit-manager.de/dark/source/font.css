@@ -27,6 +27,9 @@ textarea {
 input {
     color: var(--ok-100);
 }
+input::after {
+    color: var(--font-color4);
+}
 select {
     color: var(--font-color4);
 }
