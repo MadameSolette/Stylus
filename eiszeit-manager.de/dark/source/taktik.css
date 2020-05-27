@@ -64,9 +64,7 @@
     outline-style: solid;
     outline-width: 1px;
     width: 98%;
-}
-#infobox > table::after {
-    content: 'CSS magic new line xD';
+    padding-bottom: 25px;
 }
 #infobox > table > tbody > tr:nth-child(1) > td {
     background-color: var(--medium-grey1);
