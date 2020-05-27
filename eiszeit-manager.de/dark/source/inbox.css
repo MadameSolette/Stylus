@@ -4,14 +4,21 @@
 }
 #mail-header {
     background: var(--medium-grey1);
-    border-color: var(--medium-grey1);
-    border-width: 7px;
+    border-color: var(--light-grey);
+    border-width: 1px;
+    outline-color: var(--medium-grey1);
+    outline-style: solid;
+    outline-width: 1px;
     width: 49%;
+    padding: 10px;
 }
 .mail-text {
     background: var(--table-grey1);
-    border-color: var(--medium-grey1);
-    border-width: 5px;
+    border-color: var(--light-grey);
     border-style: solid;
+    border-width: 1px;
+    outline-color: var(--table-grey1);
+    outline-style: solid;
+    outline-width: 1px;
     padding: 10px;
 }
