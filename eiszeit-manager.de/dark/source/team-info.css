@@ -41,3 +41,7 @@
     background-color: var(--medium-grey1) !important;
     border-color: var(--medium-grey1);
 }
+#content2 > div:nth-child(18) > div > table > tbody > tr:hover td {
+    background-color: var(--medium-grey1) !important;
+    border-color: var(--medium-grey1);
+}
