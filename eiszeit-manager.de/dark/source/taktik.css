@@ -26,19 +26,6 @@
 .buttonBlue:hover {
     background: var(--table-grey2) !important;
 }
-#slickbox {
-    padding-left: 9%;
-}
-#infobox {
-    background: var(--table-grey1);
-    border-color: var(--medium-grey1);
-    border-style: solid;
-    border-width: 1px;
-    outline-color: var(--table-grey1);
-    outline-style: solid;
-    outline-width: 1px;
-    width: 90%;
-}
 .hinweis-hilfe,
 .hinweis-info,
 .hinweis-back {
@@ -64,6 +51,20 @@
 #spalte-links > div:nth-child(1) > div > div.hinweis-hilfe {
     margin-top: 15px;
 }
+#slickbox {
+    padding-top: 25px;
+    padding-left: 2%;
+}
+#infobox {
+    background: var(--table-grey1);
+    border-color: var(--medium-grey1);
+    border-style: solid;
+    border-width: 1px;
+    outline-color: var(--table-grey1);
+    outline-style: solid;
+    outline-width: 1px;
+    width: 98%;
+}
 #infobox > table::after {
     content: 'CSS magic new line xD';
 }
@@ -71,13 +72,7 @@
     background-color: var(--medium-grey1);
     border: 0px;
 }
-#infobox > table > tbody > tr:nth-child(2) > td,
-#infobox > table > tbody > tr:nth-child(3) > td,
-#infobox > table > tbody > tr:nth-child(4) > td:nth-child(1),
-#infobox > table > tbody > tr:nth-child(5) > td:nth-child(1),
-#infobox > table > tbody > tr:nth-child(6) > td:nth-child(1),
-#infobox > table > tbody > tr:nth-child(7) > td:nth-child(1),
-#infobox > table > tbody > tr:nth-child(8) > td:nth-child(1) {
+#infobox > table > tbody > tr  td {
     background-color: var(--table-grey2);
     border: 0px;
 }
