@@ -22,7 +22,6 @@ h4,
     color: var(--font-color4) !important;
 }
 textarea {
-    font-family: Verdana, sans-serif;
     color: var(--ok-100);
 }
 input {
