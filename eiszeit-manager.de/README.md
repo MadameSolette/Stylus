@@ -17,4 +17,4 @@
 
 # Development status:
  - Active
- - Last update: 27.05.2020
+ - Last update: 28.05.2020
