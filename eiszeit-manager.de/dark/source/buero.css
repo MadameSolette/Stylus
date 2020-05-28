@@ -152,7 +152,7 @@ table {
     outline: 1px solid var(--fault);
     background-repeat: no-repeat !important;
     background-position: left !important;
-    margin: 0px 10px 0px 10px;
+    margin: 10px 10px 0px 10px;
 }
 .dbFault {
     border-color: var(--light-grey);
