@@ -46,10 +46,9 @@ input[type="image" i] {
 .submitButton {
     background-image: none;
     background-color: var(--dark-grey);
-    border-color: var(--input-border);
-    border-width: 2px;
+    border: 2px solid var(--input-border);
     border-radius: 3px;
-    box-shadow: 0 0 0 0;
+    box-shadow: 0px 0px 0px 0px;
     height: 35px;
 }
 .submitButton:hover {

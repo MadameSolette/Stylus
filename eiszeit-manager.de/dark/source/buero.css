@@ -25,10 +25,8 @@ table {
 }
 #navi {
     background: var(--medium-grey2);
-    border-left: 0px;
-    border-right: 0px;
-    margin-top: 0px;
-    margin-left: -1px;
+    border: 0px 0px 0px 0px;
+    margin: 0px 0px 0px -1px;
     width: 903px;
     height: 49px;
 }
@@ -99,9 +97,7 @@ table {
 .portlet-wide {
     background: var(--light-grey);
     border-color: var(--medium-grey1);
-    outline-color: var(--light-grey);
-    outline-style: solid;
-    outline-width: 1px;
+    outline: 1px solid var(--light-grey);
 }
 .dbTextBox {
     background: var(--light-grey);
@@ -110,9 +106,7 @@ table {
 .portlet {
     background: var(--light-grey);
     border-color: var(--medium-grey1);
-    outline-color: var(--light-grey);
-    outline-style: solid;
-    outline-width: 1px;
+    outline: 1px solid var(--light-grey);
     width: 245px;
 }
 .db-left,
@@ -155,13 +149,10 @@ table {
 .hinweis-fehler {
     background: var(--fault);
     border-color: var(--light-grey);
-    outline-color: var(--fault);
-    outline-style: solid;
-    outline-width: 1px;
+    outline: 1px solid var(--fault);
     background-repeat: no-repeat !important;
     background-position: left !important;
-    margin-left: 10px;
-    margin-right: 10px;
+    margin: 0px 10px 0px 10px;
 }
 .dbFault {
     border-color: var(--light-grey);
@@ -205,9 +196,7 @@ td.freunde-name.tdCenter, .td-bg-grey {
 }
 textarea {
     background: var(--table-grey1);
-    border-color: var(--font-color1);
-    border-width: 1px;
-    border-style: solid;
+    border: 1px solid var(--font-color1);
     padding: 5px;
 }
 textarea:focus {
@@ -216,9 +205,7 @@ textarea:focus {
 }
 input {
     background-color: var(--table-grey1) !important;
-    border-color: var(--font-color1);
-    border-width: 1px;
-    border-style: solid;
+    border: 1px solid var(--font-color1);
     padding: 3px;
 }
 input:focus {
@@ -230,7 +217,7 @@ input:disabled {
     border-color: var(--fault);
 }
 .dbTextIcon {
-    margin: 5px 0 0 3px;
+    margin: 5px 0px 0px 3px;
 }
 #footer {
     background: var(--dark-grey);
@@ -240,7 +227,7 @@ input:disabled {
 .footerContent::after {
     content: 'Dark Theme made with ♥ Love ♥ by HK Lessosibirsk';
     display: block;
-    padding: 12px 0px 24px 0px;
+    padding: 12px 0px 12px 0px;
 }
 .helpPhone {
     height: 104px;
@@ -271,9 +258,7 @@ input:disabled {
 .ui-draggable .ui-dialog-titlebar {
     background: var(--light-grey);
     border-color: var(--medium-grey1);
-    outline-width: 1px;
-    outline-style: solid;
-    outline-color: var(--light-grey);
+    outline: 1px solid var(--light-grey);
     border-radius: var(--border-radius);
     margin: 5px;
 }
@@ -288,24 +273,20 @@ input:disabled {
     width: 25px;
     height: 25px;
     top: 0%;
-    margin: 1px 0 0 0;
+    margin: 1px 0px 0px 0px;
     right: .1em;
 }
 .assistFace {
     background: var(--medium-grey1);
     border-color: var(--medium-grey1);
     border-radius: var(--border-radius);
-    outline-width: 1px;
-    outline-style: solid;
-    outline-color: var(--medium-grey1);
+    outline: 1px solid var(--medium-grey1);
     margin: -16px 15px 0px 0px;
 }
 .assistText {
     background: var(--help);
     border-color: var(--medium-grey1);
-    outline-color: var(--help);
-    outline-style: solid;
-    outline-width: 1px;
+    outline: 1px solid var(--help);
     border-radius: var(--border-radius);
     margin: 10px 5px 0px 5px;
 }
@@ -333,8 +314,8 @@ input[type=file] {
     -webkit-appearance: textfield;
 }
 input[type=file]::-webkit-file-upload-button {
-    width: 0;
-    padding: 0;
+    width: 0px;
+    padding: 0px;
     margin: 3px;
     -webkit-appearance: none;
     border: none;
@@ -343,11 +324,11 @@ x::-webkit-file-upload-button,
 input[type=file]:after {
     content: '->  Browse Files...';
     position: relative;
-    margin-left:110px;
+    margin-left: 110px;
 }
 input[type="file"]::-ms-browse {
-    width: 0;
-    padding: 0;
+    width: 0px;
+    padding: 0px;
     margin: 3px;
     -webkit-appearance: none;
     border: none;
@@ -356,5 +337,5 @@ x::-ms-browse,
 input[type=file]:after {
     content: '->  Browse Files...';
     position: relative;
-    margin-left:110px;
+    margin-left: 110px;
 }

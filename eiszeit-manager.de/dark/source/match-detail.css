@@ -1,29 +1,20 @@
 .match_logo_left,
 .match_logo_right {
     background: var(--medium-grey1);
-    border-color: var(--light-grey);
-    border-width: 1px;
-    outline-color: var(--medium-grey1);
-    outline-style: solid;
-    outline-width: 1px;
+    border: 1px solid var(--light-grey);
+    outline: 1px solid var(--medium-grey1);
     width: 156px;
 }
 .trikotMB {
     background: var(--medium-grey1);
-    border-color: var(--light-grey);
-    border-width: 1px;
-    outline-color: var(--medium-grey1);
-    outline-style: solid;
-    outline-width: 1px;
+    border: 1px solid var(--light-grey);
+    outline: 1px solid var(--medium-grey1);
     width: 156px;
 }
 .scoreMB {
     background: var(--medium-grey1);
-    border-color: var(--light-grey);
-    border-width: 1px;
-    outline-color: var(--medium-grey1);
-    outline-style: solid;
-    outline-width: 1px;
+    border: 1px solid var(--light-grey);
+    outline: 1px solid var(--medium-grey1);
     padding: 7px;
 }
 .drittelHead {
@@ -35,11 +26,8 @@
 }
 .tableheadMB {
     background: var(--medium-grey1);
-    border-color: var(--light-grey);
-    border-width: 1px;
-    outline-color: var(--medium-grey1);
-    outline-style: solid;
-    outline-width: 1px;
+    border: 1px solid var(--light-grey);
+    outline: 1px solid var(--medium-grey1);
     height: 25px;
 }
 .ticker-spalte-links {
@@ -47,22 +35,16 @@
 }
 .ticker-spalte-links {
     background: var(--medium-grey1);
-    border-color: var(--light-grey);
-    border-width: 1px;
-    outline-color: var(--medium-grey1);
-    outline-style: solid;
-    outline-width: 1px;
+    border: 1px solid var(--light-grey);
+    outline: 1px solid var(--medium-grey1);
     width: 66%;
     max-width: 66%;
     min-height: 600px;
 }
 .ticker-spalte-rechts {
     background: var(--medium-grey1);
-    border-color: var(--light-grey);
-    border-width: 1px;
-    outline-color: var(--medium-grey1);
-    outline-style: solid;
-    outline-width: 1px;
+    border: 1px solid var(--light-grey);
+    outline: 1px solid var(--medium-grey1);
     margin-left: 9px;
     padding: 5px;
     min-height: 400px;
@@ -96,10 +78,9 @@
     border-right-color: var(--ok-100);
     border-width: 10px;
     outline-width: 10px;
-    margin-top: -3px;
-    margin-right: 2px;
+    margin: -3px 2px 0px 0px;
 }
 .playercard {
     border-top: 1px solid var(--medium-grey1);
-    box-shadow: 0 0 0;
+    box-shadow: 0px 0px 0px 0px;
 }

@@ -1,8 +1,6 @@
 .box-draft-big {
     background: var(--medium-grey1);
-    border-color: var(--medium-grey1);
-    border-style: solid;
-    border-width: 1px;
+    border: 1px solid var(--medium-grey1);
     width: 97.5%;
     margin: 0px auto;
     margin-bottom: 25px;
@@ -11,12 +9,8 @@
 }
 .box-grey-big {
     background: var(--light-grey);
-    border-color: var(--medium-grey1);
-    border-style: solid;
-    border-width: 1px;
-    outline-color: var(--light-grey);
-    outline-style: solid;
-    outline-width: 1px;
+    border: 1px solid var(--medium-grey1);
+    outline: 1px solid var(--light-grey);
     
 }
 #content2 > div.box-draft-big > div > table > tbody > tr:nth-child(1) > td {

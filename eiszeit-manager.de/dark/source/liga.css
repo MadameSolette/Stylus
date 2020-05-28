@@ -1,7 +1,6 @@
 .tabelle_playoffs2 {
     background: var(--table-grey1);
-    border-color: var(--light-grey);
-    border-width: 0px;
+    border: 0px solid var(--light-grey);
 }
 .playoff_line {
     background: var(--ok-100) !important;
@@ -16,27 +15,21 @@
 .presse-delete {
     background:  var(--medium-grey1);
     border-color:  var(--medium-grey1);
-    outline-color: var(--medium-grey1);
-    outline-width: 1px;
-    outline-style: solid;
+    outline: 1px solid var(--medium-grey1);
     padding-right: 10px;
     height: 23px;
 }
 .presse-header {
     background: var(--medium-grey2);
     border-color: var(--medium-grey2);
-    outline-color: var(--medium-grey2);
-    outline-width: 1px;
-    outline-style: solid;
+    outline: 1px solid var(--medium-grey2);
     background-repeat: no-repeat;
     background-position: right;
 }
 .presse-meldung {
     background: var(--table-grey1);
     border-color: var(--table-grey1);
-    outline-color: var(--table-grey1);
-    outline-width: 1px;
-    outline-style: solid;
+    outline: 1px solid var(--table-grey1);
     padding: 10px;
 }
 .gameBlock {
@@ -60,12 +53,8 @@
 }
 .ligatalk_beitrag {
     background:var(--help);
-    border-color: var(--light-grey);
-    border-style: solid;
-    border-width: 1px;
-    outline-color: var(--help);
-    outline-style: solid;
-    outline-width: 1px;
+    border: 1px solid var(--light-grey);
+    outline: 1px solid var(--help);
 }
 #content2 > div:nth-child(4) > div > table:nth-child(1) > tbody > tr:hover td,
 #content2 > div:nth-child(10) > div > table > tbody > tr:hover td,

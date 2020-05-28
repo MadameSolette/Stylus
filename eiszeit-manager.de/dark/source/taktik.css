@@ -21,7 +21,7 @@
     background: var(--medium-grey1) !important;
     border-color: var(--font-color1);
     border-radius: var(--border-radius);
-    box-shadow: 0 0 0;
+    box-shadow: 0px 0px 0px 0px;
 }
 .buttonBlue:hover {
     background: var(--table-grey2) !important;
@@ -32,11 +32,8 @@
     background: var(--help);
     background-repeat: no-repeat !important;
     background-position: left !important;
-    border-width: 1px;
-    border-color: var(--light-grey);
-    outline-color: var(--help);
-    outline-style: solid;
-    outline-width: 1px;
+    border: 1px solid var(--light-grey);
+    outline: 1px solid var(--help);
 }
 .hinweis-ausbau,
 .hinweis-ok {
@@ -44,9 +41,7 @@
     background-repeat: no-repeat !important;
     background-position: left !important;
     border-color: var(--light-grey);
-    outline-color: var(--ok-100);
-    outline-style: solid;
-    outline-width: 1px;
+    outline: 1px solid var(--ok-100);
 }
 #spalte-links > div:nth-child(1) > div > div.hinweis-hilfe {
     margin-top: 15px;
@@ -57,12 +52,8 @@
 }
 #infobox {
     background: var(--table-grey1);
-    border-color: var(--medium-grey1);
-    border-style: solid;
-    border-width: 1px;
-    outline-color: var(--table-grey1);
-    outline-style: solid;
-    outline-width: 1px;
+    border: 1px solid var(--medium-grey1);
+    outline: 1px solid var(--table-grey1);
     width: 98%;
     padding-bottom: 25px;
 }
