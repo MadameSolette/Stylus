@@ -6,14 +6,15 @@
 .progressBarP {
     background: var(--ok-100);
     height: 22px;
-    margin-top: -1px 0px 0px -1px;
+    margin: -1px 0px 0px -1px;
 }
 #progressBarText {
     width: 820px;
     margin: 2px 0px 0px 0px;
 }
 #progressBarText > div:nth-child(2) {
-    margin: -12px 0px 0px 48px;
+    margin-top: -12px;
+    margin-left: 48%;
 }
 #progressBarText > div:nth-child(3) {
     margin: -13px 11px 0px 0px;
