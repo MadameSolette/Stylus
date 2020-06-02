@@ -1,3 +1,6 @@
+# Made with love ❤
+<br>
+
 # Changes:
  - You can use four diffrent variants of office styles:
    - Standard: Header & background image
