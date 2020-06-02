@@ -1,6 +1,3 @@
-# Made with love ❤
-<br>
-
 # <a href="https://add0n.com/stylus.html">Stylus</a> Theme for https://www.eiszeit-manager.de/
 <br>
 
