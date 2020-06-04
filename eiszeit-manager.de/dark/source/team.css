@@ -77,3 +77,7 @@ input.button-small:hover {
 #content2 > div:nth-child(6) > div > form > hr {
     border-width: 0px;
 }
+#content2 > table:nth-child(2),
+#content2 > table {
+    border-spacing: 0px 0px;
+}
