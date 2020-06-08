@@ -306,6 +306,8 @@ input:disabled {
     outline-color: var(--ok-100);
 }
 .db-header-change-link {
+    margin-left: 798px;
+    margin-top: 40px !important;
     opacity: 0.1;
 }
 input[type=file] {
