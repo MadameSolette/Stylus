@@ -48,9 +48,14 @@
     <image src="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/dark/screenshot-section/images/liga-02.png"><br><br>
 </p>
   
+# Draft
+<p align="center">
+    <image src="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/dark/screenshot-section/images/draft-01.png"><br><br>
+</p>
+  
 # Draft Ergebnis
 <p align="center">
-    <image src="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/dark/screenshot-section/images/draft.png"><br><br>
+    <image src="https://raw.githubusercontent.com/MadameSolette/Stylus/master/eiszeit-manager.de/dark/screenshot-section/images/draft-02.png"><br><br>
 </p>
   
 # Manager Erfolge
