@@ -29,3 +29,36 @@
 .pressText {
     border: 0px;
 }
+.hockeyShowStudio{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 27%
+}
+.hockeyShowScreen {
+    background: var(--medium-grey1);
+    border: 1px solid var(--medium-grey1);
+    width: 570px;
+    height: 400px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+.hockeyShowScreenRow1 {
+    background: var(--ok-100);
+    border: 1px solid var(--medium-grey1);
+    outline: 1px solid var(--ok-100);
+    padding: 10px;
+    margin: 8px;
+}
+.pressLineHor {
+    border-top: 0px;
+}
+.pressHeading {
+    height: 30px;
+    padding: 5px 0px 0px 10px;
+}
+.pressDateBottom {
+    background: var(--medium-grey2);
+    height: 15px;
+    margin-bottom: 20px;
+}
