@@ -341,6 +341,7 @@ td {
 }
 .pressHeading {
     color: var(--font-color5);
+    font-variant: small-caps;
 }
 .pressAuthor::before {
     font-style: normal;
@@ -478,5 +479,9 @@ a.team_link:hover,
 }
 .playercard > h2 > a:link,
 .playercard > h2 > a:visited {
+    color: var(--medium-grey1);
+}
+.hockeyShowScreenContent a:link,
+.hockeyShowScreenContent a:visited {
     color: var(--medium-grey1);
 }
