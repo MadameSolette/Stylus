@@ -17,6 +17,13 @@ table {
     outline-color: var(--light-grey);
     margin: 5px;
 }
+#centerBox {
+    background-repeat: no-repeat;
+    margin-bottom: -5px;
+    padding-top: 24px;
+    width: 501px;
+    height: 98px;
+}
 #dashboard {
     background: var(--medium-grey1);
     border-color: var(--medium-grey1);
