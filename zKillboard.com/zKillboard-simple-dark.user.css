@@ -1,5 +1,5 @@
 /* ==UserStyle==
-@name         zKillboard - Simple Dark
+@name         EVE-Online - zKillboard - Simple Dark
 @version      1.0.4
 @description  zKillboard Simple Dark Theme without Adds
 @namespace    https://github.com/MadameSolette/Stylus/tree/master/zKillboard.com
@@ -35,7 +35,7 @@ input[type="color"], .uneditable-input {
     color: #888888;
 }
 .alert {
-	border: none;
+    border: none;
     border-radius: 0px;
     color: #fff;
     text-shadow: 2px 2px 2px #1a1a1a;
