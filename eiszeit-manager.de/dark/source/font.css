@@ -375,18 +375,13 @@ td {
 .timesHeadingSmall {
     font-size: 13px;
 }
-.timesDatum,
-.timesText,
-.timesTransferTeam,
-.timesMore {
-    color: var(--font-color3);
-    text-decoration: none;
-}
+
 ol,
 li,
 .timesText,
 .timesTransferTeam,
-.timesMore {
+.timesMore,
+.textCenter {
     color: var(--font-color4);
 }
 
