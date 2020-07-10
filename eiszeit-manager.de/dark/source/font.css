@@ -280,7 +280,7 @@ h1 {
     color: var(--medium-grey1);
 }
 .playercard-team {
-    color: var(--medium-grey1);
+    color: var(--medium-grey1) !important;
 }
 
 
