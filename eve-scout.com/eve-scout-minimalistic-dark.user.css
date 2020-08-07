@@ -1,0 +1,82 @@
+/* ==UserStyle==
+@name           EVE-Online - eve-scout.com - Minimalistic Dark
+@namespace      https://github.com/MadameSolette/Stylus/tree/master/eve-scout.com
+@version        1.0.0
+@description    Minimalistic Dark Theme
+@author         MadameSolette
+@homepageURL    https://github.com/MadameSolette/Stylus/tree/master/eve-scout.com
+@supportURL     https://github.com/MadameSolette/Stylus/issues
+@updateURL      https://raw.githubusercontent.com/MadameSolette/Stylus/master/eve-scout.com/eve-scout-minimalistic-dark.user.css
+==/UserStyle== */
+
+@-moz-document url-prefix("https://www.eve-scout.com/thera/"), url-prefix("http://www.eve-scout.com/thera/") {
+body {
+    background-image: none;
+    background-color: #222222;
+}
+@media (min-width: 1200px) {
+  .container {
+    width: 1200px;
+    }
+}
+
+
+
+/* LISTING */
+.listing-table {
+    background-color: #1A1A1A;
+}
+.heading,
+.container.promo,
+.notice.donations .wrapper,
+/* .nav.navbar-nav.thera, */
+.copyright {
+    display: none;
+}
+.nav.navbar-nav {
+    background-color: #282828;
+}
+.nav.navbar-nav.thera li.active a {
+  background-color: #1A1A1A;
+}
+.nav > li > a:hover, .nav > li > a:focus {
+  background-color: #1A1A1A;
+  color: #fff;
+}
+#wrap {
+    padding-bottom: 0px;
+}
+
+
+
+/* MAP */
+.thera-map h1, .thera-map h2 {
+    background-color: #1A1A1A;
+}
+#map {
+    border-color: #1A1A1A;
+}
+#map,
+#map > svg {
+    height: 1070px !important
+}
+#wrap > div.container.thera-map > p {
+    display: none;
+}
+
+
+
+/* CONTRIBUTE */
+.thera-content .wrapper {
+    background-color: #1A1A1A;
+}
+.thera-content .content {
+    background-color: #282828;
+}
+.contribute-featurette,
+.contribute-featurette hr {
+    border-color: #282828;
+    color: #fff
+}
+
+}
