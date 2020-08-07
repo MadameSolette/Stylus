@@ -9,7 +9,7 @@
 # Development status:
  - Active
 
-# Screenshot:
+# Screenshots:
 <image src="https://github.com/MadameSolette/Stylus/blob/master/eve-scout.com/images/listening.png">
 <image src="https://github.com/MadameSolette/Stylus/blob/master/eve-scout.com/images/map.png">
 <image src="https://github.com/MadameSolette/Stylus/blob/master/eve-scout.com/images/contribute.png">
