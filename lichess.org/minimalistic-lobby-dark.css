@@ -117,3 +117,10 @@ group.radio label {
     text-shadow: 0 1px 0 transparent;
     font-weight: normal;
 }
+
+/* Notification */
+.rmoves o2.active {
+    font-weight: bold;
+    background: #293a49;
+    color: #ccc;
+}
