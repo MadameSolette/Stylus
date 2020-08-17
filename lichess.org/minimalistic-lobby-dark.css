@@ -124,3 +124,6 @@ group.radio label {
     background: #293a49;
     color: #ccc;
 }
+.tview2 move.current {
+    border: 0px solid #d64f00;
+}
