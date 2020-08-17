@@ -119,7 +119,8 @@ group.radio label {
 }
 
 /* Notification */
-.rmoves o2.active {
+.rmoves o2.active,
+.rmoves u8t.active {
     font-weight: bold;
 }
 .tview2 move.current {
