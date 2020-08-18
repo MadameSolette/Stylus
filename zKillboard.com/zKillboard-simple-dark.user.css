@@ -87,6 +87,9 @@ table,
 }
 .circled:before {
     display: none;
+}	
+.qc-cmp2-container {
+    display: none;
 }
 @-webkit-keyframes danger {
     0% {
