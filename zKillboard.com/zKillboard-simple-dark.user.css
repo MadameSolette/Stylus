@@ -91,9 +91,6 @@ table,
 .qc-cmp2-container {
     display: none;
 }
-.navbar-nav>li>.dropdown-menu {
-    display: none;
-}
 @-webkit-keyframes danger {
     0% {
       background: #ff0000;
