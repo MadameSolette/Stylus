@@ -28,6 +28,9 @@
 @import 'https://lichess1.org/assets/_C8mHr6/css/plan.dark.min.css';
 @import 'https://lichess1.org/assets/_C8mHr6/css/simul.show.dark.min.css';
 @import 'https://lichess1.org/assets/_wTMpbM/css/team.dark.min.css';
+@import 'https://lichess1.org/assets/_UkYgw8/css/user.show.dark.min.css';
+@import 'https://lichess1.org/assets/_UkYgw8/css/perf-stat.dark.min.css';
+@import 'https://lichess1.org/assets/_Y4X1OK/css/round.dark.min.css';
 
 /* Lobby */
 .lobby__table,
