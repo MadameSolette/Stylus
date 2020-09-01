@@ -82,13 +82,18 @@ table,
     background-color: #282828;
 }
 #adsensetop,
-#adsensebottom {
+#adsensebottom,
+#killmailstobdy > tr.killlistrow.adrow {
     display: none;
 }
 .circled:before {
     display: none;
-}	
+}
 .qc-cmp2-container {
+    display: none;
+}
+body > div.content > div.container.nobackground > span > div > div.col-sm-2.pull-left > div:nth-child(1) > hr:nth-child(1),
+body > div.content > div.container.nobackground > span > div > div.col-sm-2.pull-left > div:nth-child(1) > div:nth-child(2) {
     display: none;
 }
 @-webkit-keyframes danger {
