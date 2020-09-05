@@ -135,3 +135,9 @@ group.radio label {
 .rmoves i5z {
     background: transparent;
 }
+
+/* Tournament Rank */
+.rclock .tour-rank {
+    opacity: 1;
+    color: #1b78d0;
+}
