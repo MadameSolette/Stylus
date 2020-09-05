@@ -98,3 +98,9 @@ group.radio label {
 .tview2 move.current {
     border: 0px solid #d64f00;
 }
+
+/* Tournament Rank */
+.rclock .tour-rank {
+    opacity: 1;
+    color: #1b78d0;
+}
