@@ -1,0 +1,10 @@
+.hinweis-info2 {
+    background: var(--help);
+    background-repeat: no-repeat !important;
+    border: 1px solid var(--light-grey);
+    outline: 1px solid var(--help);
+    width: 96.3%;
+}
+.answers {
+    margin-left: 17px;
+}
