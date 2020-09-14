@@ -480,3 +480,22 @@ a.team_link:hover,
 .hockeyShowScreenContent a:visited {
     color: var(--medium-grey1);
 }
+
+
+
+/* survey */
+.hinweis-info2 {
+    text-align: left;
+    color: var(--medium-grey1);
+}
+.question > h3 {
+    color: var(--font-color5);
+    font-variant: small-caps;
+    font-size: 18px !important;
+    text-decoration: underline;
+}
+.answers {
+    color: var(--font-color4);
+    font-variant: small-caps;
+    font-size: 12px !important;
+}
