@@ -15,3 +15,10 @@
     outline: 1px solid var(--ok-100);
     width: 96.3%;
 }
+.hinweis-fehler2 {
+    background: var(--fault);
+    background-repeat: no-repeat !important;
+    border: 1px solid var(--light-grey);
+    outline: 1px solid var(--fault);
+    width: 96.3%;
+}
