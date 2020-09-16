@@ -52,6 +52,9 @@
 .tv-history {
     display: none;
 }
+.game__meta__infos::before {
+    color: #d64f00;
+}
 
 /* Titel Shadows */
 .button.button-empty:not(.disabled):hover,
