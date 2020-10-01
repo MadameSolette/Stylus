@@ -144,3 +144,19 @@ group.radio label {
     opacity: 1;
     color: #1b78d0;
 }
+
+/* User online / offline */
+.user-link.online .line {
+    color: #629924;
+    opacity: .9;
+}
+.user-link.online .line::before {
+    content: '';
+}
+.user-link .line {
+    color: #bababa;
+    opacity: 0.2;
+}
+.user-link .line::before {
+    content: '';
+}
