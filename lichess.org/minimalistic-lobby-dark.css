@@ -9,7 +9,6 @@
 @import 'https://lichess1.org/assets/_OsMK53/css/user.list.dark.min.css';
 @import 'https://lichess1.org/assets/_OsMK53/css/tournament.leaderboard.dark.min.css';
 @import 'https://lichess1.org/assets/_OsMK53/css/tournament.home.dark.min.css';
-@import 'https://lichess1.org/assets/_OsMK53/css/round.dark.min.css';
 @import 'https://lichess1.org/assets/_OsMK53/css/user.rating.stats.dark.min.css';
 @import 'https://lichess1.org/assets/_OsMK53/css/simul.list.dark.min.css';
 @import 'https://lichess1.org/assets/_OsMK53/css/lobby.setup.dark.min.css';
@@ -31,6 +30,7 @@
 @import 'https://lichess1.org/assets/_UkYgw8/css/user.show.dark.min.css';
 @import 'https://lichess1.org/assets/_UkYgw8/css/perf-stat.dark.min.css';
 @import 'https://lichess1.org/assets/_Y4X1OK/css/round.dark.min.css';
+@import 'https://lichess1.org/assets/_AgISGE/css/tv.single.dark.min.css';
 
 /* Lobby */
 .lobby__table,
@@ -96,6 +96,7 @@ group.radio label {
 .lpools>div {
     height: 200px;
 }
+
 /* Scrollbar */
 ::-webkit-scrollbar {
 	display: none;
