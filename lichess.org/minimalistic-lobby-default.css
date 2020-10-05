@@ -24,6 +24,13 @@
 .game__meta__infos::before {
     color: #d64f00;
 }
+.tv-channel>span::before {
+    color: #939292;
+}
+.tv-channel>span:hover,
+.tv-channel>span:hover::before {
+    color: #d64f00;
+}
 
 /* Titel Shadows */
 .button.button-empty:not(.disabled):hover,
