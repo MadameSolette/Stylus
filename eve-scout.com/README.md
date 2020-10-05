@@ -8,6 +8,7 @@
 
 # Development status:
  - Active
+ - Last update: 08.08.2020
 
 # Screenshots:
 <image src="https://github.com/MadameSolette/Stylus/blob/master/eve-scout.com/images/listing.png">
