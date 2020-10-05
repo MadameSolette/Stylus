@@ -8,6 +8,7 @@
 
 # Development status:
  - Active
+ - Last update: 01.09.2020
 
 # Screenshot:
 ## Simple Dark
