@@ -24,8 +24,9 @@
 .game__meta__infos::before {
     color: #d64f00;
 }
+.subnav a,
 .tv-channel>span::before {
-    color: #939292;
+    color: rgba(147,146,146,0.8);
 }
 .tv-channel>span:hover,
 .tv-channel>span:hover::before {
