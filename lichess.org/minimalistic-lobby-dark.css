@@ -33,7 +33,7 @@
 @import 'https://lichess1.org/assets/_AgISGE/css/tv.single.dark.min.css';
 
 /* Lobby */
-.lobby__table,
+
 .lobby__side,
 .lobby__leaderboard,
 .lobby__winners,
@@ -46,6 +46,59 @@
 .lobby__tv,
 .lobby__puzzle {
     display: none !important;
+}
+.button.button-metal.config_hook {
+    display: none !important;
+}
+.button.button-metal.config_friend {
+    height: 200px;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    border: 1px solid #404040;
+    background: #262421 url(https://raw.githubusercontent.com/MadameSolette/Stylus/master/lichess.org/images/minimalistic-lobby-dark/friend.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    color: #bababa;
+    transition: all 150ms;
+    width: 75%;
+    margin-top: 25px;
+    margin-left: 65px;
+}
+.button.button-metal.config_friend:hover {
+    background: rgba(84,82,78,0.85) url(https://raw.githubusercontent.com/MadameSolette/Stylus/master/lichess.org/images/minimalistic-lobby-dark/friend-hover.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    color: #d64f00;
+}
+.button.button-metal.config_ai {
+    height: 200px;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    border: 1px solid #404040;
+    background: #262421 url(https://raw.githubusercontent.com/MadameSolette/Stylus/master/lichess.org/images/minimalistic-lobby-dark/ai.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    color: #bababa;
+    transition: all 150ms;
+    width: 75%;
+    margin-top: -9px;
+    margin-left: 65px;
+}
+.button.button-metal.config_ai:hover {
+    background: rgba(84,82,78,0.85) url(https://raw.githubusercontent.com/MadameSolette/Stylus/master/lichess.org/images/minimalistic-lobby-dark/ai-hover.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    color: #d64f00;
+}
+#nb_connected_players {
+    margin-top: -850px !important;
+    margin-left: 65px;
+}
+#nb_games_in_play {
+    display: none !important;
+    margin-left: 65px;
 }
 
 /* TV */
@@ -95,10 +148,17 @@
 group.radio label {
     text-shadow: 0 1px 0 transparent;
 }
+.crosstable__users,
+.crosstable__score,
+.cmn-toggle+label::after,
+.user-show .angles {
+    text-shadow: 0 1px 0 transparent;
+}
 
 /* Lobby Play */
 .lpools>div:hover {
     background: rgba(153, 151, 146, .4);
+    color: #d64f00;
 }
 .hooks__list tr.join:hover td {
     background: rgba(153, 151, 146, .4);
@@ -150,7 +210,6 @@ group.radio label {
 .tview2 move.current {
     border: 0px solid #d64f00;
 }
-
 .rmoves i5z {
     background: transparent;
 }
@@ -175,4 +234,9 @@ group.radio label {
 }
 .user-link .line::before {
     content: '';
+}
+
+/* Puzzle */
+.puzzle__side__metas .infos::before {
+    color: #d64f00;
 }
