@@ -5,7 +5,7 @@
 @import 'https://lichess1.org/assets/_OsMK53/css/lobby.dark.min.css';
 @import 'https://lichess1.org/assets/_OsMK53/css/dasher.dark.min.css';
 @import 'https://lichess1.org/assets/_OsMK53/css/autocomplete.dark.min.css';
-@import 'https://lichess1.org/assets/_OsMK53/css/puzzle.dark.min.css';
+@import 'https://lichess1.org/assets/_9uBrpk/css/puzzle.dark.min.css';
 @import 'https://lichess1.org/assets/_OsMK53/css/user.list.dark.min.css';
 @import 'https://lichess1.org/assets/_OsMK53/css/tournament.leaderboard.dark.min.css';
 @import 'https://lichess1.org/assets/_OsMK53/css/tournament.home.dark.min.css';
@@ -16,6 +16,7 @@
 @import 'https://lichess1.org/assets/_OsMK53/css/practice.index.dark.min.css';
 @import 'https://lichess1.org/assets/_OsMK53/css/study.index.dark.min.css';
 @import 'https://lichess1.org/assets/_OsMK53/css/coach.dark.min.css';
+@import 'https://lichess1.org/assets/_ZgeMUm/css/coach.dark.min.css';
 @import 'https://lichess1.org/assets/_OsMK53/css/streamer.list.dark.min.css';
 @import 'https://lichess1.org/assets/_OsMK53/css/relay.index.dark.min.css';
 @import 'https://lichess1.org/assets/_OsMK53/css/forum.dark.min.css';
@@ -31,9 +32,32 @@
 @import 'https://lichess1.org/assets/_UkYgw8/css/perf-stat.dark.min.css';
 @import 'https://lichess1.org/assets/_Y4X1OK/css/round.dark.min.css';
 @import 'https://lichess1.org/assets/_AgISGE/css/tv.single.dark.min.css';
+@import 'https://lichess1.org/assets/_exKG4N/css/analyse.study.dark.min.css';
+@import 'https://lichess1.org/assets/_exKG4N/css/streamer.form.dark.min.css';
+@import 'https://lichess1.org/assets/_exKG4N/css/streamer.show.dark.min.css';
+@import 'https://lichess1.org/assets/_exKG4N/css/source.dark.min.css';
+@import 'https://lichess1.org/assets/_exKG4N/css/video.dark.min.css';
+@import 'https://lichess1.org/assets/_ZgeMUm/css/swiss.show.dark.min.css';
+@import 'https://lichess1.org/assets/_ZgeMUm/css/swiss.home.dark.min.css';
+@import 'https://lichess1.org/assets/_ZgeMUm/css/msg.dark.min.css';
+@import 'https://lichess1.org/assets/_MQBPpy/css/puzzle.page.dark.min.css';
+@import 'https://lichess1.org/assets/_cjv5aX/css/storm.dark.min.css';
+
+
+
+body {
+    overflow: auto;
+}
+
+#main-wrap {
+    -ms-user-select: text !important;
+    -moz-user-select: text !important;
+    -webkit-user-select: text !important;
+    user-select: text !important;
+}
+
 
 /* Lobby */
-
 .lobby__side,
 .lobby__leaderboard,
 .lobby__winners,
@@ -108,9 +132,13 @@
 .game__meta__infos::before {
     color: #d64f00;
 }
+ 
 .subnav a,
 .tv-channel>span::before {
-    color: rgba(147,146,146,0.8);
+    color: rgba(186,186,186,0.63);
+}
+.tv-channel>span>span {
+    text-align: right;
 }
 .tv-channel>span:hover,
 .tv-channel>span:hover::before {
@@ -122,6 +150,12 @@
     padding: 1.4vmin;
     box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14), 0 3px 1px -2px rgba(0,0,0,0.2), 0 1px 5px 0 rgba(0,0,0,0.12);
     margin-top: -10px;
+}
+
+/* TV - Half Time */
+#main-wrap > main > aside > div > section:nth-child(1) > div.game__meta__players > div.player.color-icon.is.white.text > i,
+#main-wrap > main > aside > div > section:nth-child(1) > div.game__meta__players > div.player.color-icon.is.black.text > i {
+    color: #d64f00;
 }
 
 /* Titel Shadows */
@@ -152,6 +186,23 @@ group.radio label {
 .crosstable__score,
 .cmn-toggle+label::after,
 .user-show .angles {
+    text-shadow: 0 1px 0 transparent;
+}
+.study__player,
+.study__player-top,
+.study__metadata h2 {
+    text-shadow: 0 1px 0 transparent;
+}
+.slist thead {
+    text-shadow: 0 1px 0 transparent;
+}
+.video .card .info, .video .card .reveal {
+    text-shadow: 0 1px 0 transparent;
+}
+.coach-show .coach-widget .overview {
+    text-shadow: 0 1px 0 transparent;
+}
+.slist thead, .swiss__controls, .swiss__player-info .stats h2 {
     text-shadow: 0 1px 0 transparent;
 }
 
@@ -239,4 +290,12 @@ group.radio label {
 /* Puzzle */
 .puzzle__side__metas .infos::before {
     color: #d64f00;
+}
+.puzzle__session a.current {
+    background: #3279B5;
+}
+
+/* Streamer */
+.streamer-show .ratings {
+    background: #54524E;
 }
