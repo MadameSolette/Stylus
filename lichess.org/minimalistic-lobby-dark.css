@@ -68,7 +68,8 @@ body {
 .lobby__support,
 .lobby__about,
 .lobby__tv,
-.lobby__puzzle {
+.lobby__puzzle,
+.bg-switch {
     display: none !important;
 }
 .button.button-metal.config_hook {
