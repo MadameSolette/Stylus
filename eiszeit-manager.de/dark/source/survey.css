@@ -3,7 +3,7 @@
     background-repeat: no-repeat !important;
     border: 1px solid var(--light-grey);
     outline: 1px solid var(--help);
-    width: 96.3%;
+    width: 91%;
 }
 .answers {
     margin-left: 17px;
@@ -13,12 +13,12 @@
     background-repeat: no-repeat !important;
     border: 1px solid var(--light-grey);
     outline: 1px solid var(--ok-100);
-    width: 96.3%;
+    width: 91%;
 }
 .hinweis-fehler2 {
     background: var(--fault);
     background-repeat: no-repeat !important;
     border: 1px solid var(--light-grey);
     outline: 1px solid var(--fault);
-    width: 96.3%;
+    width: 91%;
 }
