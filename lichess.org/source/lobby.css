@@ -80,3 +80,9 @@
 .lpools>div {
     height: 200px;
 }
+.challenge-page .details {
+    background: #393632;
+}
+.challenge-page .invite>div {
+    background: #393632;
+}
