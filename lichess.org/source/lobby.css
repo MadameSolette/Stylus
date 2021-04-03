@@ -1,4 +1,3 @@
-/* Lobby */
 .lobby__side,
 .lobby__leaderboard,
 .lobby__winners,
@@ -65,4 +64,19 @@
 #nb_games_in_play {
     display: none !important;
     margin-left: 65px;
+}
+.lpools>div:hover {
+    background: rgba(153, 151, 146, .4);
+    color: #d64f00;
+}
+.hooks__list tr.join:hover td {
+    background: rgba(153, 151, 146, .4);
+}
+.lobby__app {
+    height: 880px;
+    width: 700px;
+}
+
+.lpools>div {
+    height: 200px;
 }
