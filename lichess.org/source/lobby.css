@@ -22,7 +22,7 @@
     align-items: center;
     cursor: pointer;
     border: 1px solid #404040;
-    background: #262421 url(https://raw.githubusercontent.com/MadameSolette/Stylus/master/lichess.org/images/minimalistic-lobby-dark/friend.png);
+    background: #262421 url(https://raw.githubusercontent.com/MadameSolette/Stylus/master/lichess.org/source/images/friend.png);
     background-repeat: no-repeat;
     background-position: center;
     color: #bababa;
@@ -32,7 +32,7 @@
     margin-left: 65px;
 }
 .button.button-metal.config_friend:hover {
-    background: rgba(84,82,78,0.85) url(https://raw.githubusercontent.com/MadameSolette/Stylus/master/lichess.org/images/minimalistic-lobby-dark/friend-hover.png);
+    background: rgba(84,82,78,0.85) url(https://raw.githubusercontent.com/MadameSolette/Stylus/master/lichess.org/source/images/friend-hover.png);
     background-repeat: no-repeat;
     background-position: center;
     color: #d64f00;
@@ -43,7 +43,7 @@
     align-items: center;
     cursor: pointer;
     border: 1px solid #404040;
-    background: #262421 url(https://raw.githubusercontent.com/MadameSolette/Stylus/master/lichess.org/images/minimalistic-lobby-dark/ai.png);
+    background: #262421 url(https://raw.githubusercontent.com/MadameSolette/Stylus/master/lichess.org/source/images/ai.png);
     background-repeat: no-repeat;
     background-position: center;
     color: #bababa;
@@ -53,7 +53,7 @@
     margin-left: 65px;
 }
 .button.button-metal.config_ai:hover {
-    background: rgba(84,82,78,0.85) url(https://raw.githubusercontent.com/MadameSolette/Stylus/master/lichess.org/images/minimalistic-lobby-dark/ai-hover.png);
+    background: rgba(84,82,78,0.85) url(https://raw.githubusercontent.com/MadameSolette/Stylus/master/lichess.org/source/images/ai-hover.png);
     background-repeat: no-repeat;
     background-position: center;
     color: #d64f00;
