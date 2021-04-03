@@ -2,6 +2,7 @@
 /* https://github.com/MadameSolette/Stylus/tree/master/lichess.org */
 
 @import 'https://madamesolette.github.io/Stylus/lichess.org/source/import.css';
+@import 'https://madamesolette.github.io/Stylus/lichess.org/source/lobby.css';
 
 body {
     overflow: auto;
