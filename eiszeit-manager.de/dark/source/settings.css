@@ -6,22 +6,25 @@
     width: 15px;
     height: 15px;
 }
-#spalte-links > div:nth-child(12) > div:nth-child(1) > form > input[type=radio]:nth-child(3):after {
+#content2 > div.box-blau-big.box-col-wide > div > div:nth-child(26) > form > ul > li:nth-child(1) > input[type=radio]:after {
     content: 'Deutsch';
 }
-#spalte-links > div:nth-child(12) > div:nth-child(1) > form > input[type=radio]:nth-child(6):after {
+#content2 > div.box-blau-big.box-col-wide > div > div:nth-child(26) > form > ul > li:nth-child(2) > input[type=radio]:after {
     content: 'US';
 }
-#spalte-links > div:nth-child(12) > div:nth-child(1) > form > input[type=radio]:nth-child(9):after {
+#content2 > div.box-blau-big.box-col-wide > div > div:nth-child(26) > form > ul > li:nth-child(3) > input[type=radio]:after {
     content: 'French';
 }
-#spalte-links > div:nth-child(12) > div:nth-child(1) > form > input[type=radio]:nth-child(12):after {
+#content2 > div.box-blau-big.box-col-wide > div > div:nth-child(26) > form > ul > li:nth-child(4) > input[type=radio]:after {
     content: 'Italia';
 }
-#spalte-links > div:nth-child(12) > div:nth-child(1) > form > input[type=radio]:nth-child(3):after,
-#spalte-links > div:nth-child(12) > div:nth-child(1) > form > input[type=radio]:nth-child(6):after,
-#spalte-links > div:nth-child(12) > div:nth-child(1) > form > input[type=radio]:nth-child(9):after,
-#spalte-links > div:nth-child(12) > div:nth-child(1) > form > input[type=radio]:nth-child(12):after {
+#content2 > div.box-blau-big.box-col-wide > div > div:nth-child(26) > form > ul > li:nth-child(1) > input[type=radio]:after,
+#content2 > div.box-blau-big.box-col-wide > div > div:nth-child(26) > form > ul > li:nth-child(2) > input[type=radio]:after,
+#content2 > div.box-blau-big.box-col-wide > div > div:nth-child(26) > form > ul > li:nth-child(3) > input[type=radio]:after,
+#content2 > div.box-blau-big.box-col-wide > div > div:nth-child(26) > form > ul > li:nth-child(4) > input[type=radio]:after {
     margin-left: 18px;
     font-size: 12px;
+}
+.button-trenner2 {
+    background: none;
 }
