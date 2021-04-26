@@ -11,7 +11,7 @@
 
 # Development status:
  - Active
- - Last update: 02.02.2021
+ - Last update: 26.04.2021
 
 # Screenshots:
 <image src="https://raw.githubusercontent.com/MadameSolette/Stylus/master/lichess.org/images/minimalistic-lobby-dark.png">
