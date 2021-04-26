@@ -1,0 +1,98 @@
+/* Lobby */
+.lobby__leaderboard,
+.lobby__winners,
+.lobby__tournaments,
+.lobby__forum,
+.lobby__blog,
+.lobby__support,
+.lobby__about,
+.about-side,
+.lobby__tv,
+.lobby__puzzle,
+.lobby__simuls {
+    display: none !important;
+}
+.button.button-metal.config_hook {
+    display: none !important;
+}
+.button.button-metal.config_friend {
+    height: 200px;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    border: 1px solid #404040;
+    background: #262421 url(https://raw.githubusercontent.com/MadameSolette/Stylus/master/lichess.org/images/friend.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    color: #bababa;
+    transition: all 150ms;
+    width: 226px;
+    margin-top: -125px;
+    margin-left: 65px;
+}
+.button.button-metal.config_friend:hover {
+    background: rgba(84,82,78,0.85) url(https://raw.githubusercontent.com/MadameSolette/Stylus/master/lichess.org/images/friend-hover.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    color: #d64f00;
+}
+.button.button-metal.config_ai {
+    height: 200px;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    border: 1px solid #404040;
+    background: #262421 url(https://raw.githubusercontent.com/MadameSolette/Stylus/master/lichess.org/images/ai.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    color: #bababa;
+    transition: all 150ms;
+    width: 226px;
+    margin-top: -9px;
+    margin-left: 65px;
+}
+.button.button-metal.config_ai:hover {
+    background: rgba(84,82,78,0.85) url(https://raw.githubusercontent.com/MadameSolette/Stylus/master/lichess.org/images/ai-hover.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    color: #d64f00;
+}
+#nb_connected_players {
+    margin-top: -850px !important;
+    margin-left: 65px;
+}
+#nb_games_in_play {
+    display: none !important;
+    margin-left: 65px;
+}
+
+/* Lobby Play */
+.lpools>div:hover {
+    background: rgba(153, 151, 146, .4);
+    color: #d64f00;
+}
+.hooks__list tr.join:hover td {
+    background: rgba(153, 151, 146, .4);
+}
+.lobby__app {
+    height: 880px;
+    width: 700px;
+}
+
+.lpools>div {
+    height: 200px;
+}
+
+/* Lobby Play */
+.bg-switch {
+    margin-top: 9em;
+    margin-left: 11em;
+}
+
+/* Challenge */
+.challenge-page .details {
+    background: #393632;
+}
+.challenge-page .invite>div {
+    background: #393632;
+}
