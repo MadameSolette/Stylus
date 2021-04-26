@@ -7,7 +7,7 @@
  - Give the Style a name and save it;
 
 # CSS Codes:
-[![Minimalistic Lobby Dark](https://img.shields.io/badge/Minimalistic%20Lobby-Dark-2B2721.svg?style=popout&logoColor=007ACC&labelColor=B58863&logo=visual-studio-code)](https://raw.githubusercontent.com/MadameSolette/Stylus/master/lichess.org/minimalistic-lobby-dark.css)
+[![Minimalistic Lobby](https://img.shields.io/badge/Minimalistic%20Lobby-2B2721.svg?style=popout&logoColor=007ACC&labelColor=B58863&logo=visual-studio-code)](https://raw.githubusercontent.com/MadameSolette/Stylus/master/lichess.org/main.css)
 
 # Development status:
  - Active
