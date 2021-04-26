@@ -68,9 +68,7 @@
 
 /* Puzzle Storm */
 .highlight-alltime .storm-dashboard__high__period:first-child {
-    background: linear-gradient(
-145deg
-, rgba(255,255,255,0.3) 0%, transparent 45%) #d64f00;
+    background: linear-gradient(145deg, rgba(255,255,255,0.3) 0%, transparent 45%) #d64f00;
 }
 .puz-side__top::before {
     background-image: url(https://raw.githubusercontent.com/MadameSolette/Stylus/master/lichess.org/images/tornado.png);
