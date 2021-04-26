@@ -14,4 +14,4 @@
  - Last update: 26.04.2021
 
 # Screenshots:
-<image src="https://raw.githubusercontent.com/MadameSolette/Stylus/master/lichess.org/images/minimalistic-lobby-dark.png">
+<image src="https://raw.githubusercontent.com/MadameSolette/Stylus/master/lichess.org/images/minimalistic-lobby.png">
