@@ -5,10 +5,10 @@
 }
 
 /* Puzzle */
-.puzzle__side__metas .infos.puzzle:before {
+div.infos.puzzle::before {
     color: #3279B5;
 }
-.puzzle__side__metas .infos:before {
+div.infos::before {
     color: #d64f00;
 }
 #main-wrap > main > aside > div.puzzle__side__metas > div.infos.puzzle > div > p:nth-child(2) > strong {
