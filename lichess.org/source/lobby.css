@@ -74,12 +74,12 @@
     background: rgba(153, 151, 146, .4);
 }
 .lobby__app {
-    height: 880px;
-    width: 700px;
+    height: 830px;
+    width: 100%;
 }
 
 .lpools>div {
-    height: 200px;
+    height: 186px;
 }
 
 /* Lobby Play */
