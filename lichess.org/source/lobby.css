@@ -15,7 +15,7 @@
     display: none !important;
 }
 .button.button-metal.config_friend {
-    height: 200px;
+    height: 186px;
     justify-content: center;
     align-items: center;
     cursor: pointer;
@@ -25,9 +25,11 @@
     background-position: center;
     color: #bababa;
     transition: all 150ms;
-    width: 226px;
-    margin-top: -125px;
-    margin-left: 65px;
+    width: 205px;
+    margin-top: -129px;
+    margin-left: 0px;
+    font-size: 14px;
+    font-weight: 500;
 }
 .button.button-metal.config_friend:hover {
     background: rgba(84,82,78,0.85) url(https://raw.githubusercontent.com/MadameSolette/Stylus/master/lichess.org/images/friend-hover.png);
@@ -36,7 +38,7 @@
     color: #d64f00;
 }
 .button.button-metal.config_ai {
-    height: 200px;
+    height: 186px;
     justify-content: center;
     align-items: center;
     cursor: pointer;
@@ -46,9 +48,11 @@
     background-position: center;
     color: #bababa;
     transition: all 150ms;
-    width: 226px;
-    margin-top: -9px;
-    margin-left: 65px;
+    width: 205px;
+    margin-top: -6px;
+    margin-left: 0px;
+    font-size: 14px;
+    font-weight: 500;
 }
 .button.button-metal.config_ai:hover {
     background: rgba(84,82,78,0.85) url(https://raw.githubusercontent.com/MadameSolette/Stylus/master/lichess.org/images/ai-hover.png);
@@ -57,12 +61,12 @@
     color: #d64f00;
 }
 #nb_connected_players {
-    margin-top: -850px !important;
-    margin-left: 65px;
+    margin-top: -800px !important;
+    margin-left: 0px;
 }
 #nb_games_in_play {
     display: none !important;
-    margin-left: 65px;
+    margin-left: 0px;
 }
 
 /* Lobby Play */
@@ -85,7 +89,7 @@
 /* Lobby Play */
 .bg-switch {
     margin-top: 9em;
-    margin-left: 11em;
+    margin-left: 6em;
 }
 
 /* Challenge */
