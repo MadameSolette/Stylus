@@ -14,6 +14,9 @@
 .button.button-metal.config_hook {
     display: none !important;
 }
+.lobby__blog {
+    margin-top: -30px;
+}
 .button.button-metal.config_friend {
     height: 186px;
     justify-content: center;
@@ -70,6 +73,12 @@
 }
 
 /* Lobby Play */
+.tabs-horiz span::after {
+    display: none
+}
+.tabs-horiz {
+    border-bottom: 2px solid transparent;
+}
 .lpools>div:hover {
     background: rgba(153, 151, 146, .4);
     color: #d64f00;
