@@ -100,7 +100,7 @@
 
 /* Lobby Play */
 .tabs-horiz span::after {
-    display: none
+    display: none !important;
 }
 .tabs-horiz {
     border-bottom: 2px solid transparent;
