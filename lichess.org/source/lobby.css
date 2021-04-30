@@ -16,7 +16,57 @@
 
 /* Left Table */
 .lobby__side {
+    border-radius: 3px;
+    background: #262421;
     margin-right: -7px;
+    margin-top: 2.3em;
+}
+.lobby__streams {
+    border: 1px solid #404040;
+    border-radius: 3px;
+    background: linear-gradient(180deg, #3c3934, #33312e 100%);
+    width: 93.5%;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.lobby__streams .stream {
+    width: 94.5%;
+    margin-top: 0.7em;
+    margin-bottom: 0.7em;
+    margin-left: 5px;
+}
+.lobby__spotlights {
+    border: 1px solid #404040;
+    border-radius: 3px;
+    background: #2E2C29;
+    width: 93.5%;
+    margin-top: 11px;
+    margin-left: 10px;
+}
+.timeline {
+    border: 1px solid #404040;
+    border-radius: 3px;
+    background: #2E2C29;
+    width: 93.5%;
+    max-height: 53%;
+    margin-top: 11px;
+    margin-left: 10px !important;
+}
+.timeline .entry {
+    background: linear-gradient(180deg, #3c3934, #33312e 100%);
+}
+.timeline .entry:hover {
+    background: linear-gradient(180deg, #3c3934, #33312e 50%);
+}
+.timeline .entry::after {
+    background: transparent;
+    margin-top: 0.1em;
+    margin-bottom: 0.1em;
+}
+.entry {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 
