@@ -14,6 +14,21 @@
 .lobby__blog {
     margin-top: -30px;
 }
+
+.lobby__table {
+    background-color: #262421;
+    box-shadow: 0 2px 2px 0 rgb(0 0 0 / 14%), 0 3px 1px -2px rgb(0 0 0 / 20%), 0 1px 5px 0 rgb(0 0 0 / 12%);
+    border-radius: 3px;
+    height: 798px;
+    width: 75%;
+    margin-top: 32px;
+}
+.button.button-metal.config_hook,
+.button.button-metal.config_friend,
+.button.button-metal.config_ai,
+.lobby__counters {
+    margin-left: 9px;
+}
 .button.button-metal.config_hook {
     height: 186px;
     justify-content: center;
@@ -26,7 +41,7 @@
     color: #bababa;
     transition: all 150ms;
     width: 205px;
-    margin-top: 7.4em;
+    margin-top: 7em;
     font-size: 14px;
     font-weight: 500;
 }
@@ -88,18 +103,20 @@
     border-radius: 3px;
     background: #2E2C29;
     width: 205px;
-    margin-bottom: 43.6em;
+    margin-bottom: 43.0em;
 }
 #nb_connected_players {
     margin-top: 8em;
+    color: #999999;
 }
 #nb_games_in_play {
     margin-bottom: 3.5em;
+    color: #999999;
 }
 
 /* Lobby Play */
 .tabs-horiz span::after {
-    display: none !important;
+    display: none;
 }
 .tabs-horiz {
     border-bottom: 2px solid transparent;
@@ -123,7 +140,7 @@
 /* Lobby Play */
 .bg-switch {
     z-index: 1;
-    margin-top: 6em;
+    margin-top: 4em;
     margin-left: 5.9em;
 }
 
