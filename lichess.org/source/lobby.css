@@ -201,7 +201,7 @@
     margin-right: -7px;
 }
 .connect-links {
-    display: none;
+    display: unset;
 }
 .lobby__about a {
     margin-right: 0.6em;
