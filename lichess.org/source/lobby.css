@@ -11,9 +11,6 @@
 .lobby__simuls {
     display: none !important;
 }
-.button.button-metal.config_hook {
-    display: none !important;
-}
 .lobby__blog {
     margin-top: -30px;
 }
