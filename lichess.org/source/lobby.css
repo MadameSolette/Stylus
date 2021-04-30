@@ -3,7 +3,7 @@
 .lobby__winners,
 .lobby__tournaments,
 .lobby__forum,
-.lobby__support,
+#main-wrap > main > div.lobby__support > a:nth-child(2),
 .lobby__about,
 .about-side,
 .lobby__tv,
