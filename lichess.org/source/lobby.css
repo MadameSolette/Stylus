@@ -26,8 +26,7 @@
     color: #bababa;
     transition: all 150ms;
     width: 205px;
-    margin-top: -50px;
-    margin-left: 0px;
+    margin-top: 7.4em;
     font-size: 14px;
     font-weight: 500;
 }
@@ -49,8 +48,7 @@
     color: #bababa;
     transition: all 150ms;
     width: 205px;
-    margin-top: 0px;
-    margin-left: 0px;
+    margin-top: -5px;
     font-size: 14px;
     font-weight: 500;
 }
@@ -72,8 +70,7 @@
     color: #bababa;
     transition: all 150ms;
     width: 205px;
-    margin-top: 0px;
-    margin-left: 0px;
+    margin-top: -5px;
     font-size: 14px;
     font-weight: 500;
 }
@@ -83,11 +80,22 @@
     background-position: center;
     color: #d64f00;
 }
+.lobby__counters {
+    height: 186px;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #404040;
+    border-radius: 3px;
+    background: #262421;
+    width: 205px;
+    margin-bottom: 43.6em;
+}
 #nb_connected_players {
-    margin-left: 0px;
+    margin-top: 8em;
 }
 #nb_games_in_play {
-    margin-left: 0px;
+    margin-bottom: 3.5em;
+}  margin-left: 0px;
 }
 
 /* Lobby Play */
@@ -115,8 +123,9 @@
 
 /* Lobby Play */
 .bg-switch {
-    margin-top: 4em;
-    margin-left: 0.5em;
+    z-index: 1;
+    margin-top: 6em;
+    margin-left: 5.9em;
 }
 
 /* Challenge */
