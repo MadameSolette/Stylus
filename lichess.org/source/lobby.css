@@ -61,11 +61,9 @@
     color: #d64f00;
 }
 #nb_connected_players {
-    margin-top: -800px !important;
     margin-left: 0px;
 }
 #nb_games_in_play {
-    display: none !important;
     margin-left: 0px;
 }
 
