@@ -200,10 +200,12 @@
     margin-top: -30px;
     margin-right: -7px;
 }
-.connect-links {
-    display: unset;
-}
 .lobby__about a {
     margin-right: 0.6em;
     margin-left: 0.6em;
+}
+.connect-links {
+    display: flex;
+    justify-content: center;
+    align-content: center;
 }
