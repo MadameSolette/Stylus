@@ -14,6 +14,29 @@
 .lobby__blog {
     margin-top: -30px;
 }
+.button.button-metal.config_hook {
+    height: 186px;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    border: 1px solid #404040;
+    background: #262421 url(https://raw.githubusercontent.com/MadameSolette/Stylus/master/lichess.org/images/hook.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    color: #bababa;
+    transition: all 150ms;
+    width: 205px;
+    margin-top: -115px;
+    margin-left: 0px;
+    font-size: 14px;
+    font-weight: 500;
+}
+.button.button-metal.config_hook:hover {
+    background: rgba(84,82,78,0.85) url(https://raw.githubusercontent.com/MadameSolette/Stylus/master/lichess.org/images/hook-hover.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    color: #d64f00;
+}
 .button.button-metal.config_friend {
     height: 186px;
     justify-content: center;
@@ -26,7 +49,7 @@
     color: #bababa;
     transition: all 150ms;
     width: 205px;
-    margin-top: -129px;
+    margin-top: 0px;
     margin-left: 0px;
     font-size: 14px;
     font-weight: 500;
@@ -49,7 +72,7 @@
     color: #bababa;
     transition: all 150ms;
     width: 205px;
-    margin-top: -6px;
+    margin-top: 0px;
     margin-left: 0px;
     font-size: 14px;
     font-weight: 500;
