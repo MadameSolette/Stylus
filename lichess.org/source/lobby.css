@@ -20,7 +20,7 @@
     align-items: center;
     cursor: pointer;
     border: 1px solid #404040;
-    background: #262421 url(https://raw.githubusercontent.com/MadameSolette/Stylus/master/lichess.org/images/hook.png);
+    background: #2E2C29 url(https://raw.githubusercontent.com/MadameSolette/Stylus/master/lichess.org/images/hook.png);
     background-repeat: no-repeat;
     background-position: center;
     color: #bababa;
@@ -42,7 +42,7 @@
     align-items: center;
     cursor: pointer;
     border: 1px solid #404040;
-    background: #262421 url(https://raw.githubusercontent.com/MadameSolette/Stylus/master/lichess.org/images/friend.png);
+    background: #2E2C29 url(https://raw.githubusercontent.com/MadameSolette/Stylus/master/lichess.org/images/friend.png);
     background-repeat: no-repeat;
     background-position: center;
     color: #bababa;
@@ -64,7 +64,7 @@
     align-items: center;
     cursor: pointer;
     border: 1px solid #404040;
-    background: #262421 url(https://raw.githubusercontent.com/MadameSolette/Stylus/master/lichess.org/images/ai.png);
+    background: #2E2C29 url(https://raw.githubusercontent.com/MadameSolette/Stylus/master/lichess.org/images/ai.png);
     background-repeat: no-repeat;
     background-position: center;
     color: #bababa;
@@ -86,7 +86,7 @@
     align-items: center;
     border: 1px solid #404040;
     border-radius: 3px;
-    background: #262421;
+    background: #2E2C29;
     width: 205px;
     margin-bottom: 43.6em;
 }
