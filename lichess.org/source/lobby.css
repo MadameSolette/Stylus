@@ -212,6 +212,7 @@
 
 
 /* Support */
+/* Donate */
 .lobby__support {
     width: 225px;
     margin-top: -30px;
@@ -236,6 +237,29 @@
 }
 #main-wrap > main > div.lobby__support > a:nth-child(1) > span > span {
     display: none;
+}
+
+/* Store */
+#main-wrap > main > div.lobby__support > a:nth-child(2) {
+    margin-top: -5px;
+    height: 75px;
+}
+#main-wrap > main > div.lobby__support > a:nth-child(2) > i:before,
+#main-wrap > main > div.lobby__support > a:nth-child(2) > span > strong {
+    color: #bf811d;    
+}
+#main-wrap > main > div.lobby__support > a:nth-child(2) > span > span {
+    display: none;
+}
+#main-wrap > main > div.lobby__support > a:nth-child(2) > i {
+    margin-left: 25px;
+}
+#main-wrap > main > div.lobby__support > a:nth-child(2):hover {
+    background: #bf811d;
+}
+#main-wrap > main > div.lobby__support > a:nth-child(2):hover .lobby__support__text strong,
+#main-wrap > main > div.lobby__support > a:nth-child(2):hover i::before {
+    color: #262421;
 }
 
 
