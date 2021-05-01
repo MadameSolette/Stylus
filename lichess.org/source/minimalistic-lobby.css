@@ -153,6 +153,9 @@ group.radio label:hover {
     margin-left: 10px !important;
 }
 .timeline .entry {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     background: linear-gradient(180deg, #3c3934, #33312e 100%);
 }
 .timeline .entry:hover {
@@ -467,10 +470,10 @@ group.radio label:hover {
 
 /* Puzzle */
 .puzzle__side__metas .infos.puzzle::before {
-    color: #3279B5 !important;
+    color: #AAAAAA;
 }
 .puzzle__side__metas .infos::before {
-    color: #d64f00 !important;
+    color: #d64f00;
 }
 .puzzle__side__user__rating strong {
     color: #629924;
