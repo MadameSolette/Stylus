@@ -462,12 +462,6 @@ group.radio label:hover {
 /*            PUZZLES            */
 /*                               */
 /*********************************/
-/* Puzzle Dashboard */
-.puzzle-dashboard__metric span,
-.puzzle-dashboard__global .puzzle-dashboard__metric span {
-    color: rgba(255,255,255,1) !important;
-}
-
 /* Puzzle */
 .puzzle__side__metas .infos.puzzle::before {
     color: #AAAAAA;
