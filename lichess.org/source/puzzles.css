@@ -1,0 +1,78 @@
+/* Puzzle Dashboard */
+.puzzle-dashboard__metric span,
+.puzzle-dashboard__global .puzzle-dashboard__metric span {
+    color: rgba(255,255,255,1) !important;
+}
+
+/* Puzzle */
+.puzzle__side__metas .infos.puzzle::before {
+    color: #3279B5 !important;
+}
+.puzzle__side__metas .infos::before {
+    color: #d64f00 !important;
+}
+.puzzle__side__user__rating strong {
+    color: #629924;
+}
+.puzzle__session a.current {
+    background: #3279B5;
+}
+
+/* Puzzle Streak */
+.puzzle__side__streak__info h1,
+.game-over {
+    color: #d64f00;
+}
+.puzzle__side__streak__score {
+    color: #629924;
+}
+
+/* Puzzle Racer */
+.racer .puz-side__top::before {
+    background-image: url(https://raw.githubusercontent.com/MadameSolette/Stylus/master/lichess.org/images/checkered-flag.png);
+    background-repeat: no-repeat;
+}
+.puz-side__solved__text {
+    color: #d64f00;
+}
+.puz-combo__bar__in {
+    background: #d64f00;
+    box-shadow: 0 0 15px #d64f00;
+}
+#main-wrap > main > div > div.puz-side > div.racer__post > h2 {
+    display: none;
+}
+.race__post__rank {
+    color: #629924;
+    font-size: 20px;
+}
+.racer .button-navaway, .racer .puz-side__join .button {
+    margin-top: 5em;
+}
+.racer__race__track--me .racer__race__player .user-link,
+.racer__race__track--me .racer__race__player anonymous,
+.racer__race__track--first .racer__race__score {
+    color: #d64f00;
+}
+.racer__race__track--me .racer__race__player .user-link:hover {
+    color: #3692e7;
+}
+.racer__race::before {
+    background-image: url(https://raw.githubusercontent.com/MadameSolette/Stylus/master/lichess.org/images/road1.png);
+    background-position-y: 6px;
+}
+.puz-side__start,
+.racer__pre__message__pov {
+    color: #d64f00;
+}
+
+/* Puzzle Storm */
+.highlight-alltime .storm-dashboard__high__period:first-child {
+    background: linear-gradient(145deg, rgba(255,255,255,0.3) 0%, transparent 45%) #d64f00;
+}
+.puz-side__top::before {
+    background-image: url(https://raw.githubusercontent.com/MadameSolette/Stylus/master/lichess.org/images/tornado.png);
+}
+.puz-clock__pov {
+    color: #d64f00;
+}
