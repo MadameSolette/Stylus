@@ -1,0 +1,8 @@
+.event .countdown .days,
+.event .countdown .hours,
+.event .countdown .minutes,
+.event .countdown .seconds,
+.event .headline
+ {
+    color: #d64f00;
+}
