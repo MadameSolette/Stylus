@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           Lichess.org - Light - Minimalistic Lobby
 @namespace      https://github.com/MadameSolette/Stylus/tree/master/lichess.org
-@version        1.0.0
+@version        1.0.1
 @description    Light - Minimalistic Lobby
 @author         BrainAFK
 @homepageURL    https://github.com/MadameSolette/Stylus/tree/master/lichess.org
@@ -14,13 +14,13 @@
     /*                               */
     /*         LAST UPDATE:          */
     /*                               */
-    /*      01/05/2021 - 22:10       */
+    /*      02/05/2021 - 14:15       */
     /*                               */
     /*-------------------------------*/
     /*                               */
     /*           VERSION:            */
     /*                               */
-    /*            1.0.0              */
+    /*            1.0.1              */
     /*                               */
     /*********************************/
 
@@ -127,6 +127,7 @@
         flex-direction: column;
         align-items: center;
         background: linear-gradient(180deg, rgba(218, 233, 247, .2), rgba(208, 224, 237, .4) 100%);
+        transition: all 150ms;
     }
 
     .timeline .entry:hover {
@@ -187,10 +188,10 @@
     }
 
     .button.button-metal.config_hook:hover {
-        background: rgba(153, 151, 146, .4) url(https://raw.githubusercontent.com/MadameSolette/Stylus/master/lichess.org/images/hook-hover.png);
+        background: rgba(221, 235, 248, .8) url(https://raw.githubusercontent.com/MadameSolette/Stylus/master/lichess.org/images/hook-hover.png);
         background-repeat: no-repeat;
         background-position: center;
-        color: #d64f00;
+        color: #4d4d4d;
         text-shadow: 0 0px 0 #fff;
     }
 
@@ -213,10 +214,10 @@
     }
 
     .button.button-metal.config_friend:hover {
-        background: rgba(153, 151, 146, .4) url(https://raw.githubusercontent.com/MadameSolette/Stylus/master/lichess.org/images/friend-hover.png);
+        background: rgba(221, 235, 248, .8) url(https://raw.githubusercontent.com/MadameSolette/Stylus/master/lichess.org/images/friend-hover.png);
         background-repeat: no-repeat;
         background-position: center;
-        color: #d64f00;
+        color: #4d4d4d;
         text-shadow: 0 0px 0 #fff;
     }
 
@@ -239,10 +240,10 @@
     }
 
     .button.button-metal.config_ai:hover {
-        background: rgba(153, 151, 146, .4) url(https://raw.githubusercontent.com/MadameSolette/Stylus/master/lichess.org/images/ai-light-hover.png);
+        background: rgba(221, 235, 248, .8) url(https://raw.githubusercontent.com/MadameSolette/Stylus/master/lichess.org/images/ai-light-hover.png);
         background-repeat: no-repeat;
         background-position: center;
-        color: #d64f00;
+        color: #4d4d4d;
         text-shadow: 0 0px 0 #fff;
     }
 
@@ -276,8 +277,8 @@
     }
 
     .lpools>div:hover {
-        background: rgba(153, 151, 146, .4);
-        color: #d64f00;
+        background: rgba(221, 235, 248, .8);
+        color: #4d4d4d;
     }
 
     .hooks__list tr.join:hover td {
