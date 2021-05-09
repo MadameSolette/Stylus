@@ -315,7 +315,7 @@
     }
 
     .lobby__support a:hover {
-        background: #629924;
+        background: #629924 !important;
     }
 
     .lobby__support a:hover .lobby__support__text,
