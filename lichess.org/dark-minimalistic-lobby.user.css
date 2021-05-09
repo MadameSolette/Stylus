@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           Lichess.org - Dark - Minimalistic Lobby
 @namespace      https://github.com/MadameSolette/Stylus/tree/master/lichess.org
-@version        1.1.0
+@version        1.1.1
 @description    Dark - Minimalistic Lobby
 @author         BrainAFK
 @homepageURL    https://github.com/MadameSolette/Stylus/tree/master/lichess.org
@@ -14,13 +14,13 @@
     /*                               */
     /*         LAST UPDATE:          */
     /*                               */
-    /*      02/05/2021 - 17:20       */
+    /*      09/05/2021 - 09:50       */
     /*                               */
     /*-------------------------------*/
     /*                               */
     /*           VERSION:            */
     /*                               */
-    /*            1.1.0              */
+    /*            1.1.1              */
     /*                               */
     /*********************************/
 
@@ -288,16 +288,6 @@
 
     .lpools>div {
         height: 186px;
-    }
-
-
-    /* Challenge */
-    .challenge-page .details {
-        background: #393632;
-    }
-
-    .challenge-page .invite>div {
-        background: #393632;
     }
 
 
