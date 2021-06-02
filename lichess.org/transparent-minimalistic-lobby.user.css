@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           Lichess.org - Transparent - Minimalistic Lobby
 @namespace      https://github.com/MadameSolette/Stylus/tree/master/lichess.org
-@version        1.0.5
+@version        1.0.6
 @description    Transparent - Minimalistic Lobby
 @author         BrainAFK
 @homepageURL    https://github.com/MadameSolette/Stylus/tree/master/lichess.org
@@ -14,13 +14,13 @@
     /*                               */
     /*         LAST UPDATE:          */
     /*                               */
-    /*      09/05/2021 - 10:50       */
+    /*      02/06/2021 - 06:45       */
     /*                               */
     /*-------------------------------*/
     /*                               */
     /*           VERSION:            */
     /*                               */
-    /*            1.0.5              */
+    /*            1.0.6              */
     /*                               */
     /*********************************/
 
@@ -651,5 +651,30 @@
     .rclock .tour-rank {
         opacity: 1;
         color: #1b78d0;
+    }
+
+
+
+
+
+    /*********************************/
+    /*                               */
+    /*             TEAM              */
+    /*                               */
+    /*********************************/
+    /* Chat */
+    .mchat__messages line.patron {
+        color: #629924;
+    }
+    .mchat__messages i {
+        color: #BA3030;
+    }
+    .mchat__tab input:checked {
+        background: #8C8C8C;
+        border-color: #AAAAAA;
+    }
+    .mchat__tab input {
+        background: #5E5E5E;
+        border-color: #717171;
     }
 }
